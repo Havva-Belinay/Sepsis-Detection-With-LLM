@@ -1,0 +1,102 @@
+[
+    {
+        "admission_no": "7573990",
+        "possible_infection_focus": "Unknown, but elevated procalcitonin and WBC suggest possible respiratory or urinary tract infection.",
+        "possible_preliminary_diagnosis": "Inflammatory response to an unknown source of infection",
+        "sepsis_or_septic_shock_risk": "High; patient has a lactate level >2.5 mmol/L, elevated procalcitonin and WBC, and altered mental status (GCS 15 but with chief complaint indicating possible confusion).",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics covering gram-positive cocci, gram-negative bacilli, and anaerobes.",
+        "hospitalization_requirement": "Yes; patient requires close monitoring of vital signs and laboratory values to assess response to treatment and clinical stability.",
+        "icu_requirement": "No; although the patient has elevated lactate and procalcitonin levels, there is no evidence of organ dysfunction or hypotension necessitating ICU care at this time.",
+        "clinical_risk_assessment": "Patient is at high risk for progression to sepsis due to elevated biomarkers and altered mental status. Continuous monitoring and prompt intervention are necessary."
+    },
+    {
+        "admission_no": "7574288",
+        "possible_infection_focus": "Respiratory tract",
+        "possible_preliminary_diagnosis": "Community-acquired pneumonia or upper respiratory infection",
+        "sepsis_or_septic_shock_risk": "Low, no evidence of organ dysfunction (GCS 15, normal blood pressure, adequate urine output)",
+        "recommended_empiric_antibiotic": "None recommended at this time; consider empirical antibiotics if a clear source of infection is identified and there is clinical deterioration",
+        "hospitalization_requirement": "No, patient does not meet criteria for hospital admission based on current data (no organ dysfunction or signs of severe illness)",
+        "icu_requirement": "No, no evidence of sepsis or septic shock; stable vital signs and normal mental status",
+        "clinical_risk_assessment": "Low risk of mortality or clinical deterioration with close outpatient follow-up recommended"
+    },
+    {
+        "admission_no": "7575901",
+        "possible_infection_focus": "Respiratory or Urinary Tract Infection",
+        "possible_preliminary_diagnosis": "Infectious Process with Elevated CRP and Lactate",
+        "sepsis_or_septic_shock_risk": "Low - No evidence of organ dysfunction (GCS 15, normal blood pressure, creatinine within normal limits)",
+        "recommended_empiric_antibiotic": "Empiric antibiotics are not recommended at this time due to low sepsis risk",
+        "hospitalization_requirement": "No - Patient does not meet criteria for hospitalization based on current data and lack of organ dysfunction",
+        "icu_requirement": "No - No evidence of severe illness or organ failure requiring ICU level care",
+        "clinical_risk_assessment": "Low overall mortality risk; patient requires close monitoring but no immediate intervention"
+    },
+    {
+        "admission_no": "7576684",
+        "possible_infection_focus": "Unspecified, but elevated procalcitonin and WBC suggest a systemic infection",
+        "possible_preliminary_diagnosis": "Systemic Inflammatory Response Syndrome (SIRS) due to suspected infection",
+        "sepsis_or_septic_shock_risk": "Moderate - Elevated lactate and procalcitonin indicate potential sepsis, but no organ dysfunction criteria met for high risk",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics (e.g., piperacillin-tazobactam) pending culture results",
+        "hospitalization_requirement": "Yes - Patient requires monitoring and further diagnostic workup to rule out sepsis",
+        "icu_requirement": "No - Vital signs stable, no evidence of organ dysfunction or shock",
+        "clinical_risk_assessment": "Moderate risk for clinical deterioration; close monitoring is necessary"
+    },
+    {
+        "admission_no": "7577755",
+        "possible_infection_focus": "Urinary tract infection (UTI) based on chief complaint of bladder pain and unverified triage entry of acute cystitis",
+        "possible_preliminary_diagnosis": "Acute uncomplicated urinary tract infection (UTI)",
+        "sepsis_or_septic_shock_risk": "Low - No evidence of organ dysfunction or hypotension, normal GCS score, no elevated lactate level, and creatinine within normal limits",
+        "recommended_empiric_antibiotic": "Nitrofurantoin or trimethoprim-sulfamethoxazole for uncomplicated UTI",
+        "hospitalization_requirement": "No - Patient does not meet criteria for hospital admission based on lack of severe symptoms, organ dysfunction, or sepsis indicators",
+        "icu_requirement": "No - No evidence of critical illness requiring ICU level care",
+        "clinical_risk_assessment": "Low risk of mortality and clinical deterioration; patient can be managed as an outpatient with close follow-up"
+    },
+    {
+        "admission_no": "7579405",
+        "possible_infection_focus": "Gastrointestinal source (vomiting and diarrhea)",
+        "possible_preliminary_diagnosis": "Viral gastroenteritis or acute gastritis",
+        "sepsis_or_septic_shock_risk": "Low, no evidence of organ dysfunction or qSOFA criteria met",
+        "recommended_empiric_antibiotic": "No antibiotics recommended at this time",
+        "hospitalization_requirement": "No, patient does not meet criteria for hospital admission based on current data",
+        "icu_requirement": "No, patient's vital signs and laboratory results are stable without evidence of severe illness or organ dysfunction",
+        "clinical_risk_assessment": "Low risk of mortality or clinical deterioration; close outpatient follow-up is recommended"
+    },
+    {
+        "admission_no": "7579548",
+        "possible_infection_focus": "Cardiovascular (history of stents, chest pain)",
+        "possible_preliminary_diagnosis": "Acute Coronary Syndrome or Myocardial Infarction",
+        "sepsis_or_septic_shock_risk": "Low - No evidence of organ dysfunction based on SOFA score criteria.",
+        "recommended_empiric_antibiotic": "None recommended as no clear infection source identified.",
+        "hospitalization_requirement": "Yes - Chest pain and history of stents warrant further cardiac evaluation.",
+        "icu_requirement": "No - Vital signs stable, no organ dysfunction or sepsis criteria met.",
+        "clinical_risk_assessment": "Low risk for immediate mortality but high clinical suspicion for cardiovascular event requiring monitoring."
+    },
+    {
+        "admission_no": "7579563",
+        "possible_infection_focus": "Renal or Urinary Tract Infection",
+        "possible_preliminary_diagnosis": "Acute Kidney Injury with Elevated CRP and Lactate",
+        "sepsis_or_septic_shock_risk": "Moderate - Elevated lactate, elevated creatinine indicating renal dysfunction, but no clear evidence of hypotension or altered mental status.",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics (e.g., piperacillin-tazobactam) to cover likely urosepsis",
+        "hospitalization_requirement": "Yes - Elevated creatinine and lactate levels indicate potential organ dysfunction requiring close monitoring and management.",
+        "icu_requirement": "No - No evidence of hypotension or severe mental status changes, but hospital admission is necessary for further evaluation and treatment.",
+        "clinical_risk_assessment": "The patient has a moderate risk of clinical deterioration due to elevated biomarkers suggesting possible infection and organ dysfunction."
+    },
+    {
+        "admission_no": "7579738",
+        "possible_infection_focus": "Genitourinary tract",
+        "possible_preliminary_diagnosis": "Urinary Tract Infection (UTI)",
+        "sepsis_or_septic_shock_risk": "Low, no evidence of organ dysfunction or hypotension.",
+        "recommended_empiric_antibiotic": "Fluoroquinolone",
+        "hospitalization_requirement": "No, patient does not meet criteria for hospitalization based on current data.",
+        "icu_requirement": "No, patient's condition is stable and does not require ICU level care.",
+        "clinical_risk_assessment": "Low risk of mortality or clinical deterioration with appropriate outpatient follow-up."
+    },
+    {
+        "admission_no": "7582259",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Acute Respiratory Distress Syndrome (ARDS) or Pneumonia",
+        "sepsis_or_septic_shock_risk": "Low, no evidence of organ dysfunction based on SOFA score criteria.",
+        "recommended_empiric_antibiotic": "None recommended at this time due to low suspicion of infection and lack of sepsis criteria.",
+        "hospitalization_requirement": "No, patient does not meet criteria for hospitalization as there is no clear indication of severe illness or organ dysfunction.",
+        "icu_requirement": "No, patient's vital signs and laboratory results do not indicate the need for ICU level care.",
+        "clinical_risk_assessment": "Patient has elevated respiratory rate and tachycardia but normal GCS score, blood pressure within acceptable range, and no evidence of organ dysfunction. Risk of clinical deterioration is low."
+    }
+]

@@ -1,0 +1,1192 @@
+[
+    {
+        "admission_no": "7573990",
+        "clinical_data": {
+            "age": 68.0,
+            "temperature": 37.0,
+            "pulse": 113.0,
+            "systolic_bp": 110.0,
+            "diastolic_bp": 66.0,
+            "respiratory_rate": 16.0,
+            "spo2": 91.0,
+            "gcs": 15.0,
+            "wbc": 9.67,
+            "neutrophil": 9.22,
+            "platelets": 97.0,
+            "creatinine": 0.17,
+            "lactate": 5.82,
+            "procalcitonin": 6.17,
+            "crp": 98.4,
+            "diabetes": "DİYABET",
+            "heart_failure": "Unknown",
+            "renal_failure": "Unknown",
+            "cancer": "Unknown",
+            "copd": "Unknown"
+        },
+        "clinical_flags": {
+            "qsofa_rr_ge_22": false,
+            "qsofa_sbp_le_100": false,
+            "qsofa_altered_mentation": false,
+            "lactate_gt_2": true,
+            "creatinine_ge_1_2": false,
+            "platelets_lt_150": true,
+            "spo2_lt_92": true
+        },
+        "patient_context_sent_to_llm": "\n==============================\nPATIENT DATA\n==============================\n\nDemographics:\nAge: 68.0\n\nClinical information:\nChief Complaint:\nGENEL DURUM BOZUKLUĞU . TA:111/66 . NABIZ:113 SO2:91 . SS:16 . ATEŞ:37,0 . EH: KC CA , Hypertension,Diabetes Mellitus . Kİ:PANTOPROPOZOL ,DİAMORFİN . İA:- . OP:-\n\nDoctor's Clinical Note:\nSAYIN MESLEKTAŞIM.ORAL CANDİDASİS ŞİKAYETİ OLAN VE AFR YÜKSEKLİĞİ OLAN HASTA HASTA TARAFINIZCA DEĞERLENDİRİLMESİ RİCA OLUNUR. SAYGILARIMLA\n\n==============================\nVITAL SIGNS\n==============================\n\nTemperature: 37.0 °C\nPulse: 113.0 /min\nBlood Pressure: 110.0/66.0 mmHg\nRespiratory Rate: 16.0 /min\nSpO2: 91.0 %\nGCS: 15.0\n\n==============================\nLABORATORY RESULTS\n==============================\n\nWBC: 9.67 x10^3/uL\nNeutrophils: 9.22 x10^3/uL\nPlatelets: 97.0 x10^3/uL\nCreatinine: 0.17 mg/dL\nLactate: 5.82 mmol/L\nProcalcitonin: 6.17 ng/mL\nCRP: 98.4 mg/L\n\n==============================\nMEDICAL HISTORY\n==============================\n\nDiabetes: DİYABET\nHeart Failure: Unknown\nRenal Failure: Unknown\nCancer: Unknown\nCOPD: Unknown\n\n==============================\nOBJECTIVE CLINICAL FLAGS\n==============================\n\nIMPORTANT:\nThese flags are NOT diagnoses.\nThey are only deterministic observations calculated\nfrom the raw patient data.\n\nqSOFA respiratory rate >=22:\nABSENT\n\nqSOFA systolic BP <=100:\nABSENT\n\nqSOFA altered mentation (GCS <15):\nABSENT\n\nLactate >2 mmol/L:\nPRESENT\n\nCreatinine >=1.2 mg/dL:\nABSENT\n\nPlatelets <150 x10^3/uL:\nPRESENT\n\nSpO2 <92%:\nPRESENT\n",
+        "retrieved_guideline_chunks": [
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 5,
+                "content": "earlier identification and an accurate quantification of the burden of sepsis.\nResults/Recommendations\nDefinition of Sepsis\nSepsis is defined as life-threatening organ dysfunction caused by a dysregulated host \nresponse to infection (Box 3). This new definition emphasizes the primacy of the \nSinger et al. Page 6\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 18,
+                "content": "Box 2. Key Concepts of Sepsis\n• Sepsis is the primary cause of death from infection, especially if not \nrecognized and treated promptly. Its recognition mandates urgent attention.\n• Sepsis is a syndrome shaped by pathogen factors and host factors (eg, sex, \nrace and other genetic determinants, age, comorbidities, environment) with \ncharacteristics that evolve over time. What differentiates sepsis from infection \nis an aberrant or dysregulated host response and the presence of organ \ndysfunction.\n• Sepsis-induced organ dysfunction may be occult; therefore, its presence \nshould be considered in any patient presenting with infection. Conversely,"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 23,
+                "content": "Author Manuscript Author Manuscript Author Manuscript Author Manuscript\nSinger et al. Page 24\nTable 2\nTerminology and International Classification of Diseases Coding\nCurrent Guidelines\nand Terminology Sepsis Septic Shock\n1991 and 2001\nconsensus\nterminology9,10\nSevere sepsis\nSepsis-induced\nhypoperfusion\nSeptic shock13\n2015 Definition Sepsis is\nlife-threatening organ\ndysfunction caused by a\ndysregulated host\nresponse to infection\nSeptic shock is a subset of\nsepsis in which underlying\ncirculatory and\ncellular/metabolic\nabnormalities are profound\nenough to substantially\nincrease mortality\n2015 Clinical\ncriteria\nSuspected or\ndocumented infection\nand\nan acute increase of ≥2\nSOFA points (a proxy"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 19,
+                "content": "Box 3. New Terms and Definitions\n• Sepsis is defined as life-threatening organ dysfunction caused by a \ndysregulated host response to infection.\n• Organ dysfunction can be identified as an acute change in total SOFA score \n≥2 points consequent to the infection.\n– The baseline SOFA score can be assumed to be zero in patients not \nknown to have preexisting organ dysfunction.\n– ASOFA score ≥2 reflects an overall mortality risk of approximately \n10% in a general hospital population with suspected infection. Even \npatients presenting with modest dysfunction can deteriorate further, \nemphasizing the seriousness of this condition and the need for"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 18,
+                "content": "should be considered in any patient presenting with infection. Conversely, \nunrecognized infection may be the cause of new-onset organ dysfunction. \nAny unexplained organ dysfunction should thus raise the possibility of \nunderlying infection.\n• The clinical and biological phenotype of sepsis can be modified by \npreexisting acute illness, long-standing comorbidities, medication, and \ninterventions.\n• Specific infections may result in local organ dysfunction without generating a \ndysregulated systemic host response.\nSinger et al. Page 19\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 15,
+                "content": "Respir Crit Care Med. 2015; 192 (8) 958–964. [PubMed: 26158402] \n26. Kaukonen K-M, Bailey M, Pilcher D, Cooper DJ, Bellomo R. Systemic inflammatory response \nsyndrome criteria in defining severe sepsis. N Engl J Med. 2015; 372 (17) 1629–1638. [PubMed: \n25776936] \n27. Vincent JL, Moreno R, Takala J, et al. Working Group on Sepsis-Related Problems of the European \nSociety of Intensive Care Medicine. The SOFA (Sepsis-related Organ Failure Assessment) score \nto describe organ dysfunction/failure. Intensive Care Med. 1996; 22 (7) 707–710. [PubMed: \n8844239] \n28. Vincent JL, de Mendonça A, Cantraine F, et al. Working Group on \"Sepsis-Related Problems” of"
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 3,
+                "content": "definitions of sepsis and septic shock to be consistent with improved understanding of \nthe pathobiology. A definition is the description of an illness concept; thus, a definition \nof sepsis should describe what sepsis “is.” This chosen approach allowed discussion of \nbiological concepts that are currently incompletely understood, such as genetic influences \nand cellular abnormalities. The sepsis illness concept is predicated on infection as its trigger, \nacknowledging the current challenges in the microbiological identification of infection. It \nwas not, however, within the task force brief to examine definitions of infection."
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 12,
+                "content": "is crucial in ensuring clear communication and a more accurate appreciation of the scale \nof the problem of sepsis. An added challenge is that infection is seldom confirmed \nmicrobiologically when treatment is started; even when microbiological tests are completed, \nculture-positive “sepsis” is observed in only 30% to 40% of cases. Thus, when sepsis \nepidemiology is assessed and reported, operationalization will necessarily involve proxies \nsuch as antibiotic commencement or a clinically determined probability of infection. Future \nepidemiology studies should consider reporting the proportion of microbiology-positive \nsepsis."
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 19,
+                "content": "or respiratory rate ≥22/min.\n• Septic shock is a subset of sepsis in which underlying circulatory and cellular/\nmetabolic abnormalities are profound enough to substantially increase \nmortality.\n• Patients with septic shock can be identified with a clinical construct of sepsis \nwith persisting hypotension requiring vasopressors to maintain MAP ≥65 mm \nHg and having a serum lactate level >2 mmol/L (18mg/dL) despite adequate \nvolume resuscitation. With these criteria, hospital mortality is in excess of \n40%.\nAbbreviations: MAP, mean arterial pressure; qSOFA, quick SOFA; SOFA: Sequential \n[Sepsis-related] Organ Failure Assessment.\nSinger et al. Page 20"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 2,
+                "content": "Septic shock should be defined as a subset of sepsis in which particularly profound circulatory, \ncellular, and metabolic abnormalities are associated with a greater risk of mortality than with \nsepsis alone. Patients with septic shock can be clinically identified by a vasopressor requirement \nto maintain a mean arterial pressure of 65 mm Hg or greater and serum lactate level greater than 2 \nmmol/L (>18 mg/dL) in the absence of hypovolemia. This combination is associated with hospital \nmortality rates greater than 40%. In out-of-hospital, emergency department, or general hospital \nward settings, adult patients with suspected infection can be rapidly identified as being more likely"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 8,
+                "content": "Definition of Septic Shock\nSeptic shock is defined as a subset of sepsis in which underlying circulatory and cellular \nmetabolism abnormalities are profound enough to substantially increase mortality (Box 3). \nThe 2001 task force definitions described septic shock as “a state of acute circulatory \nfailure.”10 The task force favored a broader view to differentiate septic shock from \ncardiovascular dysfunction alone and to recognize the importance of cellular abnormalities \n(Box 3). There was unanimous agreement that septic shock should reflect a more severe \nillness with a much higher likelihood of death than sepsis alone.\nClinical Criteria to Identify Septic Shock"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 20,
+                "content": "Box 4. qSOFA (Quick SOFA) Criteria\nRespiratory rate ≥22/min\nAltered mentation\nSystolic blood pressure ≤100 mm Hg\nSinger et al. Page 21\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "systolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater, \nprovides simple bedside criteria to identify adult patients with suspected infection who are \nlikely to have poor outcomes (Box 4). Because predictive validity was unchanged (P = \n.55), the task force chose to emphasize altered mentation because it represents any Glasgow \nComa Scale score less than 15 and will reduce the measurement burden. Although qSOFA is \nless robust than a SOFA score of 2 or greater in the ICU, it does not require laboratory tests \nand can be assessed quickly and repeatedly. The task force suggests that qSOFA criteria be"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "For patients with suspected infection within the ICU, the SOFA score had predictive \nvalidity (AUROC = 0.74; 95% CI, 0.73–0.76) superior to that of this model (AUROC \n= 0.66; 95% CI, 0.64–0.68), likely reflecting the modifying effects of interventions (eg, \nvasopressors, sedative agents, mechanical ventilation). Addition of lactate measurement did \nnot meaningfully improve predictive validity but may help identify patients at intermediate \nrisk.\nThis new measure, termed qSOFA (for quick SOFA) and incorporating altered mentation, \nsystolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater,"
+            }
+        ],
+        "raw_model_output": "{\n  \"step_by_step_analysis\": \"The patient presents with a high respiratory rate, hypoxemia (SpO2 <92%), and elevated lactate levels. There is also thrombocytopenia noted. The inflammatory markers such as CRP are significantly elevated, but the WBC count is within normal limits for an infection diagnosis. No clear anatomical clues or symptoms of a specific infection focus are provided in the clinical note. Given these findings, there is no definitive evidence to support an infectious cause based on the available data alone.\",\n  \"possible_infection_focus\": \"N/A - Infection not established\",\n  \"possible_preliminary_diagnosis\": \"The patient's presentation could be indicative of a non-infectious condition such as diabetic ketoacidosis or metabolic acidosis, given their history of diabetes. The hypoxemia and elevated lactate may also suggest an acute respiratory event or cardiopulmonary issue.\",\n  \"sepsis_risk\": \"Low\",\n  \"septik_shock_risk\": \"Low\",\n  \"recommended_empiric_antibiotic\": \"Not indicated from available data\",\n  \"hospitalization_requirement\": \"Yes - The patient's clinical presentation, including hypoxemia and elevated lactate levels, suggests a need for close monitoring and further diagnostic evaluation.\",\n  \"icu_requirement\": \"No - While the patient has concerning vital signs, there is no evidence of severe hemodynamic instability or altered mental status that would necessitate ICU care at this time.\",\n  \"clinical_risk_assessment\": \"The overall risk of clinical deterioration appears to be moderate. The primary concern is non-infectious causes such as diabetic ketoacidosis or metabolic acidosis, which require prompt evaluation and management.\"\n}",
+        "validated_output": {
+            "step_by_step_analysis": "The patient presents with a high respiratory rate, hypoxemia (SpO2 <92%), and elevated lactate levels. There is also thrombocytopenia noted. The inflammatory markers such as CRP are significantly elevated, but the WBC count is within normal limits for an infection diagnosis. No clear anatomical clues or symptoms of a specific infection focus are provided in the clinical note. Given these findings, there is no definitive evidence to support an infectious cause based on the available data alone.",
+            "possible_infection_focus": "N/A - Infection not established",
+            "possible_preliminary_diagnosis": "The patient's presentation could be indicative of a non-infectious condition such as diabetic ketoacidosis or metabolic acidosis, given their history of diabetes. The hypoxemia and elevated lactate may also suggest an acute respiratory event or cardiopulmonary issue.",
+            "sepsis_risk": "Low",
+            "septik_shock_risk": "Low",
+            "recommended_empiric_antibiotic": "Not indicated from available data",
+            "hospitalization_requirement": "Yes - The patient's clinical presentation, including hypoxemia and elevated lactate levels, suggests a need for close monitoring and further diagnostic evaluation.",
+            "icu_requirement": "No - While the patient has concerning vital signs, there is no evidence of severe hemodynamic instability or altered mental status that would necessitate ICU care at this time.",
+            "clinical_risk_assessment": "The overall risk of clinical deterioration appears to be moderate. The primary concern is non-infectious causes such as diabetic ketoacidosis or metabolic acidosis, which require prompt evaluation and management."
+        }
+    },
+    {
+        "admission_no": "7574288",
+        "clinical_data": {
+            "age": 65.0,
+            "temperature": 36.5,
+            "pulse": 88.0,
+            "systolic_bp": 128.0,
+            "diastolic_bp": 83.0,
+            "respiratory_rate": 16.0,
+            "spo2": 98.0,
+            "gcs": 15.0,
+            "wbc": 7.6,
+            "neutrophil": 38.43,
+            "platelets": 85.0,
+            "creatinine": 1.41,
+            "lactate": 9.53,
+            "procalcitonin": 0.222,
+            "crp": 86.1,
+            "diabetes": "Unknown",
+            "heart_failure": "Unknown",
+            "renal_failure": "Unknown",
+            "cancer": "Unknown",
+            "copd": "Unknown"
+        },
+        "clinical_flags": {
+            "qsofa_rr_ge_22": false,
+            "qsofa_sbp_le_100": false,
+            "qsofa_altered_mentation": false,
+            "lactate_gt_2": true,
+            "creatinine_ge_1_2": true,
+            "platelets_lt_150": true,
+            "spo2_lt_92": false
+        },
+        "patient_context_sent_to_llm": "\n==============================\nPATIENT DATA\n==============================\n\nDemographics:\nAge: 65.0\n\nClinical information:\nChief Complaint:\nSOLUNUM SIKINTISI. . TA:128/83 . NABIZ:88 SO2:98 . SS:16 . ATEŞ:36,5 . EH:- . Kİ:- . İA:- . OP:-\n\nDoctor's Clinical Note:\nSAYIN MESLEKTAŞIM. SAYIN MESLEKTAŞIM. Out of Hospital Cardiac Arrest / Emergency Poor General Condition İLE GELEN HASTA BİLİNEN Lung Cancer. ATEŞ GELİŞİNDE 38.1 KAN GAZINDAN METABOLİK ALKALOZ OLAN HASTANIN 5 GÜN ÖNCE Lung Cancer NEDENİYLE BX ALAN HASTA 5 GÜN İÇİNDE GİDEREK KÖTÜLEŞMİŞ BUGÜN DURUMU AĞIRLAŞINCA ACİL SERVİSİMİZE BAŞVURULMUŞ . CRP: 154 . WBC: 28000 Treatment and follow-up recommended\n\n==============================\nVITAL SIGNS\n==============================\n\nTemperature: 36.5 °C\nPulse: 88.0 /min\nBlood Pressure: 128.0/83.0 mmHg\nRespiratory Rate: 16.0 /min\nSpO2: 98.0 %\nGCS: 15.0\n\n==============================\nLABORATORY RESULTS\n==============================\n\nWBC: 7.6 x10^3/uL\nNeutrophils: 38.43 x10^3/uL\nPlatelets: 85.0 x10^3/uL\nCreatinine: 1.41 mg/dL\nLactate: 9.53 mmol/L\nProcalcitonin: 0.222 ng/mL\nCRP: 86.1 mg/L\n\n==============================\nMEDICAL HISTORY\n==============================\n\nDiabetes: Unknown\nHeart Failure: Unknown\nRenal Failure: Unknown\nCancer: Unknown\nCOPD: Unknown\n\n==============================\nOBJECTIVE CLINICAL FLAGS\n==============================\n\nIMPORTANT:\nThese flags are NOT diagnoses.\nThey are only deterministic observations calculated\nfrom the raw patient data.\n\nqSOFA respiratory rate >=22:\nABSENT\n\nqSOFA systolic BP <=100:\nABSENT\n\nqSOFA altered mentation (GCS <15):\nABSENT\n\nLactate >2 mmol/L:\nPRESENT\n\nCreatinine >=1.2 mg/dL:\nPRESENT\n\nPlatelets <150 x10^3/uL:\nPRESENT\n\nSpO2 <92%:\nABSENT\n",
+        "retrieved_guideline_chunks": [
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 5,
+                "content": "earlier identification and an accurate quantification of the burden of sepsis.\nResults/Recommendations\nDefinition of Sepsis\nSepsis is defined as life-threatening organ dysfunction caused by a dysregulated host \nresponse to infection (Box 3). This new definition emphasizes the primacy of the \nSinger et al. Page 6\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 18,
+                "content": "Box 2. Key Concepts of Sepsis\n• Sepsis is the primary cause of death from infection, especially if not \nrecognized and treated promptly. Its recognition mandates urgent attention.\n• Sepsis is a syndrome shaped by pathogen factors and host factors (eg, sex, \nrace and other genetic determinants, age, comorbidities, environment) with \ncharacteristics that evolve over time. What differentiates sepsis from infection \nis an aberrant or dysregulated host response and the presence of organ \ndysfunction.\n• Sepsis-induced organ dysfunction may be occult; therefore, its presence \nshould be considered in any patient presenting with infection. Conversely,"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 23,
+                "content": "Author Manuscript Author Manuscript Author Manuscript Author Manuscript\nSinger et al. Page 24\nTable 2\nTerminology and International Classification of Diseases Coding\nCurrent Guidelines\nand Terminology Sepsis Septic Shock\n1991 and 2001\nconsensus\nterminology9,10\nSevere sepsis\nSepsis-induced\nhypoperfusion\nSeptic shock13\n2015 Definition Sepsis is\nlife-threatening organ\ndysfunction caused by a\ndysregulated host\nresponse to infection\nSeptic shock is a subset of\nsepsis in which underlying\ncirculatory and\ncellular/metabolic\nabnormalities are profound\nenough to substantially\nincrease mortality\n2015 Clinical\ncriteria\nSuspected or\ndocumented infection\nand\nan acute increase of ≥2\nSOFA points (a proxy"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 19,
+                "content": "Box 3. New Terms and Definitions\n• Sepsis is defined as life-threatening organ dysfunction caused by a \ndysregulated host response to infection.\n• Organ dysfunction can be identified as an acute change in total SOFA score \n≥2 points consequent to the infection.\n– The baseline SOFA score can be assumed to be zero in patients not \nknown to have preexisting organ dysfunction.\n– ASOFA score ≥2 reflects an overall mortality risk of approximately \n10% in a general hospital population with suspected infection. Even \npatients presenting with modest dysfunction can deteriorate further, \nemphasizing the seriousness of this condition and the need for"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 18,
+                "content": "should be considered in any patient presenting with infection. Conversely, \nunrecognized infection may be the cause of new-onset organ dysfunction. \nAny unexplained organ dysfunction should thus raise the possibility of \nunderlying infection.\n• The clinical and biological phenotype of sepsis can be modified by \npreexisting acute illness, long-standing comorbidities, medication, and \ninterventions.\n• Specific infections may result in local organ dysfunction without generating a \ndysregulated systemic host response.\nSinger et al. Page 19\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 15,
+                "content": "Respir Crit Care Med. 2015; 192 (8) 958–964. [PubMed: 26158402] \n26. Kaukonen K-M, Bailey M, Pilcher D, Cooper DJ, Bellomo R. Systemic inflammatory response \nsyndrome criteria in defining severe sepsis. N Engl J Med. 2015; 372 (17) 1629–1638. [PubMed: \n25776936] \n27. Vincent JL, Moreno R, Takala J, et al. Working Group on Sepsis-Related Problems of the European \nSociety of Intensive Care Medicine. The SOFA (Sepsis-related Organ Failure Assessment) score \nto describe organ dysfunction/failure. Intensive Care Med. 1996; 22 (7) 707–710. [PubMed: \n8844239] \n28. Vincent JL, de Mendonça A, Cantraine F, et al. Working Group on \"Sepsis-Related Problems” of"
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 3,
+                "content": "definitions of sepsis and septic shock to be consistent with improved understanding of \nthe pathobiology. A definition is the description of an illness concept; thus, a definition \nof sepsis should describe what sepsis “is.” This chosen approach allowed discussion of \nbiological concepts that are currently incompletely understood, such as genetic influences \nand cellular abnormalities. The sepsis illness concept is predicated on infection as its trigger, \nacknowledging the current challenges in the microbiological identification of infection. It \nwas not, however, within the task force brief to examine definitions of infection."
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 12,
+                "content": "is crucial in ensuring clear communication and a more accurate appreciation of the scale \nof the problem of sepsis. An added challenge is that infection is seldom confirmed \nmicrobiologically when treatment is started; even when microbiological tests are completed, \nculture-positive “sepsis” is observed in only 30% to 40% of cases. Thus, when sepsis \nepidemiology is assessed and reported, operationalization will necessarily involve proxies \nsuch as antibiotic commencement or a clinically determined probability of infection. Future \nepidemiology studies should consider reporting the proportion of microbiology-positive \nsepsis."
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 19,
+                "content": "or respiratory rate ≥22/min.\n• Septic shock is a subset of sepsis in which underlying circulatory and cellular/\nmetabolic abnormalities are profound enough to substantially increase \nmortality.\n• Patients with septic shock can be identified with a clinical construct of sepsis \nwith persisting hypotension requiring vasopressors to maintain MAP ≥65 mm \nHg and having a serum lactate level >2 mmol/L (18mg/dL) despite adequate \nvolume resuscitation. With these criteria, hospital mortality is in excess of \n40%.\nAbbreviations: MAP, mean arterial pressure; qSOFA, quick SOFA; SOFA: Sequential \n[Sepsis-related] Organ Failure Assessment.\nSinger et al. Page 20"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 2,
+                "content": "Septic shock should be defined as a subset of sepsis in which particularly profound circulatory, \ncellular, and metabolic abnormalities are associated with a greater risk of mortality than with \nsepsis alone. Patients with septic shock can be clinically identified by a vasopressor requirement \nto maintain a mean arterial pressure of 65 mm Hg or greater and serum lactate level greater than 2 \nmmol/L (>18 mg/dL) in the absence of hypovolemia. This combination is associated with hospital \nmortality rates greater than 40%. In out-of-hospital, emergency department, or general hospital \nward settings, adult patients with suspected infection can be rapidly identified as being more likely"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 8,
+                "content": "Definition of Septic Shock\nSeptic shock is defined as a subset of sepsis in which underlying circulatory and cellular \nmetabolism abnormalities are profound enough to substantially increase mortality (Box 3). \nThe 2001 task force definitions described septic shock as “a state of acute circulatory \nfailure.”10 The task force favored a broader view to differentiate septic shock from \ncardiovascular dysfunction alone and to recognize the importance of cellular abnormalities \n(Box 3). There was unanimous agreement that septic shock should reflect a more severe \nillness with a much higher likelihood of death than sepsis alone.\nClinical Criteria to Identify Septic Shock"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 20,
+                "content": "Box 4. qSOFA (Quick SOFA) Criteria\nRespiratory rate ≥22/min\nAltered mentation\nSystolic blood pressure ≤100 mm Hg\nSinger et al. Page 21\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "systolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater, \nprovides simple bedside criteria to identify adult patients with suspected infection who are \nlikely to have poor outcomes (Box 4). Because predictive validity was unchanged (P = \n.55), the task force chose to emphasize altered mentation because it represents any Glasgow \nComa Scale score less than 15 and will reduce the measurement burden. Although qSOFA is \nless robust than a SOFA score of 2 or greater in the ICU, it does not require laboratory tests \nand can be assessed quickly and repeatedly. The task force suggests that qSOFA criteria be"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "For patients with suspected infection within the ICU, the SOFA score had predictive \nvalidity (AUROC = 0.74; 95% CI, 0.73–0.76) superior to that of this model (AUROC \n= 0.66; 95% CI, 0.64–0.68), likely reflecting the modifying effects of interventions (eg, \nvasopressors, sedative agents, mechanical ventilation). Addition of lactate measurement did \nnot meaningfully improve predictive validity but may help identify patients at intermediate \nrisk.\nThis new measure, termed qSOFA (for quick SOFA) and incorporating altered mentation, \nsystolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater,"
+            }
+        ],
+        "raw_model_output": "{\n  \"step_by_step_analysis\": \"The patient presents with elevated lactate (9.53 mmol/L) and creatinine (1.41 mg/dL), indicating potential organ dysfunction. Platelets are also low at 85 x10^3/uL, suggesting possible disseminated intravascular coagulation or other causes of thrombocytopenia. However, there is no clear evidence of infection based on the provided data (CRP: 86.1 mg/L, WBC: 7600 uL, procalcitonin: 0.222 ng/mL). The patient's vital signs are stable with normal GCS and SpO2 levels.\",\n  \"possible_infection_focus\": \"N/A - Infection not established\",\n  \"possible_preliminary_diagnosis\": \"Acute kidney injury or metabolic emergency, possibly associated with thrombocytopenia. Further investigation is needed to determine the cause of organ dysfunction and thrombocytopenia.\",\n  \"sepsis_risk\": \"Low\",\n  \"septik_shock_risk\": \"Low\",\n  \"recommended_empiric_antibiotic\": \"Not indicated from available data\",\n  \"hospitalization_requirement\": \"Yes - The patient requires further evaluation for the cause of elevated lactate, creatinine and thrombocytopenia. This may indicate an acute kidney injury or metabolic emergency that needs prompt management.\",\n  \"icu_requirement\": \"No - Vital signs are stable without evidence of septic shock or severe organ dysfunction requiring ICU level care at this time.\",\n  \"clinical_risk_assessment\": \"The patient's risk is primarily non-infectious, with potential for acute kidney injury and metabolic derangement. Further diagnostic workup is necessary to determine the underlying cause.\"\n}",
+        "validated_output": {
+            "step_by_step_analysis": "The patient presents with elevated lactate (9.53 mmol/L) and creatinine (1.41 mg/dL), indicating potential organ dysfunction. Platelets are also low at 85 x10^3/uL, suggesting possible disseminated intravascular coagulation or other causes of thrombocytopenia. However, there is no clear evidence of infection based on the provided data (CRP: 86.1 mg/L, WBC: 7600 uL, procalcitonin: 0.222 ng/mL). The patient's vital signs are stable with normal GCS and SpO2 levels.",
+            "possible_infection_focus": "N/A - Infection not established",
+            "possible_preliminary_diagnosis": "Acute kidney injury or metabolic emergency, possibly associated with thrombocytopenia. Further investigation is needed to determine the cause of organ dysfunction and thrombocytopenia.",
+            "sepsis_risk": "Low",
+            "septik_shock_risk": "Low",
+            "recommended_empiric_antibiotic": "Not indicated from available data",
+            "hospitalization_requirement": "Yes - The patient requires further evaluation for the cause of elevated lactate, creatinine and thrombocytopenia. This may indicate an acute kidney injury or metabolic emergency that needs prompt management.",
+            "icu_requirement": "No - Vital signs are stable without evidence of septic shock or severe organ dysfunction requiring ICU level care at this time.",
+            "clinical_risk_assessment": "The patient's risk is primarily non-infectious, with potential for acute kidney injury and metabolic derangement. Further diagnostic workup is necessary to determine the underlying cause."
+        }
+    },
+    {
+        "admission_no": "7575901",
+        "clinical_data": {
+            "age": 88.0,
+            "temperature": 36.8,
+            "pulse": 92.0,
+            "systolic_bp": 150.0,
+            "diastolic_bp": 62.0,
+            "respiratory_rate": 16.0,
+            "spo2": 87.0,
+            "gcs": 15.0,
+            "wbc": 13.46,
+            "neutrophil": 11.83,
+            "platelets": 160.0,
+            "creatinine": 0.65,
+            "lactate": 3.52,
+            "procalcitonin": null,
+            "crp": 257.7,
+            "diabetes": "Unknown",
+            "heart_failure": "Unknown",
+            "renal_failure": "Unknown",
+            "cancer": "Unknown",
+            "copd": "Unknown"
+        },
+        "clinical_flags": {
+            "qsofa_rr_ge_22": false,
+            "qsofa_sbp_le_100": false,
+            "qsofa_altered_mentation": false,
+            "lactate_gt_2": true,
+            "creatinine_ge_1_2": false,
+            "platelets_lt_150": false,
+            "spo2_lt_92": true
+        },
+        "patient_context_sent_to_llm": "\n==============================\nPATIENT DATA\n==============================\n\nDemographics:\nAge: 88.0\n\nClinical information:\nChief Complaint:\nBULANTI KUSMA . TA:150/62 . NB:92 . SAT:87 . SS:16 . ATEŞ:36.5 . EH:- . Kİ:- . İA:- . OP:-\n\nDoctor's Clinical Note:\nSAYIN MESLEKTAŞIM. ATEŞ YÜKSEKLİĞİ CRP 267 TARAFINIZCA DEĞERLENDİRİLMESİ RİCA OLUNUR. SAYGILARIMLA\n\n==============================\nVITAL SIGNS\n==============================\n\nTemperature: 36.8 °C\nPulse: 92.0 /min\nBlood Pressure: 150.0/62.0 mmHg\nRespiratory Rate: 16.0 /min\nSpO2: 87.0 %\nGCS: 15.0\n\n==============================\nLABORATORY RESULTS\n==============================\n\nWBC: 13.46 x10^3/uL\nNeutrophils: 11.83 x10^3/uL\nPlatelets: 160.0 x10^3/uL\nCreatinine: 0.65 mg/dL\nLactate: 3.52 mmol/L\nProcalcitonin: UNKNOWN ng/mL\nCRP: 257.7 mg/L\n\n==============================\nMEDICAL HISTORY\n==============================\n\nDiabetes: Unknown\nHeart Failure: Unknown\nRenal Failure: Unknown\nCancer: Unknown\nCOPD: Unknown\n\n==============================\nOBJECTIVE CLINICAL FLAGS\n==============================\n\nIMPORTANT:\nThese flags are NOT diagnoses.\nThey are only deterministic observations calculated\nfrom the raw patient data.\n\nqSOFA respiratory rate >=22:\nABSENT\n\nqSOFA systolic BP <=100:\nABSENT\n\nqSOFA altered mentation (GCS <15):\nABSENT\n\nLactate >2 mmol/L:\nPRESENT\n\nCreatinine >=1.2 mg/dL:\nABSENT\n\nPlatelets <150 x10^3/uL:\nABSENT\n\nSpO2 <92%:\nPRESENT\n",
+        "retrieved_guideline_chunks": [
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 5,
+                "content": "earlier identification and an accurate quantification of the burden of sepsis.\nResults/Recommendations\nDefinition of Sepsis\nSepsis is defined as life-threatening organ dysfunction caused by a dysregulated host \nresponse to infection (Box 3). This new definition emphasizes the primacy of the \nSinger et al. Page 6\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 18,
+                "content": "Box 2. Key Concepts of Sepsis\n• Sepsis is the primary cause of death from infection, especially if not \nrecognized and treated promptly. Its recognition mandates urgent attention.\n• Sepsis is a syndrome shaped by pathogen factors and host factors (eg, sex, \nrace and other genetic determinants, age, comorbidities, environment) with \ncharacteristics that evolve over time. What differentiates sepsis from infection \nis an aberrant or dysregulated host response and the presence of organ \ndysfunction.\n• Sepsis-induced organ dysfunction may be occult; therefore, its presence \nshould be considered in any patient presenting with infection. Conversely,"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 23,
+                "content": "Author Manuscript Author Manuscript Author Manuscript Author Manuscript\nSinger et al. Page 24\nTable 2\nTerminology and International Classification of Diseases Coding\nCurrent Guidelines\nand Terminology Sepsis Septic Shock\n1991 and 2001\nconsensus\nterminology9,10\nSevere sepsis\nSepsis-induced\nhypoperfusion\nSeptic shock13\n2015 Definition Sepsis is\nlife-threatening organ\ndysfunction caused by a\ndysregulated host\nresponse to infection\nSeptic shock is a subset of\nsepsis in which underlying\ncirculatory and\ncellular/metabolic\nabnormalities are profound\nenough to substantially\nincrease mortality\n2015 Clinical\ncriteria\nSuspected or\ndocumented infection\nand\nan acute increase of ≥2\nSOFA points (a proxy"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 19,
+                "content": "Box 3. New Terms and Definitions\n• Sepsis is defined as life-threatening organ dysfunction caused by a \ndysregulated host response to infection.\n• Organ dysfunction can be identified as an acute change in total SOFA score \n≥2 points consequent to the infection.\n– The baseline SOFA score can be assumed to be zero in patients not \nknown to have preexisting organ dysfunction.\n– ASOFA score ≥2 reflects an overall mortality risk of approximately \n10% in a general hospital population with suspected infection. Even \npatients presenting with modest dysfunction can deteriorate further, \nemphasizing the seriousness of this condition and the need for"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 18,
+                "content": "should be considered in any patient presenting with infection. Conversely, \nunrecognized infection may be the cause of new-onset organ dysfunction. \nAny unexplained organ dysfunction should thus raise the possibility of \nunderlying infection.\n• The clinical and biological phenotype of sepsis can be modified by \npreexisting acute illness, long-standing comorbidities, medication, and \ninterventions.\n• Specific infections may result in local organ dysfunction without generating a \ndysregulated systemic host response.\nSinger et al. Page 19\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 15,
+                "content": "Respir Crit Care Med. 2015; 192 (8) 958–964. [PubMed: 26158402] \n26. Kaukonen K-M, Bailey M, Pilcher D, Cooper DJ, Bellomo R. Systemic inflammatory response \nsyndrome criteria in defining severe sepsis. N Engl J Med. 2015; 372 (17) 1629–1638. [PubMed: \n25776936] \n27. Vincent JL, Moreno R, Takala J, et al. Working Group on Sepsis-Related Problems of the European \nSociety of Intensive Care Medicine. The SOFA (Sepsis-related Organ Failure Assessment) score \nto describe organ dysfunction/failure. Intensive Care Med. 1996; 22 (7) 707–710. [PubMed: \n8844239] \n28. Vincent JL, de Mendonça A, Cantraine F, et al. Working Group on \"Sepsis-Related Problems” of"
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 3,
+                "content": "definitions of sepsis and septic shock to be consistent with improved understanding of \nthe pathobiology. A definition is the description of an illness concept; thus, a definition \nof sepsis should describe what sepsis “is.” This chosen approach allowed discussion of \nbiological concepts that are currently incompletely understood, such as genetic influences \nand cellular abnormalities. The sepsis illness concept is predicated on infection as its trigger, \nacknowledging the current challenges in the microbiological identification of infection. It \nwas not, however, within the task force brief to examine definitions of infection."
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 12,
+                "content": "is crucial in ensuring clear communication and a more accurate appreciation of the scale \nof the problem of sepsis. An added challenge is that infection is seldom confirmed \nmicrobiologically when treatment is started; even when microbiological tests are completed, \nculture-positive “sepsis” is observed in only 30% to 40% of cases. Thus, when sepsis \nepidemiology is assessed and reported, operationalization will necessarily involve proxies \nsuch as antibiotic commencement or a clinically determined probability of infection. Future \nepidemiology studies should consider reporting the proportion of microbiology-positive \nsepsis."
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 19,
+                "content": "or respiratory rate ≥22/min.\n• Septic shock is a subset of sepsis in which underlying circulatory and cellular/\nmetabolic abnormalities are profound enough to substantially increase \nmortality.\n• Patients with septic shock can be identified with a clinical construct of sepsis \nwith persisting hypotension requiring vasopressors to maintain MAP ≥65 mm \nHg and having a serum lactate level >2 mmol/L (18mg/dL) despite adequate \nvolume resuscitation. With these criteria, hospital mortality is in excess of \n40%.\nAbbreviations: MAP, mean arterial pressure; qSOFA, quick SOFA; SOFA: Sequential \n[Sepsis-related] Organ Failure Assessment.\nSinger et al. Page 20"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 2,
+                "content": "Septic shock should be defined as a subset of sepsis in which particularly profound circulatory, \ncellular, and metabolic abnormalities are associated with a greater risk of mortality than with \nsepsis alone. Patients with septic shock can be clinically identified by a vasopressor requirement \nto maintain a mean arterial pressure of 65 mm Hg or greater and serum lactate level greater than 2 \nmmol/L (>18 mg/dL) in the absence of hypovolemia. This combination is associated with hospital \nmortality rates greater than 40%. In out-of-hospital, emergency department, or general hospital \nward settings, adult patients with suspected infection can be rapidly identified as being more likely"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 8,
+                "content": "Definition of Septic Shock\nSeptic shock is defined as a subset of sepsis in which underlying circulatory and cellular \nmetabolism abnormalities are profound enough to substantially increase mortality (Box 3). \nThe 2001 task force definitions described septic shock as “a state of acute circulatory \nfailure.”10 The task force favored a broader view to differentiate septic shock from \ncardiovascular dysfunction alone and to recognize the importance of cellular abnormalities \n(Box 3). There was unanimous agreement that septic shock should reflect a more severe \nillness with a much higher likelihood of death than sepsis alone.\nClinical Criteria to Identify Septic Shock"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 20,
+                "content": "Box 4. qSOFA (Quick SOFA) Criteria\nRespiratory rate ≥22/min\nAltered mentation\nSystolic blood pressure ≤100 mm Hg\nSinger et al. Page 21\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "systolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater, \nprovides simple bedside criteria to identify adult patients with suspected infection who are \nlikely to have poor outcomes (Box 4). Because predictive validity was unchanged (P = \n.55), the task force chose to emphasize altered mentation because it represents any Glasgow \nComa Scale score less than 15 and will reduce the measurement burden. Although qSOFA is \nless robust than a SOFA score of 2 or greater in the ICU, it does not require laboratory tests \nand can be assessed quickly and repeatedly. The task force suggests that qSOFA criteria be"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "For patients with suspected infection within the ICU, the SOFA score had predictive \nvalidity (AUROC = 0.74; 95% CI, 0.73–0.76) superior to that of this model (AUROC \n= 0.66; 95% CI, 0.64–0.68), likely reflecting the modifying effects of interventions (eg, \nvasopressors, sedative agents, mechanical ventilation). Addition of lactate measurement did \nnot meaningfully improve predictive validity but may help identify patients at intermediate \nrisk.\nThis new measure, termed qSOFA (for quick SOFA) and incorporating altered mentation, \nsystolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater,"
+            }
+        ],
+        "raw_model_output": "{\n  \"step_by_step_analysis\": \"The patient has a SpO2 of 87%, indicating hypoxemia, and an elevated lactate level of 3.52 mmol/L, suggesting tissue hypoperfusion or metabolic derangement. The CRP is significantly elevated at 257.7 mg/L, which may indicate inflammation but does not confirm infection on its own. There are no clear signs of altered mental status (GCS = 15), tachypnea, or hypotension that would support a diagnosis of qSOFA criteria for organ dysfunction related to suspected infection. The patient's blood pressure is within normal limits and there is no evidence of chronic renal failure based on the creatinine level. Therefore, while inflammation may be present, an infectious cause has not been definitively established.\",\n  \"possible_infection_focus\": \"N/A - Infection not established\",\n  \"possible_preliminary_diagnosis\": \"The patient's clinical presentation and laboratory findings suggest a non-infectious etiology such as cardiopulmonary disease or metabolic disorder. The elevated lactate could be due to hypoxemia, but there is no clear evidence of infection.\",\n  \"sepsis_risk\": \"Low\",\n  \"septik_shock_risk\": \"Low\",\n  \"recommended_empiric_antibiotic\": \"Not indicated from available data\",\n  \"hospitalization_requirement\": \"Yes - The patient's hypoxemia and elevated lactate suggest a need for close monitoring, supplemental oxygen therapy, and further diagnostic evaluation to determine the cause of these abnormalities.\",\n  \"icu_requirement\": \"No - While there are concerning signs such as hypoxemia and metabolic derangement, they do not meet criteria for ICU admission at this time. However, hospitalization is recommended for further assessment and management.\",\n  \"clinical_risk_assessment\": \"The patient's risk of clinical deterioration appears to be related to non-infectious causes such as cardiopulmonary disease or metabolic disorder rather than sepsis. Close monitoring in the hospital setting is warranted.\"\n}",
+        "validated_output": {
+            "step_by_step_analysis": "The patient has a SpO2 of 87%, indicating hypoxemia, and an elevated lactate level of 3.52 mmol/L, suggesting tissue hypoperfusion or metabolic derangement. The CRP is significantly elevated at 257.7 mg/L, which may indicate inflammation but does not confirm infection on its own. There are no clear signs of altered mental status (GCS = 15), tachypnea, or hypotension that would support a diagnosis of qSOFA criteria for organ dysfunction related to suspected infection. The patient's blood pressure is within normal limits and there is no evidence of chronic renal failure based on the creatinine level. Therefore, while inflammation may be present, an infectious cause has not been definitively established.",
+            "possible_infection_focus": "N/A - Infection not established",
+            "possible_preliminary_diagnosis": "The patient's clinical presentation and laboratory findings suggest a non-infectious etiology such as cardiopulmonary disease or metabolic disorder. The elevated lactate could be due to hypoxemia, but there is no clear evidence of infection.",
+            "sepsis_risk": "Low",
+            "septik_shock_risk": "Low",
+            "recommended_empiric_antibiotic": "Not indicated from available data",
+            "hospitalization_requirement": "Yes - The patient's hypoxemia and elevated lactate suggest a need for close monitoring, supplemental oxygen therapy, and further diagnostic evaluation to determine the cause of these abnormalities.",
+            "icu_requirement": "No - While there are concerning signs such as hypoxemia and metabolic derangement, they do not meet criteria for ICU admission at this time. However, hospitalization is recommended for further assessment and management.",
+            "clinical_risk_assessment": "The patient's risk of clinical deterioration appears to be related to non-infectious causes such as cardiopulmonary disease or metabolic disorder rather than sepsis. Close monitoring in the hospital setting is warranted."
+        }
+    },
+    {
+        "admission_no": "7576684",
+        "clinical_data": {
+            "age": 58.0,
+            "temperature": 36.5,
+            "pulse": 118.0,
+            "systolic_bp": 140.0,
+            "diastolic_bp": 83.0,
+            "respiratory_rate": 16.0,
+            "spo2": 96.0,
+            "gcs": 15.0,
+            "wbc": 15.86,
+            "neutrophil": 13.69,
+            "platelets": 214.0,
+            "creatinine": 1.43,
+            "lactate": 2.42,
+            "procalcitonin": 32.4,
+            "crp": 108.08,
+            "diabetes": "DİYABET",
+            "heart_failure": "Unknown",
+            "renal_failure": "Unknown",
+            "cancer": "Unknown",
+            "copd": "Unknown"
+        },
+        "clinical_flags": {
+            "qsofa_rr_ge_22": false,
+            "qsofa_sbp_le_100": false,
+            "qsofa_altered_mentation": false,
+            "lactate_gt_2": true,
+            "creatinine_ge_1_2": true,
+            "platelets_lt_150": false,
+            "spo2_lt_92": false
+        },
+        "patient_context_sent_to_llm": "\n==============================\nPATIENT DATA\n==============================\n\nDemographics:\nAge: 58.0\n\nClinical information:\nChief Complaint:\nBACAKLARDA UYUŞUKLUK . TA:140/83 . NABIZ:118 SO2:96 . SS:16 . ATEŞ:36,5 . EH:Diabetes Mellitus . Kİ:- . İA:KUMADİN . OP:BYPASS\n\nDoctor's Clinical Note:\nSAYIN MESLEKTAŞIM. TARAFINIZCA DEĞERLENDİRİLMESİ RİCA OLUNUR. SAYGILARIMLA\n\n==============================\nVITAL SIGNS\n==============================\n\nTemperature: 36.5 °C\nPulse: 118.0 /min\nBlood Pressure: 140.0/83.0 mmHg\nRespiratory Rate: 16.0 /min\nSpO2: 96.0 %\nGCS: 15.0\n\n==============================\nLABORATORY RESULTS\n==============================\n\nWBC: 15.86 x10^3/uL\nNeutrophils: 13.69 x10^3/uL\nPlatelets: 214.0 x10^3/uL\nCreatinine: 1.43 mg/dL\nLactate: 2.42 mmol/L\nProcalcitonin: 32.4 ng/mL\nCRP: 108.08 mg/L\n\n==============================\nMEDICAL HISTORY\n==============================\n\nDiabetes: DİYABET\nHeart Failure: Unknown\nRenal Failure: Unknown\nCancer: Unknown\nCOPD: Unknown\n\n==============================\nOBJECTIVE CLINICAL FLAGS\n==============================\n\nIMPORTANT:\nThese flags are NOT diagnoses.\nThey are only deterministic observations calculated\nfrom the raw patient data.\n\nqSOFA respiratory rate >=22:\nABSENT\n\nqSOFA systolic BP <=100:\nABSENT\n\nqSOFA altered mentation (GCS <15):\nABSENT\n\nLactate >2 mmol/L:\nPRESENT\n\nCreatinine >=1.2 mg/dL:\nPRESENT\n\nPlatelets <150 x10^3/uL:\nABSENT\n\nSpO2 <92%:\nABSENT\n",
+        "retrieved_guideline_chunks": [
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 5,
+                "content": "earlier identification and an accurate quantification of the burden of sepsis.\nResults/Recommendations\nDefinition of Sepsis\nSepsis is defined as life-threatening organ dysfunction caused by a dysregulated host \nresponse to infection (Box 3). This new definition emphasizes the primacy of the \nSinger et al. Page 6\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 18,
+                "content": "Box 2. Key Concepts of Sepsis\n• Sepsis is the primary cause of death from infection, especially if not \nrecognized and treated promptly. Its recognition mandates urgent attention.\n• Sepsis is a syndrome shaped by pathogen factors and host factors (eg, sex, \nrace and other genetic determinants, age, comorbidities, environment) with \ncharacteristics that evolve over time. What differentiates sepsis from infection \nis an aberrant or dysregulated host response and the presence of organ \ndysfunction.\n• Sepsis-induced organ dysfunction may be occult; therefore, its presence \nshould be considered in any patient presenting with infection. Conversely,"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 23,
+                "content": "Author Manuscript Author Manuscript Author Manuscript Author Manuscript\nSinger et al. Page 24\nTable 2\nTerminology and International Classification of Diseases Coding\nCurrent Guidelines\nand Terminology Sepsis Septic Shock\n1991 and 2001\nconsensus\nterminology9,10\nSevere sepsis\nSepsis-induced\nhypoperfusion\nSeptic shock13\n2015 Definition Sepsis is\nlife-threatening organ\ndysfunction caused by a\ndysregulated host\nresponse to infection\nSeptic shock is a subset of\nsepsis in which underlying\ncirculatory and\ncellular/metabolic\nabnormalities are profound\nenough to substantially\nincrease mortality\n2015 Clinical\ncriteria\nSuspected or\ndocumented infection\nand\nan acute increase of ≥2\nSOFA points (a proxy"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 19,
+                "content": "Box 3. New Terms and Definitions\n• Sepsis is defined as life-threatening organ dysfunction caused by a \ndysregulated host response to infection.\n• Organ dysfunction can be identified as an acute change in total SOFA score \n≥2 points consequent to the infection.\n– The baseline SOFA score can be assumed to be zero in patients not \nknown to have preexisting organ dysfunction.\n– ASOFA score ≥2 reflects an overall mortality risk of approximately \n10% in a general hospital population with suspected infection. Even \npatients presenting with modest dysfunction can deteriorate further, \nemphasizing the seriousness of this condition and the need for"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 18,
+                "content": "should be considered in any patient presenting with infection. Conversely, \nunrecognized infection may be the cause of new-onset organ dysfunction. \nAny unexplained organ dysfunction should thus raise the possibility of \nunderlying infection.\n• The clinical and biological phenotype of sepsis can be modified by \npreexisting acute illness, long-standing comorbidities, medication, and \ninterventions.\n• Specific infections may result in local organ dysfunction without generating a \ndysregulated systemic host response.\nSinger et al. Page 19\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 15,
+                "content": "Respir Crit Care Med. 2015; 192 (8) 958–964. [PubMed: 26158402] \n26. Kaukonen K-M, Bailey M, Pilcher D, Cooper DJ, Bellomo R. Systemic inflammatory response \nsyndrome criteria in defining severe sepsis. N Engl J Med. 2015; 372 (17) 1629–1638. [PubMed: \n25776936] \n27. Vincent JL, Moreno R, Takala J, et al. Working Group on Sepsis-Related Problems of the European \nSociety of Intensive Care Medicine. The SOFA (Sepsis-related Organ Failure Assessment) score \nto describe organ dysfunction/failure. Intensive Care Med. 1996; 22 (7) 707–710. [PubMed: \n8844239] \n28. Vincent JL, de Mendonça A, Cantraine F, et al. Working Group on \"Sepsis-Related Problems” of"
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 3,
+                "content": "definitions of sepsis and septic shock to be consistent with improved understanding of \nthe pathobiology. A definition is the description of an illness concept; thus, a definition \nof sepsis should describe what sepsis “is.” This chosen approach allowed discussion of \nbiological concepts that are currently incompletely understood, such as genetic influences \nand cellular abnormalities. The sepsis illness concept is predicated on infection as its trigger, \nacknowledging the current challenges in the microbiological identification of infection. It \nwas not, however, within the task force brief to examine definitions of infection."
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 12,
+                "content": "is crucial in ensuring clear communication and a more accurate appreciation of the scale \nof the problem of sepsis. An added challenge is that infection is seldom confirmed \nmicrobiologically when treatment is started; even when microbiological tests are completed, \nculture-positive “sepsis” is observed in only 30% to 40% of cases. Thus, when sepsis \nepidemiology is assessed and reported, operationalization will necessarily involve proxies \nsuch as antibiotic commencement or a clinically determined probability of infection. Future \nepidemiology studies should consider reporting the proportion of microbiology-positive \nsepsis."
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 19,
+                "content": "or respiratory rate ≥22/min.\n• Septic shock is a subset of sepsis in which underlying circulatory and cellular/\nmetabolic abnormalities are profound enough to substantially increase \nmortality.\n• Patients with septic shock can be identified with a clinical construct of sepsis \nwith persisting hypotension requiring vasopressors to maintain MAP ≥65 mm \nHg and having a serum lactate level >2 mmol/L (18mg/dL) despite adequate \nvolume resuscitation. With these criteria, hospital mortality is in excess of \n40%.\nAbbreviations: MAP, mean arterial pressure; qSOFA, quick SOFA; SOFA: Sequential \n[Sepsis-related] Organ Failure Assessment.\nSinger et al. Page 20"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 2,
+                "content": "Septic shock should be defined as a subset of sepsis in which particularly profound circulatory, \ncellular, and metabolic abnormalities are associated with a greater risk of mortality than with \nsepsis alone. Patients with septic shock can be clinically identified by a vasopressor requirement \nto maintain a mean arterial pressure of 65 mm Hg or greater and serum lactate level greater than 2 \nmmol/L (>18 mg/dL) in the absence of hypovolemia. This combination is associated with hospital \nmortality rates greater than 40%. In out-of-hospital, emergency department, or general hospital \nward settings, adult patients with suspected infection can be rapidly identified as being more likely"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 8,
+                "content": "Definition of Septic Shock\nSeptic shock is defined as a subset of sepsis in which underlying circulatory and cellular \nmetabolism abnormalities are profound enough to substantially increase mortality (Box 3). \nThe 2001 task force definitions described septic shock as “a state of acute circulatory \nfailure.”10 The task force favored a broader view to differentiate septic shock from \ncardiovascular dysfunction alone and to recognize the importance of cellular abnormalities \n(Box 3). There was unanimous agreement that septic shock should reflect a more severe \nillness with a much higher likelihood of death than sepsis alone.\nClinical Criteria to Identify Septic Shock"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 20,
+                "content": "Box 4. qSOFA (Quick SOFA) Criteria\nRespiratory rate ≥22/min\nAltered mentation\nSystolic blood pressure ≤100 mm Hg\nSinger et al. Page 21\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "systolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater, \nprovides simple bedside criteria to identify adult patients with suspected infection who are \nlikely to have poor outcomes (Box 4). Because predictive validity was unchanged (P = \n.55), the task force chose to emphasize altered mentation because it represents any Glasgow \nComa Scale score less than 15 and will reduce the measurement burden. Although qSOFA is \nless robust than a SOFA score of 2 or greater in the ICU, it does not require laboratory tests \nand can be assessed quickly and repeatedly. The task force suggests that qSOFA criteria be"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "For patients with suspected infection within the ICU, the SOFA score had predictive \nvalidity (AUROC = 0.74; 95% CI, 0.73–0.76) superior to that of this model (AUROC \n= 0.66; 95% CI, 0.64–0.68), likely reflecting the modifying effects of interventions (eg, \nvasopressors, sedative agents, mechanical ventilation). Addition of lactate measurement did \nnot meaningfully improve predictive validity but may help identify patients at intermediate \nrisk.\nThis new measure, termed qSOFA (for quick SOFA) and incorporating altered mentation, \nsystolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater,"
+            }
+        ],
+        "raw_model_output": "{\n  \"step_by_step_analysis\": \"The patient has elevated lactate and creatinine levels, indicating potential organ dysfunction. However, there is no clear evidence of infection based on the clinical presentation or anatomical clues. The white blood cell count (WBC) and procalcitonin are moderately elevated but do not definitively indicate an infectious process. There is no objective evidence of altered mentation, hypotension, or severe respiratory distress that would suggest organ dysfunction attributable to infection.\",\n  \"possible_infection_focus\": \"N/A - Infection not established\",\n  \"possible_preliminary_diagnosis\": \"The patient's elevated lactate and creatinine levels may indicate a non-infectious cause such as diabetic ketoacidosis (DKA) or acute kidney injury due to diabetes. The absence of clear signs of infection makes an infectious etiology less likely.\",\n  \"sepsis_risk\": \"Low\",\n  \"septik_shock_risk\": \"Low\",\n  \"recommended_empiric_antibiotic\": \"Not indicated from available data\",\n  \"hospitalization_requirement\": \"Yes - The patient's elevated lactate and creatinine levels suggest a need for close monitoring and management of potential metabolic or renal issues.\",\n  \"icu_requirement\": \"No - While the patient has some concerning laboratory values, there is no evidence of severe hemodynamic instability, respiratory failure, or altered mental status that would necessitate ICU care at this time.\",\n  \"clinical_risk_assessment\": \"The overall risk of clinical deterioration appears to be low due to lack of clear infection and absence of severe organ dysfunction. However, the patient's elevated lactate and creatinine levels warrant close monitoring for potential metabolic or renal complications.\"\n}",
+        "validated_output": {
+            "step_by_step_analysis": "The patient has elevated lactate and creatinine levels, indicating potential organ dysfunction. However, there is no clear evidence of infection based on the clinical presentation or anatomical clues. The white blood cell count (WBC) and procalcitonin are moderately elevated but do not definitively indicate an infectious process. There is no objective evidence of altered mentation, hypotension, or severe respiratory distress that would suggest organ dysfunction attributable to infection.",
+            "possible_infection_focus": "N/A - Infection not established",
+            "possible_preliminary_diagnosis": "The patient's elevated lactate and creatinine levels may indicate a non-infectious cause such as diabetic ketoacidosis (DKA) or acute kidney injury due to diabetes. The absence of clear signs of infection makes an infectious etiology less likely.",
+            "sepsis_risk": "Low",
+            "septik_shock_risk": "Low",
+            "recommended_empiric_antibiotic": "Not indicated from available data",
+            "hospitalization_requirement": "Yes - The patient's elevated lactate and creatinine levels suggest a need for close monitoring and management of potential metabolic or renal issues.",
+            "icu_requirement": "No - While the patient has some concerning laboratory values, there is no evidence of severe hemodynamic instability, respiratory failure, or altered mental status that would necessitate ICU care at this time.",
+            "clinical_risk_assessment": "The overall risk of clinical deterioration appears to be low due to lack of clear infection and absence of severe organ dysfunction. However, the patient's elevated lactate and creatinine levels warrant close monitoring for potential metabolic or renal complications."
+        }
+    },
+    {
+        "admission_no": "7577755",
+        "clinical_data": {
+            "age": 55.0,
+            "temperature": 36.5,
+            "pulse": 114.0,
+            "systolic_bp": 120.0,
+            "diastolic_bp": 73.0,
+            "respiratory_rate": 16.0,
+            "spo2": 94.0,
+            "gcs": 15.0,
+            "wbc": 9.27,
+            "neutrophil": 8.07,
+            "platelets": 996.0,
+            "creatinine": 0.68,
+            "lactate": null,
+            "procalcitonin": 0.575,
+            "crp": 9.5,
+            "diabetes": "Unknown",
+            "heart_failure": "Unknown",
+            "renal_failure": "Unknown",
+            "cancer": "Unknown",
+            "copd": "Unknown"
+        },
+        "clinical_flags": {
+            "qsofa_rr_ge_22": false,
+            "qsofa_sbp_le_100": false,
+            "qsofa_altered_mentation": false,
+            "lactate_gt_2": null,
+            "creatinine_ge_1_2": false,
+            "platelets_lt_150": false,
+            "spo2_lt_92": false
+        },
+        "patient_context_sent_to_llm": "\n==============================\nPATIENT DATA\n==============================\n\nDemographics:\nAge: 55.0\n\nClinical information:\nChief Complaint:\nBEL AĞRISI . TA:120/73 . NB:114 . SAT:94 . SS:16 . ATEŞ:36.5 . EH:FMF, FİBROMİYALJİ, ESANSİYAL TROMBOSİTOZ . Kİ:- . İA:- . OP:-\n\nDoctor's Clinical Note:\nSAYIN MESLEKTAŞIM. SAĞ YAN AĞRISI ÜROSEPSİS? Treatment and follow-up recommended\n\n==============================\nVITAL SIGNS\n==============================\n\nTemperature: 36.5 °C\nPulse: 114.0 /min\nBlood Pressure: 120.0/73.0 mmHg\nRespiratory Rate: 16.0 /min\nSpO2: 94.0 %\nGCS: 15.0\n\n==============================\nLABORATORY RESULTS\n==============================\n\nWBC: 9.27 x10^3/uL\nNeutrophils: 8.07 x10^3/uL\nPlatelets: 996.0 x10^3/uL\nCreatinine: 0.68 mg/dL\nLactate: UNKNOWN mmol/L\nProcalcitonin: 0.575 ng/mL\nCRP: 9.5 mg/L\n\n==============================\nMEDICAL HISTORY\n==============================\n\nDiabetes: Unknown\nHeart Failure: Unknown\nRenal Failure: Unknown\nCancer: Unknown\nCOPD: Unknown\n\n==============================\nOBJECTIVE CLINICAL FLAGS\n==============================\n\nIMPORTANT:\nThese flags are NOT diagnoses.\nThey are only deterministic observations calculated\nfrom the raw patient data.\n\nqSOFA respiratory rate >=22:\nABSENT\n\nqSOFA systolic BP <=100:\nABSENT\n\nqSOFA altered mentation (GCS <15):\nABSENT\n\nLactate >2 mmol/L:\nUNKNOWN\n\nCreatinine >=1.2 mg/dL:\nABSENT\n\nPlatelets <150 x10^3/uL:\nABSENT\n\nSpO2 <92%:\nABSENT\n",
+        "retrieved_guideline_chunks": [
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 5,
+                "content": "earlier identification and an accurate quantification of the burden of sepsis.\nResults/Recommendations\nDefinition of Sepsis\nSepsis is defined as life-threatening organ dysfunction caused by a dysregulated host \nresponse to infection (Box 3). This new definition emphasizes the primacy of the \nSinger et al. Page 6\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 18,
+                "content": "Box 2. Key Concepts of Sepsis\n• Sepsis is the primary cause of death from infection, especially if not \nrecognized and treated promptly. Its recognition mandates urgent attention.\n• Sepsis is a syndrome shaped by pathogen factors and host factors (eg, sex, \nrace and other genetic determinants, age, comorbidities, environment) with \ncharacteristics that evolve over time. What differentiates sepsis from infection \nis an aberrant or dysregulated host response and the presence of organ \ndysfunction.\n• Sepsis-induced organ dysfunction may be occult; therefore, its presence \nshould be considered in any patient presenting with infection. Conversely,"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 23,
+                "content": "Author Manuscript Author Manuscript Author Manuscript Author Manuscript\nSinger et al. Page 24\nTable 2\nTerminology and International Classification of Diseases Coding\nCurrent Guidelines\nand Terminology Sepsis Septic Shock\n1991 and 2001\nconsensus\nterminology9,10\nSevere sepsis\nSepsis-induced\nhypoperfusion\nSeptic shock13\n2015 Definition Sepsis is\nlife-threatening organ\ndysfunction caused by a\ndysregulated host\nresponse to infection\nSeptic shock is a subset of\nsepsis in which underlying\ncirculatory and\ncellular/metabolic\nabnormalities are profound\nenough to substantially\nincrease mortality\n2015 Clinical\ncriteria\nSuspected or\ndocumented infection\nand\nan acute increase of ≥2\nSOFA points (a proxy"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 19,
+                "content": "Box 3. New Terms and Definitions\n• Sepsis is defined as life-threatening organ dysfunction caused by a \ndysregulated host response to infection.\n• Organ dysfunction can be identified as an acute change in total SOFA score \n≥2 points consequent to the infection.\n– The baseline SOFA score can be assumed to be zero in patients not \nknown to have preexisting organ dysfunction.\n– ASOFA score ≥2 reflects an overall mortality risk of approximately \n10% in a general hospital population with suspected infection. Even \npatients presenting with modest dysfunction can deteriorate further, \nemphasizing the seriousness of this condition and the need for"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 18,
+                "content": "should be considered in any patient presenting with infection. Conversely, \nunrecognized infection may be the cause of new-onset organ dysfunction. \nAny unexplained organ dysfunction should thus raise the possibility of \nunderlying infection.\n• The clinical and biological phenotype of sepsis can be modified by \npreexisting acute illness, long-standing comorbidities, medication, and \ninterventions.\n• Specific infections may result in local organ dysfunction without generating a \ndysregulated systemic host response.\nSinger et al. Page 19\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 15,
+                "content": "Respir Crit Care Med. 2015; 192 (8) 958–964. [PubMed: 26158402] \n26. Kaukonen K-M, Bailey M, Pilcher D, Cooper DJ, Bellomo R. Systemic inflammatory response \nsyndrome criteria in defining severe sepsis. N Engl J Med. 2015; 372 (17) 1629–1638. [PubMed: \n25776936] \n27. Vincent JL, Moreno R, Takala J, et al. Working Group on Sepsis-Related Problems of the European \nSociety of Intensive Care Medicine. The SOFA (Sepsis-related Organ Failure Assessment) score \nto describe organ dysfunction/failure. Intensive Care Med. 1996; 22 (7) 707–710. [PubMed: \n8844239] \n28. Vincent JL, de Mendonça A, Cantraine F, et al. Working Group on \"Sepsis-Related Problems” of"
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 3,
+                "content": "definitions of sepsis and septic shock to be consistent with improved understanding of \nthe pathobiology. A definition is the description of an illness concept; thus, a definition \nof sepsis should describe what sepsis “is.” This chosen approach allowed discussion of \nbiological concepts that are currently incompletely understood, such as genetic influences \nand cellular abnormalities. The sepsis illness concept is predicated on infection as its trigger, \nacknowledging the current challenges in the microbiological identification of infection. It \nwas not, however, within the task force brief to examine definitions of infection."
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 12,
+                "content": "is crucial in ensuring clear communication and a more accurate appreciation of the scale \nof the problem of sepsis. An added challenge is that infection is seldom confirmed \nmicrobiologically when treatment is started; even when microbiological tests are completed, \nculture-positive “sepsis” is observed in only 30% to 40% of cases. Thus, when sepsis \nepidemiology is assessed and reported, operationalization will necessarily involve proxies \nsuch as antibiotic commencement or a clinically determined probability of infection. Future \nepidemiology studies should consider reporting the proportion of microbiology-positive \nsepsis."
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 19,
+                "content": "or respiratory rate ≥22/min.\n• Septic shock is a subset of sepsis in which underlying circulatory and cellular/\nmetabolic abnormalities are profound enough to substantially increase \nmortality.\n• Patients with septic shock can be identified with a clinical construct of sepsis \nwith persisting hypotension requiring vasopressors to maintain MAP ≥65 mm \nHg and having a serum lactate level >2 mmol/L (18mg/dL) despite adequate \nvolume resuscitation. With these criteria, hospital mortality is in excess of \n40%.\nAbbreviations: MAP, mean arterial pressure; qSOFA, quick SOFA; SOFA: Sequential \n[Sepsis-related] Organ Failure Assessment.\nSinger et al. Page 20"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 2,
+                "content": "Septic shock should be defined as a subset of sepsis in which particularly profound circulatory, \ncellular, and metabolic abnormalities are associated with a greater risk of mortality than with \nsepsis alone. Patients with septic shock can be clinically identified by a vasopressor requirement \nto maintain a mean arterial pressure of 65 mm Hg or greater and serum lactate level greater than 2 \nmmol/L (>18 mg/dL) in the absence of hypovolemia. This combination is associated with hospital \nmortality rates greater than 40%. In out-of-hospital, emergency department, or general hospital \nward settings, adult patients with suspected infection can be rapidly identified as being more likely"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 8,
+                "content": "Definition of Septic Shock\nSeptic shock is defined as a subset of sepsis in which underlying circulatory and cellular \nmetabolism abnormalities are profound enough to substantially increase mortality (Box 3). \nThe 2001 task force definitions described septic shock as “a state of acute circulatory \nfailure.”10 The task force favored a broader view to differentiate septic shock from \ncardiovascular dysfunction alone and to recognize the importance of cellular abnormalities \n(Box 3). There was unanimous agreement that septic shock should reflect a more severe \nillness with a much higher likelihood of death than sepsis alone.\nClinical Criteria to Identify Septic Shock"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 20,
+                "content": "Box 4. qSOFA (Quick SOFA) Criteria\nRespiratory rate ≥22/min\nAltered mentation\nSystolic blood pressure ≤100 mm Hg\nSinger et al. Page 21\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "systolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater, \nprovides simple bedside criteria to identify adult patients with suspected infection who are \nlikely to have poor outcomes (Box 4). Because predictive validity was unchanged (P = \n.55), the task force chose to emphasize altered mentation because it represents any Glasgow \nComa Scale score less than 15 and will reduce the measurement burden. Although qSOFA is \nless robust than a SOFA score of 2 or greater in the ICU, it does not require laboratory tests \nand can be assessed quickly and repeatedly. The task force suggests that qSOFA criteria be"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "For patients with suspected infection within the ICU, the SOFA score had predictive \nvalidity (AUROC = 0.74; 95% CI, 0.73–0.76) superior to that of this model (AUROC \n= 0.66; 95% CI, 0.64–0.68), likely reflecting the modifying effects of interventions (eg, \nvasopressors, sedative agents, mechanical ventilation). Addition of lactate measurement did \nnot meaningfully improve predictive validity but may help identify patients at intermediate \nrisk.\nThis new measure, termed qSOFA (for quick SOFA) and incorporating altered mentation, \nsystolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater,"
+            }
+        ],
+        "raw_model_output": "{\n  \"step_by_step_analysis\": \"The patient presents with a chief complaint of right-sided pain, which may suggest an infectious etiology such as urinary tract infection or pyelonephritis. The clinical note mentions 'SAĞ YAN AĞRISI ÜROSEPSİS?', indicating suspicion for urosepsis. However, there is no clear evidence of organ dysfunction based on the vital signs and laboratory results provided (GCS 15, normal respiratory rate, blood pressure within acceptable range, lactate level unknown but not elevated). The inflammatory markers are slightly elevated (CRP 9.5 mg/L), but this alone does not confirm infection or sepsis.\",\n  \"possible_infection_focus\": \"Upper urinary tract\",\n  \"possible_preliminary_diagnosis\": \"Suspected urosepsis, pending further evaluation and confirmation of infection focus\",\n  \"sepsis_risk\": \"Moderate\",\n  \"septik_shock_risk\": \"Low\",\n  \"recommended_empiric_antibiotic\": \"Ceftriaxone or a similar broad-spectrum antibiotic covering gram-negative organisms until the source of infection is confirmed and culture results are available.\",\n  \"hospitalization_requirement\": \"Yes - The patient's clinical presentation suggests potential urosepsis, requiring close monitoring and appropriate treatment in an acute care setting.\",\n  \"icu_requirement\": \"No - Vital signs stable without evidence of severe organ dysfunction or shock. However, hospital admission is recommended for further evaluation and management.\",\n  \"clinical_risk_assessment\": \"The patient's risk of clinical deterioration is moderate due to suspected urosepsis. Close monitoring in the hospital setting is necessary to confirm infection and manage any potential complications.\"\n}",
+        "validated_output": {
+            "step_by_step_analysis": "The patient presents with a chief complaint of right-sided pain, which may suggest an infectious etiology such as urinary tract infection or pyelonephritis. The clinical note mentions 'SAĞ YAN AĞRISI ÜROSEPSİS?', indicating suspicion for urosepsis. However, there is no clear evidence of organ dysfunction based on the vital signs and laboratory results provided (GCS 15, normal respiratory rate, blood pressure within acceptable range, lactate level unknown but not elevated). The inflammatory markers are slightly elevated (CRP 9.5 mg/L), but this alone does not confirm infection or sepsis.",
+            "possible_infection_focus": "Upper urinary tract",
+            "possible_preliminary_diagnosis": "Suspected urosepsis, pending further evaluation and confirmation of infection focus",
+            "sepsis_risk": "Moderate",
+            "septik_shock_risk": "Low",
+            "recommended_empiric_antibiotic": "Ceftriaxone or a similar broad-spectrum antibiotic covering gram-negative organisms until the source of infection is confirmed and culture results are available.",
+            "hospitalization_requirement": "Yes - The patient's clinical presentation suggests potential urosepsis, requiring close monitoring and appropriate treatment in an acute care setting.",
+            "icu_requirement": "No - Vital signs stable without evidence of severe organ dysfunction or shock. However, hospital admission is recommended for further evaluation and management.",
+            "clinical_risk_assessment": "The patient's risk of clinical deterioration is moderate due to suspected urosepsis. Close monitoring in the hospital setting is necessary to confirm infection and manage any potential complications."
+        }
+    },
+    {
+        "admission_no": "7579405",
+        "clinical_data": {
+            "age": 55.0,
+            "temperature": 36.5,
+            "pulse": 88.0,
+            "systolic_bp": 128.0,
+            "diastolic_bp": 83.0,
+            "respiratory_rate": 16.0,
+            "spo2": 98.0,
+            "gcs": 15.0,
+            "wbc": 18.86,
+            "neutrophil": 16.13,
+            "platelets": 493.0,
+            "creatinine": 0.77,
+            "lactate": null,
+            "procalcitonin": null,
+            "crp": 259.07,
+            "diabetes": "Unknown",
+            "heart_failure": "Unknown",
+            "renal_failure": "Unknown",
+            "cancer": "Unknown",
+            "copd": "Unknown"
+        },
+        "clinical_flags": {
+            "qsofa_rr_ge_22": false,
+            "qsofa_sbp_le_100": false,
+            "qsofa_altered_mentation": false,
+            "lactate_gt_2": null,
+            "creatinine_ge_1_2": false,
+            "platelets_lt_150": false,
+            "spo2_lt_92": false
+        },
+        "patient_context_sent_to_llm": "\n==============================\nPATIENT DATA\n==============================\n\nDemographics:\nAge: 55.0\n\nClinical information:\nChief Complaint:\nYAN AĞRISI. . TA:128/83 . NABIZ:88 SO2:98 . SS:16 . ATEŞ:36,5 . EH:- . Kİ:- . İA:- . OP:-\n\nDoctor's Clinical Note:\nSAYIN MESLEKTAŞIM. SAĞ YAN AĞRISI ÜROSEPSİS? Treatment and follow-up recommended\n\n==============================\nVITAL SIGNS\n==============================\n\nTemperature: 36.5 °C\nPulse: 88.0 /min\nBlood Pressure: 128.0/83.0 mmHg\nRespiratory Rate: 16.0 /min\nSpO2: 98.0 %\nGCS: 15.0\n\n==============================\nLABORATORY RESULTS\n==============================\n\nWBC: 18.86 x10^3/uL\nNeutrophils: 16.13 x10^3/uL\nPlatelets: 493.0 x10^3/uL\nCreatinine: 0.77 mg/dL\nLactate: UNKNOWN mmol/L\nProcalcitonin: UNKNOWN ng/mL\nCRP: 259.07 mg/L\n\n==============================\nMEDICAL HISTORY\n==============================\n\nDiabetes: Unknown\nHeart Failure: Unknown\nRenal Failure: Unknown\nCancer: Unknown\nCOPD: Unknown\n\n==============================\nOBJECTIVE CLINICAL FLAGS\n==============================\n\nIMPORTANT:\nThese flags are NOT diagnoses.\nThey are only deterministic observations calculated\nfrom the raw patient data.\n\nqSOFA respiratory rate >=22:\nABSENT\n\nqSOFA systolic BP <=100:\nABSENT\n\nqSOFA altered mentation (GCS <15):\nABSENT\n\nLactate >2 mmol/L:\nUNKNOWN\n\nCreatinine >=1.2 mg/dL:\nABSENT\n\nPlatelets <150 x10^3/uL:\nABSENT\n\nSpO2 <92%:\nABSENT\n",
+        "retrieved_guideline_chunks": [
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 5,
+                "content": "earlier identification and an accurate quantification of the burden of sepsis.\nResults/Recommendations\nDefinition of Sepsis\nSepsis is defined as life-threatening organ dysfunction caused by a dysregulated host \nresponse to infection (Box 3). This new definition emphasizes the primacy of the \nSinger et al. Page 6\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 18,
+                "content": "Box 2. Key Concepts of Sepsis\n• Sepsis is the primary cause of death from infection, especially if not \nrecognized and treated promptly. Its recognition mandates urgent attention.\n• Sepsis is a syndrome shaped by pathogen factors and host factors (eg, sex, \nrace and other genetic determinants, age, comorbidities, environment) with \ncharacteristics that evolve over time. What differentiates sepsis from infection \nis an aberrant or dysregulated host response and the presence of organ \ndysfunction.\n• Sepsis-induced organ dysfunction may be occult; therefore, its presence \nshould be considered in any patient presenting with infection. Conversely,"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 23,
+                "content": "Author Manuscript Author Manuscript Author Manuscript Author Manuscript\nSinger et al. Page 24\nTable 2\nTerminology and International Classification of Diseases Coding\nCurrent Guidelines\nand Terminology Sepsis Septic Shock\n1991 and 2001\nconsensus\nterminology9,10\nSevere sepsis\nSepsis-induced\nhypoperfusion\nSeptic shock13\n2015 Definition Sepsis is\nlife-threatening organ\ndysfunction caused by a\ndysregulated host\nresponse to infection\nSeptic shock is a subset of\nsepsis in which underlying\ncirculatory and\ncellular/metabolic\nabnormalities are profound\nenough to substantially\nincrease mortality\n2015 Clinical\ncriteria\nSuspected or\ndocumented infection\nand\nan acute increase of ≥2\nSOFA points (a proxy"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 19,
+                "content": "Box 3. New Terms and Definitions\n• Sepsis is defined as life-threatening organ dysfunction caused by a \ndysregulated host response to infection.\n• Organ dysfunction can be identified as an acute change in total SOFA score \n≥2 points consequent to the infection.\n– The baseline SOFA score can be assumed to be zero in patients not \nknown to have preexisting organ dysfunction.\n– ASOFA score ≥2 reflects an overall mortality risk of approximately \n10% in a general hospital population with suspected infection. Even \npatients presenting with modest dysfunction can deteriorate further, \nemphasizing the seriousness of this condition and the need for"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 18,
+                "content": "should be considered in any patient presenting with infection. Conversely, \nunrecognized infection may be the cause of new-onset organ dysfunction. \nAny unexplained organ dysfunction should thus raise the possibility of \nunderlying infection.\n• The clinical and biological phenotype of sepsis can be modified by \npreexisting acute illness, long-standing comorbidities, medication, and \ninterventions.\n• Specific infections may result in local organ dysfunction without generating a \ndysregulated systemic host response.\nSinger et al. Page 19\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 15,
+                "content": "Respir Crit Care Med. 2015; 192 (8) 958–964. [PubMed: 26158402] \n26. Kaukonen K-M, Bailey M, Pilcher D, Cooper DJ, Bellomo R. Systemic inflammatory response \nsyndrome criteria in defining severe sepsis. N Engl J Med. 2015; 372 (17) 1629–1638. [PubMed: \n25776936] \n27. Vincent JL, Moreno R, Takala J, et al. Working Group on Sepsis-Related Problems of the European \nSociety of Intensive Care Medicine. The SOFA (Sepsis-related Organ Failure Assessment) score \nto describe organ dysfunction/failure. Intensive Care Med. 1996; 22 (7) 707–710. [PubMed: \n8844239] \n28. Vincent JL, de Mendonça A, Cantraine F, et al. Working Group on \"Sepsis-Related Problems” of"
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 3,
+                "content": "definitions of sepsis and septic shock to be consistent with improved understanding of \nthe pathobiology. A definition is the description of an illness concept; thus, a definition \nof sepsis should describe what sepsis “is.” This chosen approach allowed discussion of \nbiological concepts that are currently incompletely understood, such as genetic influences \nand cellular abnormalities. The sepsis illness concept is predicated on infection as its trigger, \nacknowledging the current challenges in the microbiological identification of infection. It \nwas not, however, within the task force brief to examine definitions of infection."
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 12,
+                "content": "is crucial in ensuring clear communication and a more accurate appreciation of the scale \nof the problem of sepsis. An added challenge is that infection is seldom confirmed \nmicrobiologically when treatment is started; even when microbiological tests are completed, \nculture-positive “sepsis” is observed in only 30% to 40% of cases. Thus, when sepsis \nepidemiology is assessed and reported, operationalization will necessarily involve proxies \nsuch as antibiotic commencement or a clinically determined probability of infection. Future \nepidemiology studies should consider reporting the proportion of microbiology-positive \nsepsis."
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 19,
+                "content": "or respiratory rate ≥22/min.\n• Septic shock is a subset of sepsis in which underlying circulatory and cellular/\nmetabolic abnormalities are profound enough to substantially increase \nmortality.\n• Patients with septic shock can be identified with a clinical construct of sepsis \nwith persisting hypotension requiring vasopressors to maintain MAP ≥65 mm \nHg and having a serum lactate level >2 mmol/L (18mg/dL) despite adequate \nvolume resuscitation. With these criteria, hospital mortality is in excess of \n40%.\nAbbreviations: MAP, mean arterial pressure; qSOFA, quick SOFA; SOFA: Sequential \n[Sepsis-related] Organ Failure Assessment.\nSinger et al. Page 20"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 2,
+                "content": "Septic shock should be defined as a subset of sepsis in which particularly profound circulatory, \ncellular, and metabolic abnormalities are associated with a greater risk of mortality than with \nsepsis alone. Patients with septic shock can be clinically identified by a vasopressor requirement \nto maintain a mean arterial pressure of 65 mm Hg or greater and serum lactate level greater than 2 \nmmol/L (>18 mg/dL) in the absence of hypovolemia. This combination is associated with hospital \nmortality rates greater than 40%. In out-of-hospital, emergency department, or general hospital \nward settings, adult patients with suspected infection can be rapidly identified as being more likely"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 8,
+                "content": "Definition of Septic Shock\nSeptic shock is defined as a subset of sepsis in which underlying circulatory and cellular \nmetabolism abnormalities are profound enough to substantially increase mortality (Box 3). \nThe 2001 task force definitions described septic shock as “a state of acute circulatory \nfailure.”10 The task force favored a broader view to differentiate septic shock from \ncardiovascular dysfunction alone and to recognize the importance of cellular abnormalities \n(Box 3). There was unanimous agreement that septic shock should reflect a more severe \nillness with a much higher likelihood of death than sepsis alone.\nClinical Criteria to Identify Septic Shock"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 20,
+                "content": "Box 4. qSOFA (Quick SOFA) Criteria\nRespiratory rate ≥22/min\nAltered mentation\nSystolic blood pressure ≤100 mm Hg\nSinger et al. Page 21\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "systolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater, \nprovides simple bedside criteria to identify adult patients with suspected infection who are \nlikely to have poor outcomes (Box 4). Because predictive validity was unchanged (P = \n.55), the task force chose to emphasize altered mentation because it represents any Glasgow \nComa Scale score less than 15 and will reduce the measurement burden. Although qSOFA is \nless robust than a SOFA score of 2 or greater in the ICU, it does not require laboratory tests \nand can be assessed quickly and repeatedly. The task force suggests that qSOFA criteria be"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "For patients with suspected infection within the ICU, the SOFA score had predictive \nvalidity (AUROC = 0.74; 95% CI, 0.73–0.76) superior to that of this model (AUROC \n= 0.66; 95% CI, 0.64–0.68), likely reflecting the modifying effects of interventions (eg, \nvasopressors, sedative agents, mechanical ventilation). Addition of lactate measurement did \nnot meaningfully improve predictive validity but may help identify patients at intermediate \nrisk.\nThis new measure, termed qSOFA (for quick SOFA) and incorporating altered mentation, \nsystolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater,"
+            }
+        ],
+        "raw_model_output": "{\n  \"step_by_step_analysis\": \"The patient presents with a chief complaint of right-sided pain, which may suggest an infectious etiology such as urosepsis. Laboratory results show elevated WBC and CRP levels, indicative of inflammation or infection. However, there is no clear evidence of organ dysfunction based on the vital signs and laboratory data provided (GCS 15, normal respiratory rate, blood pressure within normal range). The absence of qSOFA criteria for sepsis suggests that organ dysfunction attributable to an infectious cause is not present.\",\n  \"possible_infection_focus\": \"Upper urinary tract\",\n  \"possible_preliminary_diagnosis\": \"Suspected urosepsis due to right-sided pain and elevated inflammatory markers. However, no definitive evidence of infection or organ dysfunction exists at this time.\",\n  \"sepsis_risk\": \"Low\",\n  \"septik_shock_risk\": \"Low\",\n  \"recommended_empiric_antibiotic\": \"Not indicated from available data\",\n  \"hospitalization_requirement\": \"Yes - The patient's symptoms and laboratory findings suggest a potential urinary tract infection that may require further evaluation and treatment. Hospital admission is recommended for proper diagnosis, monitoring, and management.\",\n  \"icu_requirement\": \"No - There are no signs of severe organ dysfunction or septic shock at this time; however, close monitoring in the hospital setting is warranted.\",\n  \"clinical_risk_assessment\": \"The patient's risk of clinical deterioration appears low based on current data. However, due to the suspicion of urosepsis and elevated inflammatory markers, further diagnostic evaluation and treatment are necessary.\"\n}",
+        "validated_output": {
+            "step_by_step_analysis": "The patient presents with a chief complaint of right-sided pain, which may suggest an infectious etiology such as urosepsis. Laboratory results show elevated WBC and CRP levels, indicative of inflammation or infection. However, there is no clear evidence of organ dysfunction based on the vital signs and laboratory data provided (GCS 15, normal respiratory rate, blood pressure within normal range). The absence of qSOFA criteria for sepsis suggests that organ dysfunction attributable to an infectious cause is not present.",
+            "possible_infection_focus": "Upper urinary tract",
+            "possible_preliminary_diagnosis": "Suspected urosepsis due to right-sided pain and elevated inflammatory markers. However, no definitive evidence of infection or organ dysfunction exists at this time.",
+            "sepsis_risk": "Low",
+            "septik_shock_risk": "Low",
+            "recommended_empiric_antibiotic": "Not indicated from available data",
+            "hospitalization_requirement": "Yes - The patient's symptoms and laboratory findings suggest a potential urinary tract infection that may require further evaluation and treatment. Hospital admission is recommended for proper diagnosis, monitoring, and management.",
+            "icu_requirement": "No - There are no signs of severe organ dysfunction or septic shock at this time; however, close monitoring in the hospital setting is warranted.",
+            "clinical_risk_assessment": "The patient's risk of clinical deterioration appears low based on current data. However, due to the suspicion of urosepsis and elevated inflammatory markers, further diagnostic evaluation and treatment are necessary."
+        }
+    },
+    {
+        "admission_no": "7579548",
+        "clinical_data": {
+            "age": 79.0,
+            "temperature": 36.7,
+            "pulse": 83.0,
+            "systolic_bp": 107.0,
+            "diastolic_bp": 88.0,
+            "respiratory_rate": 16.0,
+            "spo2": 88.0,
+            "gcs": 15.0,
+            "wbc": 8.8,
+            "neutrophil": 8.61,
+            "platelets": 380.0,
+            "creatinine": 1.53,
+            "lactate": 1.91,
+            "procalcitonin": 0.605,
+            "crp": 96.09,
+            "diabetes": "DİYABET",
+            "heart_failure": "Unknown",
+            "renal_failure": "Unknown",
+            "cancer": "Unknown",
+            "copd": "KOAH"
+        },
+        "clinical_flags": {
+            "qsofa_rr_ge_22": false,
+            "qsofa_sbp_le_100": false,
+            "qsofa_altered_mentation": false,
+            "lactate_gt_2": false,
+            "creatinine_ge_1_2": true,
+            "platelets_lt_150": false,
+            "spo2_lt_92": true
+        },
+        "patient_context_sent_to_llm": "\n==============================\nPATIENT DATA\n==============================\n\nDemographics:\nAge: 79.0\n\nClinical information:\nChief Complaint:\nGÖĞÜS AĞRISI . TA:107/88 . NB:83 . SAT:88 . SS:16 . ATEŞ:36.7 . EH:Hypertension, Diabetes Mellitus, COPD, KAH, Congestive Heart Failure, KOLESTROL . Kİ:TRAJENTA, MONODUR, SECİTA, PLAVİX, PANTO, DESAL, RONKOTOL, İNSÜLİN, ATOR, LATİXA, ECOPİRİN, ARLEC, PLETAL . İA:PENİSİLİN . OP: ANJİYO(4-5 STENT?) 8 KERE\n\nDoctor's Clinical Note:\nSAYIN MESLEKTAŞIM. SAYIN MESLEKTAŞIM. GÖĞÜS AĞRISI NEFES DARLIĞI İLE GELEN HASTANIN BİLİNEN Hypertension Diabetes Mellitus KOLESTEROL GEÇİRİLMİŞ TBC VE KAH ÖYKÜSÜ MEVCUT 1 HAFTA ÖNCE ANJİO OLAN HASTA DÜN TABURCU EDİLMİŞ. GELİŞ SATURASYON 88 OLAN HASTANIN WBC 18000 . CRP: 96 ÇEKİLEN TORASK TOMOGRAFİSİNDE YAYGIN BİLATERAL BUZLU CAM ALANLARI VE YER YER TOMURCUKLANMIŞ AĞAÇ MANZARASI MEVCUT. HASTANIN TARAFINIZCA DEĞERLENDİRİLMESİ RİCA OLUNUR. SAYGILARIMLA\n\n==============================\nVITAL SIGNS\n==============================\n\nTemperature: 36.7 °C\nPulse: 83.0 /min\nBlood Pressure: 107.0/88.0 mmHg\nRespiratory Rate: 16.0 /min\nSpO2: 88.0 %\nGCS: 15.0\n\n==============================\nLABORATORY RESULTS\n==============================\n\nWBC: 8.8 x10^3/uL\nNeutrophils: 8.61 x10^3/uL\nPlatelets: 380.0 x10^3/uL\nCreatinine: 1.53 mg/dL\nLactate: 1.91 mmol/L\nProcalcitonin: 0.605 ng/mL\nCRP: 96.09 mg/L\n\n==============================\nMEDICAL HISTORY\n==============================\n\nDiabetes: DİYABET\nHeart Failure: Unknown\nRenal Failure: Unknown\nCancer: Unknown\nCOPD: KOAH\n\n==============================\nOBJECTIVE CLINICAL FLAGS\n==============================\n\nIMPORTANT:\nThese flags are NOT diagnoses.\nThey are only deterministic observations calculated\nfrom the raw patient data.\n\nqSOFA respiratory rate >=22:\nABSENT\n\nqSOFA systolic BP <=100:\nABSENT\n\nqSOFA altered mentation (GCS <15):\nABSENT\n\nLactate >2 mmol/L:\nABSENT\n\nCreatinine >=1.2 mg/dL:\nPRESENT\n\nPlatelets <150 x10^3/uL:\nABSENT\n\nSpO2 <92%:\nPRESENT\n",
+        "retrieved_guideline_chunks": [
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 5,
+                "content": "earlier identification and an accurate quantification of the burden of sepsis.\nResults/Recommendations\nDefinition of Sepsis\nSepsis is defined as life-threatening organ dysfunction caused by a dysregulated host \nresponse to infection (Box 3). This new definition emphasizes the primacy of the \nSinger et al. Page 6\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 18,
+                "content": "Box 2. Key Concepts of Sepsis\n• Sepsis is the primary cause of death from infection, especially if not \nrecognized and treated promptly. Its recognition mandates urgent attention.\n• Sepsis is a syndrome shaped by pathogen factors and host factors (eg, sex, \nrace and other genetic determinants, age, comorbidities, environment) with \ncharacteristics that evolve over time. What differentiates sepsis from infection \nis an aberrant or dysregulated host response and the presence of organ \ndysfunction.\n• Sepsis-induced organ dysfunction may be occult; therefore, its presence \nshould be considered in any patient presenting with infection. Conversely,"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 23,
+                "content": "Author Manuscript Author Manuscript Author Manuscript Author Manuscript\nSinger et al. Page 24\nTable 2\nTerminology and International Classification of Diseases Coding\nCurrent Guidelines\nand Terminology Sepsis Septic Shock\n1991 and 2001\nconsensus\nterminology9,10\nSevere sepsis\nSepsis-induced\nhypoperfusion\nSeptic shock13\n2015 Definition Sepsis is\nlife-threatening organ\ndysfunction caused by a\ndysregulated host\nresponse to infection\nSeptic shock is a subset of\nsepsis in which underlying\ncirculatory and\ncellular/metabolic\nabnormalities are profound\nenough to substantially\nincrease mortality\n2015 Clinical\ncriteria\nSuspected or\ndocumented infection\nand\nan acute increase of ≥2\nSOFA points (a proxy"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 19,
+                "content": "Box 3. New Terms and Definitions\n• Sepsis is defined as life-threatening organ dysfunction caused by a \ndysregulated host response to infection.\n• Organ dysfunction can be identified as an acute change in total SOFA score \n≥2 points consequent to the infection.\n– The baseline SOFA score can be assumed to be zero in patients not \nknown to have preexisting organ dysfunction.\n– ASOFA score ≥2 reflects an overall mortality risk of approximately \n10% in a general hospital population with suspected infection. Even \npatients presenting with modest dysfunction can deteriorate further, \nemphasizing the seriousness of this condition and the need for"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 18,
+                "content": "should be considered in any patient presenting with infection. Conversely, \nunrecognized infection may be the cause of new-onset organ dysfunction. \nAny unexplained organ dysfunction should thus raise the possibility of \nunderlying infection.\n• The clinical and biological phenotype of sepsis can be modified by \npreexisting acute illness, long-standing comorbidities, medication, and \ninterventions.\n• Specific infections may result in local organ dysfunction without generating a \ndysregulated systemic host response.\nSinger et al. Page 19\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 15,
+                "content": "Respir Crit Care Med. 2015; 192 (8) 958–964. [PubMed: 26158402] \n26. Kaukonen K-M, Bailey M, Pilcher D, Cooper DJ, Bellomo R. Systemic inflammatory response \nsyndrome criteria in defining severe sepsis. N Engl J Med. 2015; 372 (17) 1629–1638. [PubMed: \n25776936] \n27. Vincent JL, Moreno R, Takala J, et al. Working Group on Sepsis-Related Problems of the European \nSociety of Intensive Care Medicine. The SOFA (Sepsis-related Organ Failure Assessment) score \nto describe organ dysfunction/failure. Intensive Care Med. 1996; 22 (7) 707–710. [PubMed: \n8844239] \n28. Vincent JL, de Mendonça A, Cantraine F, et al. Working Group on \"Sepsis-Related Problems” of"
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 3,
+                "content": "definitions of sepsis and septic shock to be consistent with improved understanding of \nthe pathobiology. A definition is the description of an illness concept; thus, a definition \nof sepsis should describe what sepsis “is.” This chosen approach allowed discussion of \nbiological concepts that are currently incompletely understood, such as genetic influences \nand cellular abnormalities. The sepsis illness concept is predicated on infection as its trigger, \nacknowledging the current challenges in the microbiological identification of infection. It \nwas not, however, within the task force brief to examine definitions of infection."
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 12,
+                "content": "is crucial in ensuring clear communication and a more accurate appreciation of the scale \nof the problem of sepsis. An added challenge is that infection is seldom confirmed \nmicrobiologically when treatment is started; even when microbiological tests are completed, \nculture-positive “sepsis” is observed in only 30% to 40% of cases. Thus, when sepsis \nepidemiology is assessed and reported, operationalization will necessarily involve proxies \nsuch as antibiotic commencement or a clinically determined probability of infection. Future \nepidemiology studies should consider reporting the proportion of microbiology-positive \nsepsis."
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 19,
+                "content": "or respiratory rate ≥22/min.\n• Septic shock is a subset of sepsis in which underlying circulatory and cellular/\nmetabolic abnormalities are profound enough to substantially increase \nmortality.\n• Patients with septic shock can be identified with a clinical construct of sepsis \nwith persisting hypotension requiring vasopressors to maintain MAP ≥65 mm \nHg and having a serum lactate level >2 mmol/L (18mg/dL) despite adequate \nvolume resuscitation. With these criteria, hospital mortality is in excess of \n40%.\nAbbreviations: MAP, mean arterial pressure; qSOFA, quick SOFA; SOFA: Sequential \n[Sepsis-related] Organ Failure Assessment.\nSinger et al. Page 20"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 2,
+                "content": "Septic shock should be defined as a subset of sepsis in which particularly profound circulatory, \ncellular, and metabolic abnormalities are associated with a greater risk of mortality than with \nsepsis alone. Patients with septic shock can be clinically identified by a vasopressor requirement \nto maintain a mean arterial pressure of 65 mm Hg or greater and serum lactate level greater than 2 \nmmol/L (>18 mg/dL) in the absence of hypovolemia. This combination is associated with hospital \nmortality rates greater than 40%. In out-of-hospital, emergency department, or general hospital \nward settings, adult patients with suspected infection can be rapidly identified as being more likely"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 8,
+                "content": "Definition of Septic Shock\nSeptic shock is defined as a subset of sepsis in which underlying circulatory and cellular \nmetabolism abnormalities are profound enough to substantially increase mortality (Box 3). \nThe 2001 task force definitions described septic shock as “a state of acute circulatory \nfailure.”10 The task force favored a broader view to differentiate septic shock from \ncardiovascular dysfunction alone and to recognize the importance of cellular abnormalities \n(Box 3). There was unanimous agreement that septic shock should reflect a more severe \nillness with a much higher likelihood of death than sepsis alone.\nClinical Criteria to Identify Septic Shock"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 20,
+                "content": "Box 4. qSOFA (Quick SOFA) Criteria\nRespiratory rate ≥22/min\nAltered mentation\nSystolic blood pressure ≤100 mm Hg\nSinger et al. Page 21\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "systolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater, \nprovides simple bedside criteria to identify adult patients with suspected infection who are \nlikely to have poor outcomes (Box 4). Because predictive validity was unchanged (P = \n.55), the task force chose to emphasize altered mentation because it represents any Glasgow \nComa Scale score less than 15 and will reduce the measurement burden. Although qSOFA is \nless robust than a SOFA score of 2 or greater in the ICU, it does not require laboratory tests \nand can be assessed quickly and repeatedly. The task force suggests that qSOFA criteria be"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "For patients with suspected infection within the ICU, the SOFA score had predictive \nvalidity (AUROC = 0.74; 95% CI, 0.73–0.76) superior to that of this model (AUROC \n= 0.66; 95% CI, 0.64–0.68), likely reflecting the modifying effects of interventions (eg, \nvasopressors, sedative agents, mechanical ventilation). Addition of lactate measurement did \nnot meaningfully improve predictive validity but may help identify patients at intermediate \nrisk.\nThis new measure, termed qSOFA (for quick SOFA) and incorporating altered mentation, \nsystolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater,"
+            }
+        ],
+        "raw_model_output": "{\n  \"step_by_step_analysis\": \"The patient has a SpO2 of 88%, which is below the normal range, and a creatinine level of 1.53 mg/dL, indicating potential renal dysfunction. There are no clear signs of infection based on symptoms or clinical note. The CRP and procalcitonin levels suggest some inflammation but do not definitively indicate an infectious cause. No objective evidence of acute organ dysfunction attributable to infection is present.\",\n  \"possible_infection_focus\": \"N/A - Infection not established\",\n  \"possible_preliminary_diagnosis\": \"Chronic kidney disease or acute renal impairment, possibly exacerbated by hypoxemia and COPD.\",\n  \"sepsis_risk\": \"Low\",\n  \"septik_shock_risk\": \"Low\",\n  \"recommended_empiric_antibiotic\": \"Not indicated from available data\",\n  \"hospitalization_requirement\": \"Yes - The patient's SpO2 is low, indicating potential respiratory compromise and the presence of COPD. Additionally, renal dysfunction may require monitoring.\",\n  \"icu_requirement\": \"No - While there are signs of organ dysfunction, they do not meet criteria for septic shock or severe hemodynamic instability.\",\n  \"clinical_risk_assessment\": \"The patient's primary risks stem from hypoxemia and chronic respiratory disease (COPD), rather than infection. The renal impairment requires monitoring but does not indicate acute sepsis-related risk.\"\n}",
+        "validated_output": {
+            "step_by_step_analysis": "The patient has a SpO2 of 88%, which is below the normal range, and a creatinine level of 1.53 mg/dL, indicating potential renal dysfunction. There are no clear signs of infection based on symptoms or clinical note. The CRP and procalcitonin levels suggest some inflammation but do not definitively indicate an infectious cause. No objective evidence of acute organ dysfunction attributable to infection is present.",
+            "possible_infection_focus": "N/A - Infection not established",
+            "possible_preliminary_diagnosis": "Chronic kidney disease or acute renal impairment, possibly exacerbated by hypoxemia and COPD.",
+            "sepsis_risk": "Low",
+            "septik_shock_risk": "Low",
+            "recommended_empiric_antibiotic": "Not indicated from available data",
+            "hospitalization_requirement": "Yes - The patient's SpO2 is low, indicating potential respiratory compromise and the presence of COPD. Additionally, renal dysfunction may require monitoring.",
+            "icu_requirement": "No - While there are signs of organ dysfunction, they do not meet criteria for septic shock or severe hemodynamic instability.",
+            "clinical_risk_assessment": "The patient's primary risks stem from hypoxemia and chronic respiratory disease (COPD), rather than infection. The renal impairment requires monitoring but does not indicate acute sepsis-related risk."
+        }
+    },
+    {
+        "admission_no": "7579563",
+        "clinical_data": {
+            "age": 83.0,
+            "temperature": 36.3,
+            "pulse": 81.0,
+            "systolic_bp": 173.0,
+            "diastolic_bp": 97.0,
+            "respiratory_rate": 19.0,
+            "spo2": 78.0,
+            "gcs": 15.0,
+            "wbc": 8.78,
+            "neutrophil": 7.28,
+            "platelets": 220.0,
+            "creatinine": 3.61,
+            "lactate": 2.43,
+            "procalcitonin": null,
+            "crp": 91.4,
+            "diabetes": "DİYABET",
+            "heart_failure": "Unknown",
+            "renal_failure": "Unknown",
+            "cancer": "Unknown",
+            "copd": "Unknown"
+        },
+        "clinical_flags": {
+            "qsofa_rr_ge_22": false,
+            "qsofa_sbp_le_100": false,
+            "qsofa_altered_mentation": false,
+            "lactate_gt_2": true,
+            "creatinine_ge_1_2": true,
+            "platelets_lt_150": false,
+            "spo2_lt_92": true
+        },
+        "patient_context_sent_to_llm": "\n==============================\nPATIENT DATA\n==============================\n\nDemographics:\nAge: 83.0\n\nClinical information:\nChief Complaint:\nGENEL DURUM BOZUKLUĞU . TA:173/97. NABIZ:81. ATEŞ:37,3. SS:19 . SAT:78 . EH: Hypertension, Diabetes Mellitus KOLESTEROL, Cerebrovascular Event (Stroke) GEÇMİŞİ(SAĞ HEMİPLEJİ) . Kİ: ECOPİRİN, JANUVA, GLİFOR, LİPHANTYL, SELECTRA, ZESTAT, BELOC ZOK . OP: PROSTAT . İA: -\n\nDoctor's Clinical Note:\nSAYIN MESLEKTAŞIM. ATEŞ GENEL DURMU BOZUKLUĞU BULANTI ŞİKAYETİYLE GELEN 80 Y EREKE ATEŞ 37.3 HEMİPLEJİK SONDALI SİSTİT Treatment and follow-up recommended\n\n==============================\nVITAL SIGNS\n==============================\n\nTemperature: 36.3 °C\nPulse: 81.0 /min\nBlood Pressure: 173.0/97.0 mmHg\nRespiratory Rate: 19.0 /min\nSpO2: 78.0 %\nGCS: 15.0\n\n==============================\nLABORATORY RESULTS\n==============================\n\nWBC: 8.78 x10^3/uL\nNeutrophils: 7.28 x10^3/uL\nPlatelets: 220.0 x10^3/uL\nCreatinine: 3.61 mg/dL\nLactate: 2.43 mmol/L\nProcalcitonin: UNKNOWN ng/mL\nCRP: 91.4 mg/L\n\n==============================\nMEDICAL HISTORY\n==============================\n\nDiabetes: DİYABET\nHeart Failure: Unknown\nRenal Failure: Unknown\nCancer: Unknown\nCOPD: Unknown\n\n==============================\nOBJECTIVE CLINICAL FLAGS\n==============================\n\nIMPORTANT:\nThese flags are NOT diagnoses.\nThey are only deterministic observations calculated\nfrom the raw patient data.\n\nqSOFA respiratory rate >=22:\nABSENT\n\nqSOFA systolic BP <=100:\nABSENT\n\nqSOFA altered mentation (GCS <15):\nABSENT\n\nLactate >2 mmol/L:\nPRESENT\n\nCreatinine >=1.2 mg/dL:\nPRESENT\n\nPlatelets <150 x10^3/uL:\nABSENT\n\nSpO2 <92%:\nPRESENT\n",
+        "retrieved_guideline_chunks": [
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 5,
+                "content": "earlier identification and an accurate quantification of the burden of sepsis.\nResults/Recommendations\nDefinition of Sepsis\nSepsis is defined as life-threatening organ dysfunction caused by a dysregulated host \nresponse to infection (Box 3). This new definition emphasizes the primacy of the \nSinger et al. Page 6\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 18,
+                "content": "Box 2. Key Concepts of Sepsis\n• Sepsis is the primary cause of death from infection, especially if not \nrecognized and treated promptly. Its recognition mandates urgent attention.\n• Sepsis is a syndrome shaped by pathogen factors and host factors (eg, sex, \nrace and other genetic determinants, age, comorbidities, environment) with \ncharacteristics that evolve over time. What differentiates sepsis from infection \nis an aberrant or dysregulated host response and the presence of organ \ndysfunction.\n• Sepsis-induced organ dysfunction may be occult; therefore, its presence \nshould be considered in any patient presenting with infection. Conversely,"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 23,
+                "content": "Author Manuscript Author Manuscript Author Manuscript Author Manuscript\nSinger et al. Page 24\nTable 2\nTerminology and International Classification of Diseases Coding\nCurrent Guidelines\nand Terminology Sepsis Septic Shock\n1991 and 2001\nconsensus\nterminology9,10\nSevere sepsis\nSepsis-induced\nhypoperfusion\nSeptic shock13\n2015 Definition Sepsis is\nlife-threatening organ\ndysfunction caused by a\ndysregulated host\nresponse to infection\nSeptic shock is a subset of\nsepsis in which underlying\ncirculatory and\ncellular/metabolic\nabnormalities are profound\nenough to substantially\nincrease mortality\n2015 Clinical\ncriteria\nSuspected or\ndocumented infection\nand\nan acute increase of ≥2\nSOFA points (a proxy"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 19,
+                "content": "Box 3. New Terms and Definitions\n• Sepsis is defined as life-threatening organ dysfunction caused by a \ndysregulated host response to infection.\n• Organ dysfunction can be identified as an acute change in total SOFA score \n≥2 points consequent to the infection.\n– The baseline SOFA score can be assumed to be zero in patients not \nknown to have preexisting organ dysfunction.\n– ASOFA score ≥2 reflects an overall mortality risk of approximately \n10% in a general hospital population with suspected infection. Even \npatients presenting with modest dysfunction can deteriorate further, \nemphasizing the seriousness of this condition and the need for"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 18,
+                "content": "should be considered in any patient presenting with infection. Conversely, \nunrecognized infection may be the cause of new-onset organ dysfunction. \nAny unexplained organ dysfunction should thus raise the possibility of \nunderlying infection.\n• The clinical and biological phenotype of sepsis can be modified by \npreexisting acute illness, long-standing comorbidities, medication, and \ninterventions.\n• Specific infections may result in local organ dysfunction without generating a \ndysregulated systemic host response.\nSinger et al. Page 19\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 15,
+                "content": "Respir Crit Care Med. 2015; 192 (8) 958–964. [PubMed: 26158402] \n26. Kaukonen K-M, Bailey M, Pilcher D, Cooper DJ, Bellomo R. Systemic inflammatory response \nsyndrome criteria in defining severe sepsis. N Engl J Med. 2015; 372 (17) 1629–1638. [PubMed: \n25776936] \n27. Vincent JL, Moreno R, Takala J, et al. Working Group on Sepsis-Related Problems of the European \nSociety of Intensive Care Medicine. The SOFA (Sepsis-related Organ Failure Assessment) score \nto describe organ dysfunction/failure. Intensive Care Med. 1996; 22 (7) 707–710. [PubMed: \n8844239] \n28. Vincent JL, de Mendonça A, Cantraine F, et al. Working Group on \"Sepsis-Related Problems” of"
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 3,
+                "content": "definitions of sepsis and septic shock to be consistent with improved understanding of \nthe pathobiology. A definition is the description of an illness concept; thus, a definition \nof sepsis should describe what sepsis “is.” This chosen approach allowed discussion of \nbiological concepts that are currently incompletely understood, such as genetic influences \nand cellular abnormalities. The sepsis illness concept is predicated on infection as its trigger, \nacknowledging the current challenges in the microbiological identification of infection. It \nwas not, however, within the task force brief to examine definitions of infection."
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 12,
+                "content": "is crucial in ensuring clear communication and a more accurate appreciation of the scale \nof the problem of sepsis. An added challenge is that infection is seldom confirmed \nmicrobiologically when treatment is started; even when microbiological tests are completed, \nculture-positive “sepsis” is observed in only 30% to 40% of cases. Thus, when sepsis \nepidemiology is assessed and reported, operationalization will necessarily involve proxies \nsuch as antibiotic commencement or a clinically determined probability of infection. Future \nepidemiology studies should consider reporting the proportion of microbiology-positive \nsepsis."
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 19,
+                "content": "or respiratory rate ≥22/min.\n• Septic shock is a subset of sepsis in which underlying circulatory and cellular/\nmetabolic abnormalities are profound enough to substantially increase \nmortality.\n• Patients with septic shock can be identified with a clinical construct of sepsis \nwith persisting hypotension requiring vasopressors to maintain MAP ≥65 mm \nHg and having a serum lactate level >2 mmol/L (18mg/dL) despite adequate \nvolume resuscitation. With these criteria, hospital mortality is in excess of \n40%.\nAbbreviations: MAP, mean arterial pressure; qSOFA, quick SOFA; SOFA: Sequential \n[Sepsis-related] Organ Failure Assessment.\nSinger et al. Page 20"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 2,
+                "content": "Septic shock should be defined as a subset of sepsis in which particularly profound circulatory, \ncellular, and metabolic abnormalities are associated with a greater risk of mortality than with \nsepsis alone. Patients with septic shock can be clinically identified by a vasopressor requirement \nto maintain a mean arterial pressure of 65 mm Hg or greater and serum lactate level greater than 2 \nmmol/L (>18 mg/dL) in the absence of hypovolemia. This combination is associated with hospital \nmortality rates greater than 40%. In out-of-hospital, emergency department, or general hospital \nward settings, adult patients with suspected infection can be rapidly identified as being more likely"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 8,
+                "content": "Definition of Septic Shock\nSeptic shock is defined as a subset of sepsis in which underlying circulatory and cellular \nmetabolism abnormalities are profound enough to substantially increase mortality (Box 3). \nThe 2001 task force definitions described septic shock as “a state of acute circulatory \nfailure.”10 The task force favored a broader view to differentiate septic shock from \ncardiovascular dysfunction alone and to recognize the importance of cellular abnormalities \n(Box 3). There was unanimous agreement that septic shock should reflect a more severe \nillness with a much higher likelihood of death than sepsis alone.\nClinical Criteria to Identify Septic Shock"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 20,
+                "content": "Box 4. qSOFA (Quick SOFA) Criteria\nRespiratory rate ≥22/min\nAltered mentation\nSystolic blood pressure ≤100 mm Hg\nSinger et al. Page 21\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "systolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater, \nprovides simple bedside criteria to identify adult patients with suspected infection who are \nlikely to have poor outcomes (Box 4). Because predictive validity was unchanged (P = \n.55), the task force chose to emphasize altered mentation because it represents any Glasgow \nComa Scale score less than 15 and will reduce the measurement burden. Although qSOFA is \nless robust than a SOFA score of 2 or greater in the ICU, it does not require laboratory tests \nand can be assessed quickly and repeatedly. The task force suggests that qSOFA criteria be"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "For patients with suspected infection within the ICU, the SOFA score had predictive \nvalidity (AUROC = 0.74; 95% CI, 0.73–0.76) superior to that of this model (AUROC \n= 0.66; 95% CI, 0.64–0.68), likely reflecting the modifying effects of interventions (eg, \nvasopressors, sedative agents, mechanical ventilation). Addition of lactate measurement did \nnot meaningfully improve predictive validity but may help identify patients at intermediate \nrisk.\nThis new measure, termed qSOFA (for quick SOFA) and incorporating altered mentation, \nsystolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater,"
+            }
+        ],
+        "raw_model_output": "{\n  \"step_by_step_analysis\": \"The patient presents with a temperature of 37.3°C, hemiplegia, and a history of diabetes. The laboratory results show elevated lactate (2.43 mmol/L) and creatinine (3.61 mg/dL), indicating potential organ dysfunction. However, there is no clear evidence of infection based on the clinical presentation or inflammatory markers like CRP and WBC levels. There are no signs of altered mental status, hypotension, or respiratory distress that would suggest sepsis-related organ dysfunction.\",\n  \"possible_infection_focus\": \"N/A - Infection not established\",\n  \"possible_preliminary_diagnosis\": \"The patient's symptoms and laboratory findings may indicate a non-infectious cause such as diabetic complications (e.g., ketoacidosis or hyperosmolar state) or acute kidney injury secondary to diabetes. The hemiplegia could be due to stroke, but no specific neurological signs are mentioned.\",\n  \"sepsis_risk\": \"Low\",\n  \"septik_shock_risk\": \"Low\",\n  \"recommended_empiric_antibiotic\": \"Not indicated from available data\",\n  \"hospitalization_requirement\": \"Yes - The patient's elevated creatinine and lactate levels, along with hemiplegia, suggest a need for further evaluation in the hospital setting.\",\n  \"icu_requirement\": \"No - While there are signs of organ dysfunction, they do not meet criteria for septic shock or severe clinical instability requiring ICU care at this time.\",\n  \"clinical_risk_assessment\": \"The patient's risk is primarily related to potential diabetic complications and acute kidney injury. Further diagnostic workup is needed to determine the cause of hemiplegia and renal impairment.\"\n}",
+        "validated_output": {
+            "step_by_step_analysis": "The patient presents with a temperature of 37.3°C, hemiplegia, and a history of diabetes. The laboratory results show elevated lactate (2.43 mmol/L) and creatinine (3.61 mg/dL), indicating potential organ dysfunction. However, there is no clear evidence of infection based on the clinical presentation or inflammatory markers like CRP and WBC levels. There are no signs of altered mental status, hypotension, or respiratory distress that would suggest sepsis-related organ dysfunction.",
+            "possible_infection_focus": "N/A - Infection not established",
+            "possible_preliminary_diagnosis": "The patient's symptoms and laboratory findings may indicate a non-infectious cause such as diabetic complications (e.g., ketoacidosis or hyperosmolar state) or acute kidney injury secondary to diabetes. The hemiplegia could be due to stroke, but no specific neurological signs are mentioned.",
+            "sepsis_risk": "Low",
+            "septik_shock_risk": "Low",
+            "recommended_empiric_antibiotic": "Not indicated from available data",
+            "hospitalization_requirement": "Yes - The patient's elevated creatinine and lactate levels, along with hemiplegia, suggest a need for further evaluation in the hospital setting.",
+            "icu_requirement": "No - While there are signs of organ dysfunction, they do not meet criteria for septic shock or severe clinical instability requiring ICU care at this time.",
+            "clinical_risk_assessment": "The patient's risk is primarily related to potential diabetic complications and acute kidney injury. Further diagnostic workup is needed to determine the cause of hemiplegia and renal impairment."
+        }
+    },
+    {
+        "admission_no": "7579738",
+        "clinical_data": {
+            "age": 40.0,
+            "temperature": 38.1,
+            "pulse": 130.0,
+            "systolic_bp": 103.0,
+            "diastolic_bp": 62.0,
+            "respiratory_rate": 16.0,
+            "spo2": 96.0,
+            "gcs": 15.0,
+            "wbc": 9.21,
+            "neutrophil": 8.94,
+            "platelets": 236.0,
+            "creatinine": 0.73,
+            "lactate": 2.5,
+            "procalcitonin": null,
+            "crp": 0.5,
+            "diabetes": "Unknown",
+            "heart_failure": "Unknown",
+            "renal_failure": "Unknown",
+            "cancer": "Unknown",
+            "copd": "Unknown"
+        },
+        "clinical_flags": {
+            "qsofa_rr_ge_22": false,
+            "qsofa_sbp_le_100": false,
+            "qsofa_altered_mentation": false,
+            "lactate_gt_2": true,
+            "creatinine_ge_1_2": false,
+            "platelets_lt_150": false,
+            "spo2_lt_92": false
+        },
+        "patient_context_sent_to_llm": "\n==============================\nPATIENT DATA\n==============================\n\nDemographics:\nAge: 40.0\n\nClinical information:\nChief Complaint:\nNEFESTE ASETON KOKUSU . TA:103/62 . NB:130 . SAT:96 . SS:16 . ATEŞ:38.1 . EH:Diabetes Mellitus ÜLSER . Kİ:LANTUS NOVARAPİD . İA:PENİSİLİN . OP:-\n\nDoctor's Clinical Note:\nSAYIN MESLEKTAŞIM. 39 YAŞ KADIN HASTA, DÜNDEN BERİ AĞIZDA ASETON KOKUSU İLE GELDİ GELİŞ ATEŞİ 38 DİZÜRİ TARİFLEMEKTE TARAFINIZCA DEĞERLENDİRİLMESİ RİCA OLUNUR. SAYGILARIMLA\n\n==============================\nVITAL SIGNS\n==============================\n\nTemperature: 38.1 °C\nPulse: 130.0 /min\nBlood Pressure: 103.0/62.0 mmHg\nRespiratory Rate: 16.0 /min\nSpO2: 96.0 %\nGCS: 15.0\n\n==============================\nLABORATORY RESULTS\n==============================\n\nWBC: 9.21 x10^3/uL\nNeutrophils: 8.94 x10^3/uL\nPlatelets: 236.0 x10^3/uL\nCreatinine: 0.73 mg/dL\nLactate: 2.5 mmol/L\nProcalcitonin: UNKNOWN ng/mL\nCRP: 0.5 mg/L\n\n==============================\nMEDICAL HISTORY\n==============================\n\nDiabetes: Unknown\nHeart Failure: Unknown\nRenal Failure: Unknown\nCancer: Unknown\nCOPD: Unknown\n\n==============================\nOBJECTIVE CLINICAL FLAGS\n==============================\n\nIMPORTANT:\nThese flags are NOT diagnoses.\nThey are only deterministic observations calculated\nfrom the raw patient data.\n\nqSOFA respiratory rate >=22:\nABSENT\n\nqSOFA systolic BP <=100:\nABSENT\n\nqSOFA altered mentation (GCS <15):\nABSENT\n\nLactate >2 mmol/L:\nPRESENT\n\nCreatinine >=1.2 mg/dL:\nABSENT\n\nPlatelets <150 x10^3/uL:\nABSENT\n\nSpO2 <92%:\nABSENT\n",
+        "retrieved_guideline_chunks": [
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 5,
+                "content": "earlier identification and an accurate quantification of the burden of sepsis.\nResults/Recommendations\nDefinition of Sepsis\nSepsis is defined as life-threatening organ dysfunction caused by a dysregulated host \nresponse to infection (Box 3). This new definition emphasizes the primacy of the \nSinger et al. Page 6\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 18,
+                "content": "Box 2. Key Concepts of Sepsis\n• Sepsis is the primary cause of death from infection, especially if not \nrecognized and treated promptly. Its recognition mandates urgent attention.\n• Sepsis is a syndrome shaped by pathogen factors and host factors (eg, sex, \nrace and other genetic determinants, age, comorbidities, environment) with \ncharacteristics that evolve over time. What differentiates sepsis from infection \nis an aberrant or dysregulated host response and the presence of organ \ndysfunction.\n• Sepsis-induced organ dysfunction may be occult; therefore, its presence \nshould be considered in any patient presenting with infection. Conversely,"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 23,
+                "content": "Author Manuscript Author Manuscript Author Manuscript Author Manuscript\nSinger et al. Page 24\nTable 2\nTerminology and International Classification of Diseases Coding\nCurrent Guidelines\nand Terminology Sepsis Septic Shock\n1991 and 2001\nconsensus\nterminology9,10\nSevere sepsis\nSepsis-induced\nhypoperfusion\nSeptic shock13\n2015 Definition Sepsis is\nlife-threatening organ\ndysfunction caused by a\ndysregulated host\nresponse to infection\nSeptic shock is a subset of\nsepsis in which underlying\ncirculatory and\ncellular/metabolic\nabnormalities are profound\nenough to substantially\nincrease mortality\n2015 Clinical\ncriteria\nSuspected or\ndocumented infection\nand\nan acute increase of ≥2\nSOFA points (a proxy"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 19,
+                "content": "Box 3. New Terms and Definitions\n• Sepsis is defined as life-threatening organ dysfunction caused by a \ndysregulated host response to infection.\n• Organ dysfunction can be identified as an acute change in total SOFA score \n≥2 points consequent to the infection.\n– The baseline SOFA score can be assumed to be zero in patients not \nknown to have preexisting organ dysfunction.\n– ASOFA score ≥2 reflects an overall mortality risk of approximately \n10% in a general hospital population with suspected infection. Even \npatients presenting with modest dysfunction can deteriorate further, \nemphasizing the seriousness of this condition and the need for"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 18,
+                "content": "should be considered in any patient presenting with infection. Conversely, \nunrecognized infection may be the cause of new-onset organ dysfunction. \nAny unexplained organ dysfunction should thus raise the possibility of \nunderlying infection.\n• The clinical and biological phenotype of sepsis can be modified by \npreexisting acute illness, long-standing comorbidities, medication, and \ninterventions.\n• Specific infections may result in local organ dysfunction without generating a \ndysregulated systemic host response.\nSinger et al. Page 19\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 15,
+                "content": "Respir Crit Care Med. 2015; 192 (8) 958–964. [PubMed: 26158402] \n26. Kaukonen K-M, Bailey M, Pilcher D, Cooper DJ, Bellomo R. Systemic inflammatory response \nsyndrome criteria in defining severe sepsis. N Engl J Med. 2015; 372 (17) 1629–1638. [PubMed: \n25776936] \n27. Vincent JL, Moreno R, Takala J, et al. Working Group on Sepsis-Related Problems of the European \nSociety of Intensive Care Medicine. The SOFA (Sepsis-related Organ Failure Assessment) score \nto describe organ dysfunction/failure. Intensive Care Med. 1996; 22 (7) 707–710. [PubMed: \n8844239] \n28. Vincent JL, de Mendonça A, Cantraine F, et al. Working Group on \"Sepsis-Related Problems” of"
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 3,
+                "content": "definitions of sepsis and septic shock to be consistent with improved understanding of \nthe pathobiology. A definition is the description of an illness concept; thus, a definition \nof sepsis should describe what sepsis “is.” This chosen approach allowed discussion of \nbiological concepts that are currently incompletely understood, such as genetic influences \nand cellular abnormalities. The sepsis illness concept is predicated on infection as its trigger, \nacknowledging the current challenges in the microbiological identification of infection. It \nwas not, however, within the task force brief to examine definitions of infection."
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 12,
+                "content": "is crucial in ensuring clear communication and a more accurate appreciation of the scale \nof the problem of sepsis. An added challenge is that infection is seldom confirmed \nmicrobiologically when treatment is started; even when microbiological tests are completed, \nculture-positive “sepsis” is observed in only 30% to 40% of cases. Thus, when sepsis \nepidemiology is assessed and reported, operationalization will necessarily involve proxies \nsuch as antibiotic commencement or a clinically determined probability of infection. Future \nepidemiology studies should consider reporting the proportion of microbiology-positive \nsepsis."
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 19,
+                "content": "or respiratory rate ≥22/min.\n• Septic shock is a subset of sepsis in which underlying circulatory and cellular/\nmetabolic abnormalities are profound enough to substantially increase \nmortality.\n• Patients with septic shock can be identified with a clinical construct of sepsis \nwith persisting hypotension requiring vasopressors to maintain MAP ≥65 mm \nHg and having a serum lactate level >2 mmol/L (18mg/dL) despite adequate \nvolume resuscitation. With these criteria, hospital mortality is in excess of \n40%.\nAbbreviations: MAP, mean arterial pressure; qSOFA, quick SOFA; SOFA: Sequential \n[Sepsis-related] Organ Failure Assessment.\nSinger et al. Page 20"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 2,
+                "content": "Septic shock should be defined as a subset of sepsis in which particularly profound circulatory, \ncellular, and metabolic abnormalities are associated with a greater risk of mortality than with \nsepsis alone. Patients with septic shock can be clinically identified by a vasopressor requirement \nto maintain a mean arterial pressure of 65 mm Hg or greater and serum lactate level greater than 2 \nmmol/L (>18 mg/dL) in the absence of hypovolemia. This combination is associated with hospital \nmortality rates greater than 40%. In out-of-hospital, emergency department, or general hospital \nward settings, adult patients with suspected infection can be rapidly identified as being more likely"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 8,
+                "content": "Definition of Septic Shock\nSeptic shock is defined as a subset of sepsis in which underlying circulatory and cellular \nmetabolism abnormalities are profound enough to substantially increase mortality (Box 3). \nThe 2001 task force definitions described septic shock as “a state of acute circulatory \nfailure.”10 The task force favored a broader view to differentiate septic shock from \ncardiovascular dysfunction alone and to recognize the importance of cellular abnormalities \n(Box 3). There was unanimous agreement that septic shock should reflect a more severe \nillness with a much higher likelihood of death than sepsis alone.\nClinical Criteria to Identify Septic Shock"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 20,
+                "content": "Box 4. qSOFA (Quick SOFA) Criteria\nRespiratory rate ≥22/min\nAltered mentation\nSystolic blood pressure ≤100 mm Hg\nSinger et al. Page 21\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "systolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater, \nprovides simple bedside criteria to identify adult patients with suspected infection who are \nlikely to have poor outcomes (Box 4). Because predictive validity was unchanged (P = \n.55), the task force chose to emphasize altered mentation because it represents any Glasgow \nComa Scale score less than 15 and will reduce the measurement burden. Although qSOFA is \nless robust than a SOFA score of 2 or greater in the ICU, it does not require laboratory tests \nand can be assessed quickly and repeatedly. The task force suggests that qSOFA criteria be"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "For patients with suspected infection within the ICU, the SOFA score had predictive \nvalidity (AUROC = 0.74; 95% CI, 0.73–0.76) superior to that of this model (AUROC \n= 0.66; 95% CI, 0.64–0.68), likely reflecting the modifying effects of interventions (eg, \nvasopressors, sedative agents, mechanical ventilation). Addition of lactate measurement did \nnot meaningfully improve predictive validity but may help identify patients at intermediate \nrisk.\nThis new measure, termed qSOFA (for quick SOFA) and incorporating altered mentation, \nsystolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater,"
+            }
+        ],
+        "raw_model_output": "{\n  \"step_by_step_analysis\": \"The patient presents with a fever (38.1°C) and tachycardia (pulse of 130 bpm). The lactate level is elevated at 2.5 mmol/L, indicating potential tissue hypoperfusion or metabolic derangement. There are no objective clinical flags for qSOFA criteria being met. No clear evidence of infection from the provided data such as WBC count and CRP levels which do not suggest a significant inflammatory response. The patient's GCS is 15, indicating normal mental status. Blood pressure is slightly low (103/62 mmHg), but this alone does not meet criteria for septic shock or organ dysfunction attributable to infection.\",\n  \"possible_infection_focus\": \"N/A - Infection not established\",\n  \"possible_preliminary_diagnosis\": \"Tachycardia and fever could be due to a variety of causes including non-infectious conditions such as hyperthyroidism, anemia, or dehydration. The elevated lactate may suggest metabolic derangement but does not confirm infection.\",\n  \"sepsis_risk\": \"Low\",\n  \"septik_shock_risk\": \"Low\",\n  \"recommended_empiric_antibiotic\": \"Not indicated from available data\",\n  \"hospitalization_requirement\": \"Yes - The patient's elevated lactate and tachycardia suggest potential metabolic or hemodynamic instability that requires further evaluation.\",\n  \"icu_requirement\": \"No - While the patient has some concerning signs, there is no evidence of severe organ dysfunction or septic shock necessitating ICU care at this time.\",\n  \"clinical_risk_assessment\": \"The overall risk of clinical deterioration appears low to moderate. The elevated lactate and fever warrant further investigation but do not meet criteria for high-risk sepsis or non-infectious critical illness.\"\n}",
+        "validated_output": {
+            "step_by_step_analysis": "The patient presents with a fever (38.1°C) and tachycardia (pulse of 130 bpm). The lactate level is elevated at 2.5 mmol/L, indicating potential tissue hypoperfusion or metabolic derangement. There are no objective clinical flags for qSOFA criteria being met. No clear evidence of infection from the provided data such as WBC count and CRP levels which do not suggest a significant inflammatory response. The patient's GCS is 15, indicating normal mental status. Blood pressure is slightly low (103/62 mmHg), but this alone does not meet criteria for septic shock or organ dysfunction attributable to infection.",
+            "possible_infection_focus": "N/A - Infection not established",
+            "possible_preliminary_diagnosis": "Tachycardia and fever could be due to a variety of causes including non-infectious conditions such as hyperthyroidism, anemia, or dehydration. The elevated lactate may suggest metabolic derangement but does not confirm infection.",
+            "sepsis_risk": "Low",
+            "septik_shock_risk": "Low",
+            "recommended_empiric_antibiotic": "Not indicated from available data",
+            "hospitalization_requirement": "Yes - The patient's elevated lactate and tachycardia suggest potential metabolic or hemodynamic instability that requires further evaluation.",
+            "icu_requirement": "No - While the patient has some concerning signs, there is no evidence of severe organ dysfunction or septic shock necessitating ICU care at this time.",
+            "clinical_risk_assessment": "The overall risk of clinical deterioration appears low to moderate. The elevated lactate and fever warrant further investigation but do not meet criteria for high-risk sepsis or non-infectious critical illness."
+        }
+    },
+    {
+        "admission_no": "7582259",
+        "clinical_data": {
+            "age": 68.0,
+            "temperature": 36.7,
+            "pulse": 134.0,
+            "systolic_bp": 109.0,
+            "diastolic_bp": 74.0,
+            "respiratory_rate": 22.0,
+            "spo2": 83.0,
+            "gcs": 15.0,
+            "wbc": 9.12,
+            "neutrophil": 7.74,
+            "platelets": 327.0,
+            "creatinine": 0.95,
+            "lactate": 1.43,
+            "procalcitonin": 0.103,
+            "crp": 27.2,
+            "diabetes": "Unknown",
+            "heart_failure": "Unknown",
+            "renal_failure": "Unknown",
+            "cancer": "CA",
+            "copd": "Unknown"
+        },
+        "clinical_flags": {
+            "qsofa_rr_ge_22": true,
+            "qsofa_sbp_le_100": false,
+            "qsofa_altered_mentation": false,
+            "lactate_gt_2": false,
+            "creatinine_ge_1_2": false,
+            "platelets_lt_150": false,
+            "spo2_lt_92": true
+        },
+        "patient_context_sent_to_llm": "\n==============================\nPATIENT DATA\n==============================\n\nDemographics:\nAge: 68.0\n\nClinical information:\nChief Complaint:\nNEFES DARLIĞI . TA:109/74 . NABIZ:134 . SS:22 SPO2:83 . ATEŞ:36.7 E.H: AKCİĞER CA K.İ.:\n\nDoctor's Clinical Note:\nSAYIN MESLEKTAŞIM. 1 HAFTADIR NEFES DARLIĞI ÖKSÜÜRK LE GELEN HASTA. CRP 140 Treatment and follow-up recommended\n\n==============================\nVITAL SIGNS\n==============================\n\nTemperature: 36.7 °C\nPulse: 134.0 /min\nBlood Pressure: 109.0/74.0 mmHg\nRespiratory Rate: 22.0 /min\nSpO2: 83.0 %\nGCS: 15.0\n\n==============================\nLABORATORY RESULTS\n==============================\n\nWBC: 9.12 x10^3/uL\nNeutrophils: 7.74 x10^3/uL\nPlatelets: 327.0 x10^3/uL\nCreatinine: 0.95 mg/dL\nLactate: 1.43 mmol/L\nProcalcitonin: 0.103 ng/mL\nCRP: 27.2 mg/L\n\n==============================\nMEDICAL HISTORY\n==============================\n\nDiabetes: Unknown\nHeart Failure: Unknown\nRenal Failure: Unknown\nCancer: CA\nCOPD: Unknown\n\n==============================\nOBJECTIVE CLINICAL FLAGS\n==============================\n\nIMPORTANT:\nThese flags are NOT diagnoses.\nThey are only deterministic observations calculated\nfrom the raw patient data.\n\nqSOFA respiratory rate >=22:\nPRESENT\n\nqSOFA systolic BP <=100:\nABSENT\n\nqSOFA altered mentation (GCS <15):\nABSENT\n\nLactate >2 mmol/L:\nABSENT\n\nCreatinine >=1.2 mg/dL:\nABSENT\n\nPlatelets <150 x10^3/uL:\nABSENT\n\nSpO2 <92%:\nPRESENT\n",
+        "retrieved_guideline_chunks": [
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 5,
+                "content": "earlier identification and an accurate quantification of the burden of sepsis.\nResults/Recommendations\nDefinition of Sepsis\nSepsis is defined as life-threatening organ dysfunction caused by a dysregulated host \nresponse to infection (Box 3). This new definition emphasizes the primacy of the \nSinger et al. Page 6\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 18,
+                "content": "Box 2. Key Concepts of Sepsis\n• Sepsis is the primary cause of death from infection, especially if not \nrecognized and treated promptly. Its recognition mandates urgent attention.\n• Sepsis is a syndrome shaped by pathogen factors and host factors (eg, sex, \nrace and other genetic determinants, age, comorbidities, environment) with \ncharacteristics that evolve over time. What differentiates sepsis from infection \nis an aberrant or dysregulated host response and the presence of organ \ndysfunction.\n• Sepsis-induced organ dysfunction may be occult; therefore, its presence \nshould be considered in any patient presenting with infection. Conversely,"
+            },
+            {
+                "clinical_topic": "sepsis_definition",
+                "page": 23,
+                "content": "Author Manuscript Author Manuscript Author Manuscript Author Manuscript\nSinger et al. Page 24\nTable 2\nTerminology and International Classification of Diseases Coding\nCurrent Guidelines\nand Terminology Sepsis Septic Shock\n1991 and 2001\nconsensus\nterminology9,10\nSevere sepsis\nSepsis-induced\nhypoperfusion\nSeptic shock13\n2015 Definition Sepsis is\nlife-threatening organ\ndysfunction caused by a\ndysregulated host\nresponse to infection\nSeptic shock is a subset of\nsepsis in which underlying\ncirculatory and\ncellular/metabolic\nabnormalities are profound\nenough to substantially\nincrease mortality\n2015 Clinical\ncriteria\nSuspected or\ndocumented infection\nand\nan acute increase of ≥2\nSOFA points (a proxy"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 19,
+                "content": "Box 3. New Terms and Definitions\n• Sepsis is defined as life-threatening organ dysfunction caused by a \ndysregulated host response to infection.\n• Organ dysfunction can be identified as an acute change in total SOFA score \n≥2 points consequent to the infection.\n– The baseline SOFA score can be assumed to be zero in patients not \nknown to have preexisting organ dysfunction.\n– ASOFA score ≥2 reflects an overall mortality risk of approximately \n10% in a general hospital population with suspected infection. Even \npatients presenting with modest dysfunction can deteriorate further, \nemphasizing the seriousness of this condition and the need for"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 18,
+                "content": "should be considered in any patient presenting with infection. Conversely, \nunrecognized infection may be the cause of new-onset organ dysfunction. \nAny unexplained organ dysfunction should thus raise the possibility of \nunderlying infection.\n• The clinical and biological phenotype of sepsis can be modified by \npreexisting acute illness, long-standing comorbidities, medication, and \ninterventions.\n• Specific infections may result in local organ dysfunction without generating a \ndysregulated systemic host response.\nSinger et al. Page 19\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "organ_dysfunction",
+                "page": 15,
+                "content": "Respir Crit Care Med. 2015; 192 (8) 958–964. [PubMed: 26158402] \n26. Kaukonen K-M, Bailey M, Pilcher D, Cooper DJ, Bellomo R. Systemic inflammatory response \nsyndrome criteria in defining severe sepsis. N Engl J Med. 2015; 372 (17) 1629–1638. [PubMed: \n25776936] \n27. Vincent JL, Moreno R, Takala J, et al. Working Group on Sepsis-Related Problems of the European \nSociety of Intensive Care Medicine. The SOFA (Sepsis-related Organ Failure Assessment) score \nto describe organ dysfunction/failure. Intensive Care Med. 1996; 22 (7) 707–710. [PubMed: \n8844239] \n28. Vincent JL, de Mendonça A, Cantraine F, et al. Working Group on \"Sepsis-Related Problems” of"
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 3,
+                "content": "definitions of sepsis and septic shock to be consistent with improved understanding of \nthe pathobiology. A definition is the description of an illness concept; thus, a definition \nof sepsis should describe what sepsis “is.” This chosen approach allowed discussion of \nbiological concepts that are currently incompletely understood, such as genetic influences \nand cellular abnormalities. The sepsis illness concept is predicated on infection as its trigger, \nacknowledging the current challenges in the microbiological identification of infection. It \nwas not, however, within the task force brief to examine definitions of infection."
+            },
+            {
+                "clinical_topic": "infection",
+                "page": 12,
+                "content": "is crucial in ensuring clear communication and a more accurate appreciation of the scale \nof the problem of sepsis. An added challenge is that infection is seldom confirmed \nmicrobiologically when treatment is started; even when microbiological tests are completed, \nculture-positive “sepsis” is observed in only 30% to 40% of cases. Thus, when sepsis \nepidemiology is assessed and reported, operationalization will necessarily involve proxies \nsuch as antibiotic commencement or a clinically determined probability of infection. Future \nepidemiology studies should consider reporting the proportion of microbiology-positive \nsepsis."
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 19,
+                "content": "or respiratory rate ≥22/min.\n• Septic shock is a subset of sepsis in which underlying circulatory and cellular/\nmetabolic abnormalities are profound enough to substantially increase \nmortality.\n• Patients with septic shock can be identified with a clinical construct of sepsis \nwith persisting hypotension requiring vasopressors to maintain MAP ≥65 mm \nHg and having a serum lactate level >2 mmol/L (18mg/dL) despite adequate \nvolume resuscitation. With these criteria, hospital mortality is in excess of \n40%.\nAbbreviations: MAP, mean arterial pressure; qSOFA, quick SOFA; SOFA: Sequential \n[Sepsis-related] Organ Failure Assessment.\nSinger et al. Page 20"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 2,
+                "content": "Septic shock should be defined as a subset of sepsis in which particularly profound circulatory, \ncellular, and metabolic abnormalities are associated with a greater risk of mortality than with \nsepsis alone. Patients with septic shock can be clinically identified by a vasopressor requirement \nto maintain a mean arterial pressure of 65 mm Hg or greater and serum lactate level greater than 2 \nmmol/L (>18 mg/dL) in the absence of hypovolemia. This combination is associated with hospital \nmortality rates greater than 40%. In out-of-hospital, emergency department, or general hospital \nward settings, adult patients with suspected infection can be rapidly identified as being more likely"
+            },
+            {
+                "clinical_topic": "septic_shock",
+                "page": 8,
+                "content": "Definition of Septic Shock\nSeptic shock is defined as a subset of sepsis in which underlying circulatory and cellular \nmetabolism abnormalities are profound enough to substantially increase mortality (Box 3). \nThe 2001 task force definitions described septic shock as “a state of acute circulatory \nfailure.”10 The task force favored a broader view to differentiate septic shock from \ncardiovascular dysfunction alone and to recognize the importance of cellular abnormalities \n(Box 3). There was unanimous agreement that septic shock should reflect a more severe \nillness with a much higher likelihood of death than sepsis alone.\nClinical Criteria to Identify Septic Shock"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 20,
+                "content": "Box 4. qSOFA (Quick SOFA) Criteria\nRespiratory rate ≥22/min\nAltered mentation\nSystolic blood pressure ≤100 mm Hg\nSinger et al. Page 21\nJAMA. Author manuscript; available in PMC 2016 August 01.\nAuthor Manuscript Author Manuscript Author Manuscript Author Manuscript"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "systolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater, \nprovides simple bedside criteria to identify adult patients with suspected infection who are \nlikely to have poor outcomes (Box 4). Because predictive validity was unchanged (P = \n.55), the task force chose to emphasize altered mentation because it represents any Glasgow \nComa Scale score less than 15 and will reduce the measurement burden. Although qSOFA is \nless robust than a SOFA score of 2 or greater in the ICU, it does not require laboratory tests \nand can be assessed quickly and repeatedly. The task force suggests that qSOFA criteria be"
+            },
+            {
+                "clinical_topic": "qsofa",
+                "page": 8,
+                "content": "For patients with suspected infection within the ICU, the SOFA score had predictive \nvalidity (AUROC = 0.74; 95% CI, 0.73–0.76) superior to that of this model (AUROC \n= 0.66; 95% CI, 0.64–0.68), likely reflecting the modifying effects of interventions (eg, \nvasopressors, sedative agents, mechanical ventilation). Addition of lactate measurement did \nnot meaningfully improve predictive validity but may help identify patients at intermediate \nrisk.\nThis new measure, termed qSOFA (for quick SOFA) and incorporating altered mentation, \nsystolic blood pressure of 100 mm Hg or less, and respiratory rate of 22/min or greater,"
+            }
+        ],
+        "raw_model_output": "{\n  \"step_by_step_analysis\": \"The patient presents with a chief complaint of shortness of breath and coughing, which have been ongoing for the past week. Vital signs indicate tachypnea (respiratory rate of 22/min) and hypoxemia (SpO2 of 83%). The qSOFA score is elevated due to respiratory rate ≥22, indicating potential organ dysfunction. Laboratory results show an elevated CRP level at 140 mg/L, suggesting inflammation or infection. However, the procalcitonin level is within normal limits (0.103 ng/mL), and there are no signs of severe sepsis such as persistent hypotension or altered mental status. The patient's WBC count is slightly elevated but not significantly high to confirm a bacterial infection definitively.\",\n  \"possible_infection_focus\": \"Lower respiratory tract\",\n  \"possible_preliminary_diagnosis\": \"Community-acquired pneumonia (CAP) or exacerbation of chronic obstructive pulmonary disease (COPD)\",\n  \"sepsis_risk\": \"Moderate\",\n  \"septik_shock_risk\": \"Low\",\n  \"recommended_empiric_antibiotic\": \"Not indicated from available data\",\n  \"hospitalization_requirement\": \"Yes - The patient's respiratory distress and hypoxemia warrant close monitoring in a hospital setting.\",\n  \"icu_requirement\": \"No - While the patient has signs of organ dysfunction, there is no evidence of severe sepsis or septic shock requiring ICU care at this time.\",\n  \"clinical_risk_assessment\": \"The patient's clinical presentation and laboratory findings suggest moderate risk for infection-related organ dysfunction. However, given the absence of definitive markers for severe sepsis or septic shock, hospitalization is recommended to manage respiratory symptoms and monitor for potential deterioration.\"\n}",
+        "validated_output": {
+            "step_by_step_analysis": "The patient presents with a chief complaint of shortness of breath and coughing, which have been ongoing for the past week. Vital signs indicate tachypnea (respiratory rate of 22/min) and hypoxemia (SpO2 of 83%). The qSOFA score is elevated due to respiratory rate ≥22, indicating potential organ dysfunction. Laboratory results show an elevated CRP level at 140 mg/L, suggesting inflammation or infection. However, the procalcitonin level is within normal limits (0.103 ng/mL), and there are no signs of severe sepsis such as persistent hypotension or altered mental status. The patient's WBC count is slightly elevated but not significantly high to confirm a bacterial infection definitively.",
+            "possible_infection_focus": "Lower respiratory tract",
+            "possible_preliminary_diagnosis": "Community-acquired pneumonia (CAP) or exacerbation of chronic obstructive pulmonary disease (COPD)",
+            "sepsis_risk": "Moderate",
+            "septik_shock_risk": "Low",
+            "recommended_empiric_antibiotic": "Not indicated from available data",
+            "hospitalization_requirement": "Yes - The patient's respiratory distress and hypoxemia warrant close monitoring in a hospital setting.",
+            "icu_requirement": "No - While the patient has signs of organ dysfunction, there is no evidence of severe sepsis or septic shock requiring ICU care at this time.",
+            "clinical_risk_assessment": "The patient's clinical presentation and laboratory findings suggest moderate risk for infection-related organ dysfunction. However, given the absence of definitive markers for severe sepsis or septic shock, hospitalization is recommended to manage respiratory symptoms and monitor for potential deterioration."
+        }
+    }
+]

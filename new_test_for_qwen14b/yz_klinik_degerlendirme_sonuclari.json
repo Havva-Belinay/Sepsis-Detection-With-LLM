@@ -1,0 +1,102 @@
+[
+    {
+        "basvuru_no": "7573990",
+        "olasi_enfeksiyon_odagi": "Miyelit",
+        "olasi_on_tani": "Sepsis",
+        "sepsis_riski": "Yüksek, laktat seviyesinin yüksek olması ve GKS bulguları",
+        "ampirik_antibiyotik": "Üçüncü kuşak sefalosporinler ile antipseudomonal antibiyotik kombinasyonu",
+        "yatis_gerekliligi": "Evet, hastanın klinik durumunun ve laboratuvar bulgularının ciddiliği nedeniyle",
+        "yogun_bakim_ihtiyaci": "Evet, sepsis riskinin yüksek olması ve organ yetmezlik belirtileri varlığı nedeniyle",
+        "klinik_risk": "Hastanın yaş faktörü, komorbid durumları ve klinik bulguları göz önüne alındığında mortalite riski yüksektir"
+    },
+    {
+        "basvuru_no": "7574288",
+        "olasi_enfeksiyon_odagi": "Boğaz",
+        "olasi_on_tani": "Boğaz Ağrısı",
+        "sepsis_riski": "Yüksek, laktat seviyesinin yüksek olması ve CRP'nin artması nedeniyle sistemik emflamatuar yanıtın varlığı muhtemel.",
+        "ampirik_antibiyotik": "Üçüncü kuşak sefalosporinler",
+        "yatis_gerekliligi": "Evet, hastanın klinik durumu ve yüksek laktat seviyesi nedeniyle yatış gereklidir.",
+        "yogun_bakim_ihtiyaci": "Evet, yüksek sepsis riski ve potansiyel organ yetmezliği nedeniyle yoğun bakım ihtiyacı vardır.",
+        "klinik_risk": "Hasta 65 yaşındaki bir diabetik olma riski olan hasta, yüksek laktat ve CRP seviyeleri ile sistemik emflamatuar yanıt göstermektedir. Bu durumda mortalite riski yüksektir."
+    },
+    {
+        "basvuru_no": "7575901",
+        "olasi_enfeksiyon_odagi": "Pneumonia veya Urin Enfeksiyonu",
+        "olasi_on_tani": "Sepsis",
+        "sepsis_riski": "Yüksek, Laktat seviyesinin yüksek olması ve GKS 15 ile belirgin bir klinik bulgu varlığı.",
+        "ampirik_antibiyotik": "Üçüncü kuşak sefalosporinler (seftriakson veya sefotaksim) kombinasyonu ile floroquinolona veya aminoglikozid ilacı",
+        "yatis_gerekliligi": "Evet, hastanın klinik durumunun ve laboratuvar bulgularının değerlendirildiği sonucunda.",
+        "yogun_bakim_ihtiyaci": "Evet, sepsis riski yüksek ve organ yetmezlik belirtileri var.",
+        "klinik_risk": "Hasta yaşlı ve komorbid durumları bilinmiyor, bu nedenle mortalite riski yüksektir."
+    },
+    {
+        "basvuru_no": "7576684",
+        "olasi_enfeksiyon_odagi": "Miyelit, Bacak",
+        "olasi_on_tani": "Enfeksiyonel miyalji, Bacak enfeksiyonu",
+        "sepsis_riski": "Yüksek; Laktat >2 mmol/L ve WBC 15,86 hücre/mm3",
+        "ampirik_antibiyotik": "Üçüncü kuşak sefalosporinler (seftriakson) + floroquinolon (siprofloksasin)",
+        "yatis_gerekliligi": "Evet; Sepsis riski ve organ yetmezliği belirtileri",
+        "yogun_bakim_ihtiyaci": "Evet; Ağır sepsis ve potansiyel septik şok riski",
+        "klinik_risk": "Yüksek mortalite riski; Sepsis, hipoferfüzyon ve organ yetmezlik belirtileri"
+    },
+    {
+        "basvuru_no": "7577755",
+        "olasi_enfeksiyon_odagi": "Vürek",
+        "olasi_on_tani": "Akut Sistit",
+        "sepsis_riski": "Orta; Ateş, nabız ve solunum hızı normal sınırların dışında değil ancak potansiyel enfeksiyon varlığı nedeniyle riskli.",
+        "ampirik_antibiyotik": "Üçüncü kuşak sefalosporinler veya floroquinolon",
+        "yatis_gerekliligi": "Hayır; Hastanın klinik durumu yatış gerektirmiyor.",
+        "yogun_bakim_ihtiyaci": "Hayır; Klinik bulgular yoğun bakım gerekçesi olmasa da izleme altında tutulmalıdır.",
+        "klinik_risk": "Hastanın komorbid durumları ve potansiyel enfeksiyon nedeniyle klinik olarak riskli."
+    },
+    {
+        "basvuru_no": "7579405",
+        "olasi_enfeksiyon_odagi": "Gastrointestinal sistemi",
+        "olasi_on_tani": "Bulantı ve kusma",
+        "sepsis_riski": "Orta; WBC değerinin artması ve CRP'nin yüksek olması nedeniyle sistemik emflamatuar yanıtın varlığı muhtemel.",
+        "ampirik_antibiyotik": "Üçüncü kuşak sefalosporinler veya antipseudomonal bir ilaç",
+        "yatis_gerekliligi": "Hayır; Hastanın klinik durumu ve parametreleri yatağındaki bakım için yeterli.",
+        "yogun_bakim_ihtiyaci": "Hayır; Sepsis veya septik şok belirtileri yoktur.",
+        "klinik_risk": "Orta; Yüksek WBC ve yüksek CRP, ancak laktat düzeyi bilinmiyor."
+    },
+    {
+        "basvuru_no": "7579548",
+        "olasi_enfeksiyon_odagi": "Kardiyovasküler sistemi",
+        "olasi_on_tani": "Septik şok, Göğüs ağrıları",
+        "sepsis_riski": "Yüksek; yüksek laktat seviyesi ve hipotansiyon belirtileri var.",
+        "ampirik_antibiyotik": "Broad-spectrum antibiyotikler (beta-laktam + aminoglikozit)",
+        "yatis_gerekliligi": "Evet; septik şok ve organ yetmezliği riski nedeniyle.",
+        "yogun_bakim_ihtiyaci": "Evet; sepsis ve hipotansiyon yönetimi için yoğun bakım gerekir.",
+        "klinik_risk": "Yüksek mortalite riski, özellikle yaşlı hastalarda ve mevcut komorbiditeler nedeniyle."
+    },
+    {
+        "basvuru_no": "7579563",
+        "olasi_enfeksiyon_odagi": "Diyabetik bulaşma",
+        "olasi_on_tani": "Diyagetik bulaşma ile ilgili septik şok riski",
+        "sepsis_riski": "Yüksek, yüksek laktat seviyesi ve düşük SpO2",
+        "ampirik_antibiyotik": "Antipseudomonal antibiyotik + MRSA etkin antibiyotik",
+        "yatis_gerekliligi": "Evet, septik şok riskinde ve klinik durum kötüleşmekte",
+        "yogun_bakim_ihtiyaci": "Evet, septik şok ve yüksek mortalite riski",
+        "klinik_risk": "Yüksek mortalite riski, özellikle diyagetik bulaşma ile ilgili komplikasyonlar nedeniyle"
+    },
+    {
+        "basvuru_no": "7579738",
+        "olasi_enfeksiyon_odagi": "Diabetik ülser",
+        "olasi_on_tani": "Sepsis, Hiperglysemi",
+        "sepsis_riski": "Yüksek; yüksek laktat seviyesi ve hipoferfüzyon bulguları var.",
+        "ampirik_antibiyotik": "Üçüncü kuşak sefalosporinler (seftriakson) ile MRSA etkin antibiyotik kombinasyonu",
+        "yatis_gerekliligi": "Evet; yüksek laktat ve hipoferfüzyon bulguları var.",
+        "yogun_bakim_ihtiyaci": "Evet; sepsis riski yüksek, organ yetmezliği belirtileri mevcut.",
+        "klinik_risk": "Hastanın mortalite riski yüksektir; sepsis ve hiperglysemi var."
+    },
+    {
+        "basvuru_no": "7582259",
+        "olasi_enfeksiyon_odagi": "Akciğer",
+        "olasi_on_tani": "Pneumonia",
+        "sepsis_riski": "Orta; Solunum hızı ve nabız yüksek, ancak ateşi normal sınırlar içinde.",
+        "ampirik_antibiyotik": "Üçüncü kuşak sefalosporinler veya karbapenemler ile MRSA etkin bir antibiyotik kombinasyonu",
+        "yatis_gerekliligi": "Evet; Solunum gergiliği ve SpO2 düşük.",
+        "yogun_bakim_ihtiyaci": "Evet; Sepsis riski yüksek, organ yetmezliği belirtileri var.",
+        "klinik_risk": "Hasta kritik durumda, yoğun bakım takibinde değerlendirilmelidir."
+    }
+]

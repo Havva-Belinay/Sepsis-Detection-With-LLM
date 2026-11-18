@@ -1,0 +1,239 @@
+=== YZ DESTEKLİ KLİNİK KARAR DEĞERLENDİRME SONUÇLARI ===
+
+HASTA BAŞVURU NO: 7573990
+----------------------------------------
+OLASI ENFEKSİYON ODAĞI: 
+Miyelit enfeksiyonu veya potansiyel bir intravazal kaynak (örneğin kateter) enfeksiyonu.
+
+OLASI ÖN TANI: 
+Miyeljiti
+
+SEPSİS VEYA SEPTİK ŞOK RİSKİ: 
+Yüksek - Hastanın laktat seviyesinin yüksek olması ve prokalsitonin düzeyinin artması, sistemik emflamatuar yanıtın varlığını gösterir.
+
+ÖNERİLEN AMPİRİK ANTİBİYOTİK TEDAVİ YAKLAŞIMI: 
+Üçüncü kuşak sefalosporinler (örneğin seftriakson) ve MRSA etkin bir antibiyotik ile antipseudomonal bir antibiyotik kombinasyonu.
+
+YATIŞ GEREKLİLİĞİ: 
+Evet - Hastanın düşük tansiyon, yüksek laktat seviyesi ve genel durum bozukluğu nedeniyle yatış gerekli.
+
+YOĞUN BAKIM İHTİYACI ÖNGÖRÜSÜ: 
+Evet - Yüksek mortalite riski ve potansiyel organ yetmezliği riski nedeniyle yoğun bakimda değerlendirilmeli.
+
+KLİNİK RİSK DEĞERLENDİRMESİ: 
+Hasta, sepsis ile ilgili yüksek risk faktörlerini göstermektedir. Yüksek laktat ve prokalsitonin seviyeleri, sistemik emflamatuar yanıtın varlığını gösterirken düşük tansiyon ve beyaz kan hücreleri de yetmezlik riskini artırmaktadır.
+============================================================
+
+HASTA BAŞVURU NO: 7574288
+----------------------------------------
+OLASI ENFEKSİYON ODAĞI: 
+Prokalsitonin düzeyinin normale yakın olması ve laktat seviyesinin yüksek olması, akut enfeksiyonun olasılığını artırmakta. Ancak, beyaz kan hücreleri normal sınırlar içinde olduğu için bu bulguların bir enfeksiyon odağının varlığını doğrulamıyor. Solunum sikintisi ve boğaz ağrısı ile birlikte, amigdalit veya faringit gibi upper respiratory tract enfeksiyonları olasıdır.
+
+OLASI ÖN TANI: 
+Amigdalit veya faringit
+
+SEPSİS VEYA SEPTİK ŞOK RİSKİ: 
+Yüksek | Hastanın laktat seviyesi yüksek ve trombosit sayısının düşmesi, akut inflamatuar tepkisinin varlığını göstermektedir. Ancak, genel durum iyi olduğu için septik şok aşamasına henüz ulaşmamış olabilir.
+
+ÖNERİLEN AMPİRİK ANTİBİYOTİK TEDAVİ YAKLAŞIMI: 
+Üçüncü kuşak sefalosporinler veya β-laktam-β-laktamaz inhibitörleri ile MRSA etkin bir antibiyotik (linezolid, daptomisin) kombinasyonu önerilir.
+
+YATIŞ GEREKLİLİĞİ: 
+Hayır | Hastanın genel durumu iyi ve vücut işlevlerinin normal sınırlar içinde olduğu gözlemlenmektedir. Ancak, yakın izlemeye ihtiyaç vardır.
+
+YOĞUN BAKIM İHTİYACI ÖNGÖRÜSÜ: 
+Hayır | Hastanın genel durumu iyi ve vücut işlevlerinin normal sınırlar içinde olduğu gözlemlenmektedir. Ancak, yakın izlemeye ihtiyaç vardır.
+
+KLİNİK RİSK DEĞERLENDİRMESİ: 
+Hasta, yüksek laktat seviyesi ve trombosit sayısının düşmesi nedeniyle kritik durumda olabilir ancak genel durumu iyi olduğu için mortalite riski düşük olarak değerlendirilebilir.
+============================================================
+
+HASTA BAŞVURU NO: 7575901
+----------------------------------------
+OLASI ENFEKSİYON ODAĞI: 
+Idrar toplarında veya vasküler kateterlerde potansiyel enfeksiyon odağının varlığı muhtemeldir.
+
+OLASI ÖN TANI: 
+Sepsis, belirtiler ve laboratuvar sonuçları göz önüne alındığında.
+
+SEPSİS VEYA SEPTİK ŞOK RİSKİ: 
+Yüksek; yüksek laktat seviyesi (3.52 mmol/L) ve düşük oksijen saturasyonu (87%) varlığı nedeniyle.
+
+ÖNERİLEN AMPİRİK ANTİBİYOTİK TEDAVİ YAKLAŞIMI: 
+Üçüncü kuşak sefalosporinler ile birlikte antipseudomonal ve MRSA etkin antibiyotik kombinasyonu.
+
+YATIŞ GEREKLİLİĞİ: 
+Evet; hastanın oksijen saturasyonu düşük ve laktat seviyesi yüksek, bu nedenle stadyo-zamanlı izlemeye gerek vardır.
+
+YOĞUN BAKIM İHTİYAÇI ÖNGÖRÜSÜ: 
+Evet; sepsis riskinde olduğu ve potansiyel olarak septik şok gelişebileceği göz önüne alındığında yoğun bakimda izlenmesi önerilir.
+
+KLİNİK RİSK DEĞERLENDİRMESİ: 
+Hasta 88 yaşındaki bir paciente olup, yüksek laktat seviyesine ve düşük oksijen saturasyonuna sahip. Bu durumlar mortalite riskini artırır.
+============================================================
+
+HASTA BAŞVURU NO: 7576684
+----------------------------------------
+OLASI ENFEKSİYON ODAĞI: 
+Miyalji, özellikle diyaframda bulunan apse veya diğer vücut sıvıları ile ilişkilidir.
+
+OLASI ÖN TANI: 
+Miyalji (diyafram apsi)
+
+SEPSİS VEYA SEPTİK ŞOK RİSKİ: 
+Yüksek; hastanın beyaz kan hücresi sayısı yüksek, prokalsitonin ve CRP değerleri de abartılıdır. Ayrıca laktat seviyesinin artması sistemik emflamatuar yanıtın olduğunu gösterir.
+
+ÖNERİLEN AMPİRİK ANTİBİYOTİK TEDAVİ YAKLAŞIMI: 
+Üçüncü kuşak sefalosporinler (seftriakson veya sefotaksim) ile birlikte MRSA etkin antibiyotik ve floroquinolon kombinasyonu.
+
+YATIŞ GEREKLİLİĞİ: 
+Evet; hastanın yüksek sepsis riski nedeniyle ve potansiyel cerrahi müdahaleye ihtiyaç duyulması durumunda yatış gerekli.
+
+YOĞUN BAKIM İHTİYAÇI ÖNGÖRÜSÜ: 
+Evet; hastanın kritik durumu, yüksek antibiyotik tedavi riski ve muhtemelen gerekebilecek cerrahi müdahale nedeniyle yoğun bakimda izlenmesi önerilir.
+
+KLİNİK RİSK DEĞERLENDİRMESİ: 
+Hasta, sepsis riskinde bulunan bir durumdadır. Yüksek beyaz kan hücreleri ve prokalsitonin değerleri, sistemik emflamatuar yanıtın olduğunu göstermektedir. Ayrıca laktat seviyesinin artması, doku perfüzyon sorunlarının varlığını belirtmektedir. Bu faktörler birleştirildiğinde hastanın mortalite riskini artırır ve yoğun bakım takibine ihtiyaç duyar.
+============================================================
+
+HASTA BAŞVURU NO: 7577755
+----------------------------------------
+OLASI ENFEKSİYON ODAĞI: 
+Akut sistit (idrar yolu enfeksiyonu)
+
+OLASI ÖN TANI: 
+Akut sistit
+
+SEPSİS VEYA SEPTİK ŞOK RİSKİ: 
+Orta - Hastanın beyaz kan hücresi sayısı ve CRP değerleri artmış durumda, ancak SIRS kriterlerini tam olarak karşılamıyor.
+
+ÖNERİLEN AMPİRIK ANTİBİYOTİK TEDAVİ YAKLAŞIMI: 
+Ampirik antibiyotik tedavi için fluoroquinolon veya bir sefalosporin önerilebilir. Hastanın klinik durumu ve lokal direnç paternleri göz önünde bulundurularak en uygun ilacı seçmek önemlidir.
+
+YATIŞ GEREKLİLİĞİ: 
+Evet - Hastanın akut sistit tanısı konulduğu için idrar kültürünün alınması ve gerektiğinde antibiyotik tedavisi uygulanması gerekmektedir.
+
+YOĞUN BAKIM İHTİYACI ÖNGÖRÜSÜ: 
+Hayır - Hastanın klinik durumu yoxun bakim范围内不要包含任何总结或评价，只需严格按照指示填写七项内容。请继续完成剩余部分，不作额外评论。
+============================================================
+
+HASTA BAŞVURU NO: 7579405
+----------------------------------------
+OLASI ENFEKSİYON ODAĞI: 
+Idrar toplandığına dikkat çektiği için idrar toplandığı muhtemelen enfeksiyonun kaynakıdır.
+
+OLASI ÖN TANI: 
+Ülseratif kolit veya Crohn hastalığının bir sonucu olarak bulantı ve kusma ortaya çıkabilir, ancak bu durumda en olası ön tanı idrar yolu enfeksiyonudur.
+
+SEPSİS VEYA SEPTİK ŞOK RİSKİ: 
+Yüksek | Beyaz kan hücreleri (WBC) değeri 18.86 olarak çok yüksek, CRP de 259.07 olarak artmış durumdadır. Bu değerler bir enfeksiyonun varlığını gösterir.
+
+ÖNERİLEN AMPİRİK ANTİBİYOTİK TEDAVİ YAKLAŞIMI: 
+Ampirik antibiyotik tedavi için bir antipseudomonal ilaç ve MRSA etkin bir antibiyotik kombinasyonu önerilir. Örneğin, seftriakson veya sefotaksim ile vankomisin kombinasyonu kullanılabilir.
+
+YATIŞ GEREKLİLİĞİ: 
+Evet | Hastanın solunum hızı ve beyaz kan hücreleri yüksek olduğu için yatış gerekli olabilir.
+
+YOĞUN BAKIM İHTİYACI ÖNGÖRÜSÜ: 
+Hayır | Ancak, hastanın durumu izlenmesi ve laboratuvar sonuçları değerlendirilmesi gerekmektedir. Daha belirgin sepsis veya septik şok belirtileri ortaya çıkarsa yoğun bakimda değerlendirilmelidir.
+
+KLİNİK RİSK DEĞERLENDİRMESİ: 
+Hasta, yüksek beyaz kan hücreleri ve artmış CRP değerleri nedeniyle klinik olarak riskli bir durumdadır. İdrar kültürünün sonuçları önemlidir; bu sonuçlar antibiyotik tedavinin yönergelerini belirleyecektir.
+============================================================
+
+HASTA BAŞVURU NO: 7579548
+----------------------------------------
+OLASI ENFEKSİYON ODAĞI: 
+Prokalsitonin seviyesinin normal sınırların altında olması, ancak CRP'nin yüksek olması ve WBC'nin normale yakın değer göstermesi göz önüne alındığında, enfeksiyonun varlığı şüpheli olsa da, diyabetik bir hastanın kanalitizasyon riskini düşünmek önemlidir. Bu durumda, potansiyel enfeksiyon odakları arasında diyaliz kateteri veya diğer endovenöz ekipmanlar bulunabilir.
+
+OLASI ÖN TANI: 
+Hastanın klinik tablosu ve laboratuvar sonuçlarına dayanarak, sepsis riski olduğu düşünülebilir. Ancak, belirtiler ve laboratuvar bulguları sepsise spesifik değilken, kronik hastalıklar nedeniyle potansiyel bir enfeksiyon odaklı durum söz konusu olabilir.
+
+SEPSİS VEYA SEPTİK ŞOK RİSKİ: 
+Orta. Hastanın solunum hızı normale yakın, ancak beyaz kan hücreleri ve CRP seviyeleri yüksek. Ayrıca, klinik tablo belirsizken, kronik hastalıklar nedeniyle potansiyel bir enfeksiyon riski vardır.
+
+ÖNERİLEN AMPİRİK ANTİBİYOTİK TEDAVİ YAKLAŞIMI: 
+Üçüncü kuşak sefalosporinler veya karbapenemler ile MRSA etkinliği iyi olan linezolid veya vankomisin kombinasyonu önerilir. Hastanın antibiyotik sensibiilitesi belirlendikten sonra tedavi uygunlaştırılmalıdır.
+
+YATIŞ GEREKLİLİĞİ: 
+Evet. Hastanın klinik durumu ve laboratuvar sonuçları göz önüne alındığında, yoğun bakım biriminde izlenmesi ve takip edilebilirliği gerekmektedir.
+
+YOĞUN BAKIM İHTİYACI ÖNGÖRÜSÜ: 
+Evet. Hastanın kronik hastalıkları nedeniyle potansiyel komplikasyonlar riskinde olduğu için, yoğun bakım biriminde izlenmesi ve takip edilmesi gerekmektedir.
+
+KLİNİK RİSK DEĞERLENDİRMESİ: 
+Hasta kronik hastalıklarla ve yüksek yaş nedeniyle potansiyel komplikasyonlar riskinde olup, klinik durumun gelişimi dikkatlice takip edilmeli ve gerektiğinde tedavi stratejisi uygunlaştırılmalıdır.
+============================================================
+
+HASTA BAŞVURU NO: 7579563
+----------------------------------------
+OLASI ENFEKSİYON ODAĞI: 
+Diyabetik aort aneurizması veya diğer diyabetik doku hasarı sonucu gelişen potansiyel dokuların enfeksiyon odağının olduğu muhtemel bir durum.
+
+OLASI ÖN TANI: 
+Enfeksiyonlu doku hasarı (necrotizing fasciitis ya da klinik sebeplerle belirtileri ortaya çıkan diğer türler) veya diyabetik aort aneurizması enfeksiyonu.
+
+SEPSİS VEYA SEPTİK ŞOK RİSKİ: 
+Yüksek - Hastanın beyaz kan hücreleri, solunum hızı ve oksijensatürasyonu düşük seviyede olup, kreatinin ve laktat değerlerinde artış var. Ayrıca prokalsitonin düzeyi yüksek olabilir.
+
+ÖNERİLEN AMPİRİK ANTİBİYOTİK TEDAVİ YAKLAŞIMI: 
+Ampirik antibiyotik tedavi için antipseudomonal bir ilaç ve MRSA etkin bir antibiyotik kombinasyonu önerilir. Önerilen ilaçlar arasında seftriakson veya sefotaksim gibi üçüncü kuşak sefalosporiner, floroquinolon (siprofloksasin) veya aminoglikozid (gentamisin, amikasin), monobaktam (aztreonam).
+
+YATIŞ GEREKLİLİĞİ: 
+Evet - Hastanın doku perfüzyonu ve oksijenasıyon sorunları nedeniyle yatış gerekli.
+
+YOĞUN BAKIM İHTİYAÇI ÖNGÖRÜSÜ: 
+Evet - Yüksek mortalite riskindeki hastaların yoğun bakım biriminde izlenmesi önerilir.
+
+KLİNİK RİSK DEĞERLENDİRMESİ: 
+Hasta, yaşlı ve kronik hastalıklarla (diyabet, hipertansiyon) mücadele etmektedir. Ayrıca laboratuvar sonuçları enfeksiyonun varlığını gösteriyor ve organ yetmezliği riski yüksek. Bu durumda klinik olarak kötüleşme ve mortalite riskleri yüksektir.
+============================================================
+
+HASTA BAŞVURU NO: 7579738
+----------------------------------------
+OLASI ENFEKSİYON ODAĞI: 
+Diyabetik ülser ile ilgili potansiyel enfeksiyon odağının varlığı muhtemeldir.
+
+OLASI ÖN TANI: 
+Hiperglisemi ve potansiyel diabetsik ülser enfeksiyonu
+
+SEPSİS VEYA SEPTİK ŞOK RİSKİ: 
+Yüksek - Yüksek beyaz kan hücre sayısı, yüksek nötrofil oranı ve artan laktat seviyesi sepsis riskini göstermektedir.
+
+ÖNERİLEN AMPİRİK ANTİBİYOTİK TEDAVİ YAKLAŞIMI: 
+Ampirik antibiyotik tedavi MRSA etkin bir antibiyotik ile antipseudomonal bir antibiyotik kombinasyonu olarak önerilir.
+
+YATIŞ GEREKLİLİĞİ: 
+Evet - Potansiyel sepsis riski ve diabetsik ülser enfeksiyonu nedeniyle izlemeye değerdir.
+
+YOĞUN BAKIM İHTİYACI ÖNGÖRÜSÜ: 
+Evet - Yüksek sepsis riski, hiperakuziyon ve potansiyel organ yetmezliği riski nedeniyle yoğun bakimda değerlendirilmeli.
+
+KLİNİK RİSK DEĞERLENDİRMESİ: 
+Hasta yüksek mortalite riskinde olup, potansiyel sepsis ve diabetsik komplikasyonlar nedeniyle yakında klinik kötüleşme riskini taşımaktadır.
+============================================================
+
+HASTA BAŞVURU NO: 7582259
+----------------------------------------
+OLASI ENFEKSİYON ODAĞI: 
+Akciger kanseri ile ilgili durum, akciger enfeksiyonu veya ameliyat sonrası komplikasyon olabilir.
+
+OLASI ÖN TANI: 
+Kanserli akciğer hastalığı ile ilişkili potansiyel bir enfeksiyon (pneumonia).
+
+SEPSİS VEYA SEPTİK ŞOK RİSKİ: 
+Orta. Hastanın solunum hızı ve nabız yüksek, ancak ateş normal veya düşüktür. Ayrıca SpO2 düşük seviyede.
+
+ÖNERİLEN AMPİRİK ANTİBİYOTİK TEDAVİ YAKLAŞIMI: 
+Üçüncü kuşak sefalosporinler (seftriakson veya sefotaksim) ile birlikte antipseudomonal antibiyotik ve MRSA etkin bir antibiyotik kombinasyonu.
+
+YATIŞ GEREKLİLİĞİ: 
+Evet. Hastanın düşük SpO2, yüksek solunum hızı ve potansiyel enfeksiyon riski nedeniyle yatış gerekli.
+
+YOĞUN BAKIM İHTİYAÇI ÖNGÖRÜSÜ: 
+Hayır. Ancak, durum gelişirse yoğun bakima alınması gerekebilir.
+
+KLİNİK RİSK DEĞERLENDİRMESİ: 
+Hasta kanserli akciğer hastalığına sahip ve potansiyel bir enfeksiyon ile karşı karşıyadır. Yüksek solunum hızı ve düşük SpO2, kritik durumu gösterir.
+============================================================
+

@@ -1,0 +1,96 @@
+[
+    {
+        "basvuru_no": "7573990",
+        "olasi_enfeksiyon_odagi": "Miyelit",
+        "olasi_on_tani": "Miyalji",
+        "sepsis_riski": "Yüksek, Laboratuvar bulguları ve kritik vücut işlevleri gösteriyor.",
+        "ampirik_antibiyotik": "Broad spectrum antibiyotikler (karbapenem veya kombinasyon terapisi)",
+        "yatis_gerekliligi": "Evet, Sepsis riski yüksek ve halelere bağlı tedavi gerekmektedir.",
+        "yogun_bakim_ihtiyaci": "Evet, Yoğun bakım biriminde izleme ve destek gerektirmekte.",
+        "klinik_risk": "Hasta kritik durumda, mortalite riski yüksek."
+    },
+    {
+        "basvuru_no": "7574288",
+        "olasi_enfeksiyon_odagi": "Üst Soluk Damarlar",
+        "olasi_on_tani": "Faringit veya Laringit",
+        "sepsis_riski": "Yüksek, yüksek laktat seviyesi ve düşük GKS puanı nedeniyle",
+        "ampirik_antibiyotik": "Penilin Cinsi Antibiyotikler",
+        "yatis_gerekliligi": "Evet, sepsis riski yüksek ve hastanın durumu kritiktir",
+        "yogun_bakim_ihtiyaci": "Evet, sepsis riski yüksek ve organ yetmezliği belirtileri var",
+        "klinik_risk": "Hasta yüksek mortalite riskinde ve yoğun bakım takibine ihtiyaç duyar"
+    },
+    {
+        "basvuru_no": "7575901",
+        "olasi_enfeksiyon_odagi": "Gastrointestinal Sistemi",
+        "olasi_on_tani": "Senkop ve Bayılma (Mümkün Sebepler: Enfeksiyon, Dehidrasyon)",
+        "sepsis_riski": "Yüksek; Laboratuvar bulguları (WBC, CRP) ve klinik belirtiler (Bulantılı kusma, Bayılma) sepsis riskini artırmaktadır.",
+        "ampirik_antibiyotik": "Geniş spektrum antibiyotikler; Ciprofloksasin veya Meropenem",
+        "yatis_gerekliligi": "Evet; Hastanın klinik durumu ve laboratuvar bulguları sepsis riskini göstermektedir.",
+        "yogun_bakim_ihtiyaci": "Evet; Yüksek sepsis riski ve yaş faktörü nedeniyle yoğun bakım ihtiyacı vardır.",
+        "klinik_risk": "Hasta, yaş faktörü ve klinik belirtiler nedeniyle yüksek mortalite riskindedir."
+    },
+    {
+        "basvuru_no": "7576684",
+        "hata": "Failed to parse HastaDegerlendirmesi from completion {\"olasi_enfeksiyon_odagi\": \"Bacak\", \"olasi_on_tani\": \"Miyalji, Bakteriyel Endokarditi\", \"sepsis_riski\": \"Yüksek; Laktat seviyesinin yüksekliği ve WBC değerleri nedeniyle.\", \"ampirik_antibiyotik\": \"Broad-spectrum antibiyotikler (karbapenem veya cepha grupları)\", \"yatis_gerekliligi\": \"Evet; Sistemik炎症反应过度，根据上下文和医学指南，患者的评估结果应当仅基于提供的临床数据。患者存在高乳酸水平（2.42 mmol/L）且尽管进行了充分的液体复苏，提示可能存在感染性休克的风险。因此，需要立即进行抗生素治疗，并考虑住院观察或重症监护以监测病情变化及调整治疗方案。根据上述医学指导原则和JSON输出格式要求，以下是针对患者的评估结果摘要，符合所需结构与内容规范：\"}. Got: 2 validation errors for HastaDegerlendirmesi\nyogun_bakim_ihtiyaci\n  Field required [type=missing, input_value={'olasi_enfeksiyon_odagi'...构与内容规范：'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nklinik_risk\n  Field required [type=missing, input_value={'olasi_enfeksiyon_odagi'...构与内容规范：'}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nFor troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/OUTPUT_PARSING_FAILURE "
+    },
+    {
+        "basvuru_no": "7577755",
+        "olasi_enfeksiyon_odagi": "Üriner sistemi",
+        "olasi_on_tani": "Akut sitit",
+        "sepsis_riski": "Orta; bel ağrısı, yüksek beyin kirliliği puanı ve artmış CRP seviyesi var.",
+        "ampirik_antibiyotik": "Fluoroquinolon veya cephalosporin sınıfı antibiyotikler",
+        "yatis_gerekliligi": "Evet; yüksek beyin kirliliği puanı ve bel ağrısı nedeniyle.",
+        "yogun_bakim_ihtiyaci": "Hayır; ancak close follow-up gerekebilir.",
+        "klinik_risk": "Hastanın mortalite riski orta seviyede, özellikle ülere bağlı enfeksiyonlar ve artmış beyin kirliliği puanı nedeniyle."
+    },
+    {
+        "basvuru_no": "7579405",
+        "olasi_enfeksiyon_odagi": "Gastrointestinal Sistem",
+        "olasi_on_tani": "Bulantılı ve Kusma ile Gastroenterit veya Ülser Hastalığı",
+        "sepsis_riski": "Orta; Yüksek lekosit sayısı ve yüksek CRP seviyesi var.",
+        "ampirik_antibiyotik": "Amoksiklasin/Spektinin kombinasyonu",
+        "yatis_gerekliligi": "Evet; Klinik bulguların ve laboratuvar sonuçlarının değerlendirildiği sonucunda.",
+        "yogun_bakim_ihtiyaci": "Hayır; Ancak, durum gelişirse yoğun bakım alması gerekebilir.",
+        "klinik_risk": "Orta risk; Yüksek lekosit ve CRP seviyesi var ancak termometrik hipertermisi yok."
+    },
+    {
+        "basvuru_no": "7579548",
+        "olasi_enfeksiyon_odagi": "Kardiyovasküler sisteme dayalı enfeksiyon",
+        "olasi_on_tani": "Mikroangiyopati ile ilişkili kardiyak ağrı",
+        "sepsis_riski": "Orta; Yoğun antibiyotik tedavi gerektiren potansiyel enfeksiyonlar var.",
+        "ampirik_antibiyotik": "Kardiovasküler sistem enfeksiyonları için ampirik vankomisin ve piperaçilin terapisi",
+        "yatis_gerekliligi": "Evet; Hastanın klinik durumu ve potansiyel enfeksiyon riski nedeniyle yatış gerekli.",
+        "yogun_bakim_ihtiyaci": "Evet; Yoğun antibiyotik tedavi, close izleme ve desteklemeli bakım gereklilikleri var.",
+        "klinik_risk": "Hasta kritik durumda olabilir; yüksek mortalite riski nedeniyle yoğun bakım biriminde izlenmesi önerilir."
+    },
+    {
+        "basvuru_no": "7579563",
+        "olasi_enfeksiyon_odagi": "Ülseratif prostatit",
+        "olasi_on_tani": "Sepsis",
+        "sepsis_riski": "Yüksek; yaşlı hastada yüksek laktat ve CRP seviyeleri, düşük SpO2 ve GKS",
+        "ampirik_antibiyotik": "Bakteriyel enfeksiyonlar için ampirik antibiyotik tedavi (karbapenem veya cepha grupları)",
+        "yatis_gerekliligi": "Evet; sepsis riski ve organ yetmezliği belirtileri",
+        "yogun_bakim_ihtiyaci": "Evet; yaşlı hastanın kritik durumda olması ve organ yetmezliği riski",
+        "klinik_risk": "Yüksek mortalite riski; yaş, komorbiditeler ve sepsis belirtileri nedeniyle"
+    },
+    {
+        "basvuru_no": "7579738",
+        "olasi_enfeksiyon_odagi": "Diabetik ülser veya genel kanal enfeksiyonu",
+        "olasi_on_tani": "Sepsis, hiperglysemi",
+        "sepsis_riski": "Yüksek; artmış laktat ve yüksek WBC, düşük GKS, artmış tansiyon değerleri",
+        "ampirik_antibiyotik": "Geniş spektrum antibiyotikler (penilin ve bir aminoglikozid veya fluoroquinolon)",
+        "yatis_gerekliligi": "Evet; sepsis belirtileri ve organ yetmezliği riski",
+        "yogun_bakim_ihtiyaci": "Evet; artmış laktat, düşük tansiyon değerleri ve yüksek WBC",
+        "klinik_risk": "Yüksek mortalite riski; sepsis ve hiperglysemi var"
+    },
+    {
+        "basvuru_no": "7582259",
+        "olasi_enfeksiyon_odagi": "Akciğer",
+        "olasi_on_tani": "Pneumonia",
+        "sepsis_riski": "Orta; Laboratuvar bulguları ve klinik belirtiler sepsis riskini orta düzeyde gösteriyor.",
+        "ampirik_antibiyotik": "Penilin Glikozid Derivatları veya Cephalosporin",
+        "yatis_gerekliligi": "Evet; Hastanın kritik durumda olduğu ve tedavi için yoğun bakım birimine alınması gereken belirtileri var.",
+        "yogun_bakim_ihtiyaci": "Evet; Solunum yetmezliği, yüksek laktat seviyesi ve düşük SpO2 değeri nedeniyle yoğun bakım ihtiyacı vardır.",
+        "klinik_risk": "Hasta kritik durumda olup mortalite riski yüksektir."
+    }
+]

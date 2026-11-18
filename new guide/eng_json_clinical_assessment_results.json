@@ -1,0 +1,102 @@
+[
+    {
+        "admission_no": "7573990",
+        "possible_infection_focus": "Respiratory or urinary tract infection",
+        "possible_preliminary_diagnosis": "Sepsis due to probable infection",
+        "sepsis_or_septic_shock_risk": "High; patient has elevated lactate and procalcitonin levels, high WBC count, low platelet count, and altered mental status (GCS 15 but with hypotension)",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics covering gram-positive cocci, gram-negative bacilli, and anaerobes",
+        "hospitalization_requirement": "Yes; patient requires close monitoring of vital signs and laboratory values, as well as prompt antibiotic therapy",
+        "icu_requirement": "Yes; patient has evidence of organ dysfunction (renal) and hypotension requiring vasopressors",
+        "clinical_risk_assessment": "High risk for clinical deterioration and mortality due to sepsis with multi-organ involvement"
+    },
+    {
+        "admission_no": "7574288",
+        "possible_infection_focus": "Renal or urinary tract",
+        "possible_preliminary_diagnosis": "Suspected sepsis due to elevated lactate and abnormal WBC count",
+        "sepsis_or_septic_shock_risk": "High; patient has severe lactic acidosis (lactate >2 mmol/L) indicating tissue hypoperfusion despite adequate fluid resuscitation",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics covering gram-negative and gram-positive organisms",
+        "hospitalization_requirement": "Yes; patient requires hospital admission for further evaluation, monitoring, and management of suspected sepsis",
+        "icu_requirement": "No; patient does not meet criteria for ICU admission at this time but should be closely monitored in the emergency department",
+        "clinical_risk_assessment": "High risk of clinical deterioration due to severe lactic acidosis and potential organ dysfunction"
+    },
+    {
+        "admission_no": "7575901",
+        "possible_infection_focus": "Respiratory or Urinary Tract Infection",
+        "possible_preliminary_diagnosis": "Sepsis due to suspected infection",
+        "sepsis_or_septic_shock_risk": "High; patient has elevated lactate level indicating tissue hypoperfusion and high CRP suggesting systemic inflammation.",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics (e.g., piperacillin-tazobactam or ceftriaxone plus metronidazole)",
+        "hospitalization_requirement": "Yes; patient requires immediate medical intervention for suspected sepsis and needs monitoring of vital signs and organ function.",
+        "icu_requirement": "No; although the patient has elevated lactate, there is no evidence of hypotension or other severe organ dysfunction necessitating ICU care at this time.",
+        "clinical_risk_assessment": "Patient is at high risk for clinical deterioration due to sepsis and requires close monitoring in a hospital setting."
+    },
+    {
+        "admission_no": "7576684",
+        "possible_infection_focus": "Lower extremity (based on chief complaint and elevated procalcitonin)",
+        "possible_preliminary_diagnosis": "Sepsis secondary to possible lower extremity infection",
+        "sepsis_or_septic_shock_risk": "High risk due to high lactate level (>2 mmol/L) indicating tissue hypoperfusion despite adequate fluid resuscitation and elevated procalcitonin suggesting severe systemic inflammatory response",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics (e.g., piperacillin-tazobactam or ceftriaxone plus metronidazole)",
+        "hospitalization_requirement": "Yes, due to evidence of sepsis and need for close monitoring and management",
+        "icu_requirement": "No, but high-risk patient requiring frequent reassessment and potential escalation to ICU if condition worsens",
+        "clinical_risk_assessment": "High risk of clinical deterioration and mortality given the presence of sepsis with organ dysfunction (elevated lactate) and underlying diabetes mellitus"
+    },
+    {
+        "admission_no": "7577755",
+        "possible_infection_focus": "Urinary tract infection (UTI) based on chief complaint of bladder pain and unverified triage entry of acute cystitis",
+        "possible_preliminary_diagnosis": "Suspected urinary tract infection with elevated CRP and procalcitonin levels",
+        "sepsis_or_septic_shock_risk": "Low - No evidence of organ dysfunction or hypotension, normal GCS score, and no significant derangements in vital signs or laboratory values indicative of sepsis",
+        "recommended_empiric_antibiotic": "Fluoroquinolone (e.g., Ciprofloxacin) due to suspected urinary tract infection",
+        "hospitalization_requirement": "No - Patient does not meet criteria for hospital admission based on lack of organ dysfunction and stable vital signs",
+        "icu_requirement": "No - No evidence of sepsis or septic shock, patient is hemodynamically stable with normal GCS score",
+        "clinical_risk_assessment": "Low risk of clinical deterioration or mortality given the absence of severe systemic inflammatory response or organ dysfunction"
+    },
+    {
+        "admission_no": "7579405",
+        "possible_infection_focus": "Gastrointestinal source, based on chief complaint of abdominal pain and unverified triage entry of vomiting and nausea.",
+        "possible_preliminary_diagnosis": "Systemic Inflammatory Response Syndrome (SIRS) due to possible gastrointestinal infection.",
+        "sepsis_or_septic_shock_risk": "Low risk; patient has normal vital signs, GCS score of 15, no evidence of organ dysfunction, and creatinine within normal limits.",
+        "recommended_empiric_antibiotic": "No empiric antibiotic is recommended at this time due to low suspicion for sepsis.",
+        "hospitalization_requirement": "No; patient does not meet criteria for hospital admission based on current objective data.",
+        "icu_requirement": "No; no evidence of severe organ dysfunction or risk factors necessitating ICU care.",
+        "clinical_risk_assessment": "Low overall mortality and clinical deterioration risk with normal vital signs, GCS score, and laboratory values."
+    },
+    {
+        "admission_no": "7579548",
+        "possible_infection_focus": "Cardiovascular (history of coronary artery disease and angina)",
+        "possible_preliminary_diagnosis": "Acute Coronary Syndrome with potential infection",
+        "sepsis_or_septic_shock_risk": "Low; no evidence of organ dysfunction or hypotension, normal GCS score, lactate within normal range.",
+        "recommended_empiric_antibiotic": "None recommended at this time due to low sepsis risk. Consider antibiotics if infection is confirmed and source identified.",
+        "hospitalization_requirement": "Yes; patient has a history of multiple comorbidities and presents with chest pain, requiring further evaluation for ACS.",
+        "icu_requirement": "No; no evidence of severe organ dysfunction or shock that would necessitate ICU care.",
+        "clinical_risk_assessment": "Patient is at moderate risk due to age, comorbidities, and presentation. Close monitoring and prompt intervention are necessary."
+    },
+    {
+        "admission_no": "7579563",
+        "possible_infection_focus": "Renal or Urinary Tract Infection",
+        "possible_preliminary_diagnosis": "Sepsis due to suspected urinary tract infection in a patient with diabetes and elevated CRP, lactate, and creatinine levels.",
+        "sepsis_or_septic_shock_risk": "High - Elevated lactate (2.43 mmol/L), increased serum creatinine (3.61 mg/dL) indicating acute kidney injury, and high CRP level suggest systemic inflammatory response with organ dysfunction.",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics covering gram-negative organisms such as piperacillin-tazobactam or ceftriaxone plus metronidazole",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for intravenous fluids, monitoring of organ function, and administration of appropriate antibiotics.",
+        "icu_requirement": "No - While the patient has signs of sepsis, there is no evidence of hypotension or severe organ dysfunction necessitating ICU care at this time.",
+        "clinical_risk_assessment": "The patient's risk for clinical deterioration and mortality is high due to advanced age, diabetes mellitus, and acute kidney injury. Close monitoring and timely intervention are critical."
+    },
+    {
+        "admission_no": "7579738",
+        "possible_infection_focus": "Genitourinary tract",
+        "possible_preliminary_diagnosis": "Urinary Tract Infection (UTI) with signs of systemic inflammatory response syndrome (SIRS)",
+        "sepsis_or_septic_shock_risk": "Moderate risk; patient has elevated lactate and tachycardia, but no clear evidence of organ dysfunction or hypotension.",
+        "recommended_empiric_antibiotic": "Cephalosporin",
+        "hospitalization_requirement": "Yes; patient requires intravenous antibiotics and monitoring for potential progression to sepsis.",
+        "icu_requirement": "No; patient does not meet criteria for ICU admission based on current vital signs and laboratory results.",
+        "clinical_risk_assessment": "Patient has a moderate risk of clinical deterioration due to elevated lactate levels, tachycardia, and fever. Close monitoring is required."
+    },
+    {
+        "admission_no": "7582259",
+        "possible_infection_focus": "Pneumonia or urinary tract infection",
+        "possible_preliminary_diagnosis": "Suspected sepsis due to elevated WBC and CRP, tachycardia, hypoxemia",
+        "sepsis_or_septic_shock_risk": "Moderate risk; patient has signs of systemic inflammatory response (tachycardia, tachypnea) but no evidence of organ dysfunction or hypotension.",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics covering gram-positive and gram-negative organisms",
+        "hospitalization_requirement": "Yes; patient requires monitoring for progression to sepsis/septic shock and further diagnostic evaluation",
+        "icu_requirement": "No; no evidence of severe organ dysfunction or hemodynamic instability at this time.",
+        "clinical_risk_assessment": "Patient is at moderate risk for clinical deterioration due to signs of systemic inflammation and respiratory compromise."
+    }
+]

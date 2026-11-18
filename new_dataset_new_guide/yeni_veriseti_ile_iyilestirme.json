@@ -1,0 +1,112 @@
+[
+    {
+        "admission_no": "7573990",
+        "step_by_step_analysis": "Lactate: 5.82 mmol/L (danger threshold >2.0), Creatinine: <0.17 mg/dL, PLT: 97.0 x 10^3/µL (<150 danger threshold), GCS: 15.0, BP: 110/66 mm Hg (Systolic BP >100).",
+        "possible_infection_focus": "Unspecified, but elevated procalcitonin and WBC suggest possible systemic infection.",
+        "possible_preliminary_diagnosis": "Severe Infection with Acute Organ Dysfunction Likely Due to Metabolic or Cardiac Complications (e.g., Heart Failure)",
+        "sepsis_or_septic_shock_risk": "High - Elevated lactate, low platelets, and history of heart failure indicate significant organ dysfunction.",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics covering gram-positive and gram-negative organisms",
+        "hospitalization_requirement": "Yes - Patient requires close monitoring for hemodynamic instability and potential need for vasopressors.",
+        "icu_requirement": "Yes - High risk of clinical deterioration due to severe organ dysfunction and history of heart failure.",
+        "clinical_risk_assessment": "High mortality risk due to acute organ dysfunction, metabolic derangement, and significant cardiovascular compromise."
+    },
+    {
+        "admission_no": "7574288",
+        "step_by_step_analysis": "Lactate: 9.53 (danger threshold crossed), Creatinine: 1.41 (danger threshold crossed), PLT: 85.0 (<150 danger threshold crossed), GCS: 15.0, BP: 128/83",
+        "possible_infection_focus": "Lung Cancer complications or secondary infection due to immunosuppression from cancer treatment",
+        "possible_preliminary_diagnosis": "Severe sepsis secondary to lung cancer complications with metabolic alkalosis and acute kidney injury",
+        "sepsis_or_septic_shock_risk": "High, severe organ dysfunction (lactate >2.0, creatinine >=1.2, platelets <150) indicates high risk despite normal GCS and BP",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics covering gram-positive and gram-negative organisms",
+        "hospitalization_requirement": "Yes, patient requires hospitalization for sepsis management and monitoring of organ function",
+        "icu_requirement": "Yes, ICU admission is necessary due to high risk of clinical deterioration and need for close monitoring and intervention",
+        "clinical_risk_assessment": "High mortality risk with significant potential for rapid clinical deterioration requiring intensive care support"
+    },
+    {
+        "admission_no": "7575901",
+        "step_by_step_analysis": "Lactate: 3.52 mmol/L (threshold >2.0), Creatinine: 0.65 mg/dL (threshold <1.2), PLT: 160 ×10^3/µL (threshold ≥150), GCS: 15, BP: 150/62 mm Hg (Systolic threshold >100). Lactate is elevated.",
+        "possible_infection_focus": "Unspecified, but high CRP and WBC suggest possible respiratory or urinary tract infection.",
+        "possible_preliminary_diagnosis": "Uncomplicated Infection with signs of metabolic acidosis due to elevated lactate. Consider diabetic ketoacidosis in an elderly patient with diabetes history.",
+        "sepsis_or_septic_shock_risk": "Moderate risk due to elevated lactate and high CRP, indicating systemic inflammation likely from infection or non-infectious cause like DKA.",
+        "recommended_empiric_antibiotic": "Empiric broad-spectrum antibiotics pending culture results (e.g., Piperacillin-Tazobactam).",
+        "hospitalization_requirement": "Yes, due to elevated lactate and high CRP indicating potential severe infection or metabolic derangement requiring close monitoring.",
+        "icu_requirement": "No, unless there is clinical deterioration with worsening organ dysfunction or hypotension.",
+        "clinical_risk_assessment": "High risk of clinical deterioration due to metabolic acidosis and systemic inflammation. Close monitoring for signs of acute decompensation."
+    },
+    {
+        "admission_no": "7576684",
+        "step_by_step_analysis": "Lactate: 2.42 mmol/L (threshold >2.0), Creatinine: 1.43 mg/dL (threshold >=1.2), PLT: 214 ×10^3/µL, GCS: 15, BP: 140/83 mm Hg",
+        "possible_infection_focus": "Unspecified due to lack of clear infection source in the data provided.",
+        "possible_preliminary_diagnosis": "Diabetic Ketoacidosis or Heart Failure complication given elevated lactate and medical history of diabetes and heart failure.",
+        "sepsis_or_septic_shock_risk": "Moderate risk due to elevated lactate and creatinine, indicating potential tissue hypoperfusion or organ dysfunction.",
+        "recommended_empiric_antibiotic": "Empiric antibiotic therapy is not recommended at this stage as the primary concern appears non-infectious based on medical history and lab results.",
+        "hospitalization_requirement": "Yes, due to elevated lactate and creatinine indicating potential metabolic or cardiac emergency requiring close monitoring and management.",
+        "icu_requirement": "No, unless there is a significant deterioration in clinical status or organ function necessitating intensive care support.",
+        "clinical_risk_assessment": "The patient has moderate risk of clinical deterioration due to elevated lactate and creatinine levels, suggesting metabolic or cardiac issues. Close monitoring for signs of worsening condition is essential."
+    },
+    {
+        "admission_no": "7577755",
+        "step_by_step_analysis": "Lactate: Unknown, Creatinine: 0.68 (normal), PLT: 996.0 (high but not relevant for sepsis risk), GCS: 15 (normal), BP: 120/73 (normal). No values cross the danger threshold.",
+        "possible_infection_focus": "Urinary tract infection based on chief complaint and doctor's note",
+        "possible_preliminary_diagnosis": "Uncomplicated Urinary Tract Infection",
+        "sepsis_or_septic_shock_risk": "Low, as there is no evidence of organ dysfunction or tissue hypoperfusion despite elevated inflammatory markers.",
+        "recommended_empiric_antibiotic": "None recommended due to low sepsis risk and lack of severe symptoms. Consider symptomatic treatment.",
+        "hospitalization_requirement": "No, patient does not meet criteria for hospitalization based on current data.",
+        "icu_requirement": "No, no indication for ICU admission as there is no organ dysfunction or severe clinical deterioration.",
+        "clinical_risk_assessment": "Low risk of mortality and clinical deterioration. Patient requires close outpatient follow-up."
+    },
+    {
+        "admission_no": "7579405",
+        "step_by_step_analysis": "Lactate: Unknown, Creatinine: 0.77 (normal), PLT: 493.0 (normal), GCS: 15.0 (normal), BP: 128/83 mmHg (normal). No values cross the danger threshold.",
+        "possible_infection_focus": "Urinary tract infection",
+        "possible_preliminary_diagnosis": "Localized urinary tract infection with elevated CRP",
+        "sepsis_or_septic_shock_risk": "Low, as there is no evidence of organ dysfunction or tissue hypoperfusion despite elevated inflammatory markers.",
+        "recommended_empiric_antibiotic": "Empiric antibiotic therapy not recommended due to low sepsis risk and localized infection suspicion. Consider urine culture for definitive diagnosis.",
+        "hospitalization_requirement": "Yes, due to the need for further diagnostic evaluation (urine culture) and monitoring of symptoms.",
+        "icu_requirement": "No, as there is no evidence of severe organ dysfunction or hypoperfusion.",
+        "clinical_risk_assessment": "Low risk of clinical deterioration. However, close follow-up is necessary to monitor for potential progression."
+    },
+    {
+        "admission_no": "7579548",
+        "step_by_step_analysis": "Lactate: 1.91 mmol/L (normal), Creatinine: 1.53 mg/dL (elevated but not severe), PLT: 380 x 10^9/L (normal), GCS: 15 (normal), BP: 107/88 mmHg (borderline hypotensive). Lactate is within normal limits, Creatinine is slightly elevated indicating possible chronic kidney disease or acute deterioration due to non-infectious causes. Platelets are normal, GCS is intact, and systolic BP is borderline but not severely low.",
+        "possible_infection_focus": "Pneumonia (based on WBC count of 18000 and CRP of 96, along with imaging findings of bilateral patchy opacities and tree-in-bud pattern)",
+        "possible_preliminary_diagnosis": "Community-Acquired Pneumonia",
+        "sepsis_or_septic_shock_risk": "Moderate risk due to elevated inflammatory markers (WBC, CRP) and slightly elevated creatinine indicating possible acute kidney injury or exacerbation of chronic condition. However, no severe organ dysfunction is present.",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics covering community-acquired pneumonia (e.g., Ceftriaxone + Azithromycin)",
+        "hospitalization_requirement": "Yes, due to the presence of pneumonia and chronic conditions requiring close monitoring",
+        "icu_requirement": "No, as there is no severe organ dysfunction or hypotension requiring vasopressors",
+        "clinical_risk_assessment": "The patient has a moderate risk for clinical deterioration given their elevated inflammatory markers and slightly impaired kidney function. However, the absence of severe organ failure reduces the immediate critical care requirement."
+    },
+    {
+        "admission_no": "7579563",
+        "step_by_step_analysis": "Lactate: 2.43 mmol/L (threshold >2.0), Creatinine: 3.61 mg/dL (threshold >=1.2), PLT: 220.0 (normal), GCS: 15.0 (normal), BP: 173/97 mmHg (systolic threshold <=100 not met).",
+        "possible_infection_focus": "Unspecified, but elevated CRP and WBC suggest possible infection.",
+        "possible_preliminary_diagnosis": "Diabetic Ketoacidosis or Heart Failure with Acute Kidney Injury due to the patient's medical history of diabetes and heart failure, along with severe hypoxemia (SpO2:78) and high lactate level.",
+        "sepsis_or_septic_shock_risk": "Moderate. Elevated lactate and creatinine levels indicate acute organ dysfunction, likely secondary to non-infectious causes such as diabetic ketoacidosis or heart failure.",
+        "recommended_empiric_antibiotic": "No empiric antibiotic recommended due to the possibility of a non-infectious cause for the patient's condition.",
+        "hospitalization_requirement": "Yes. The patient requires hospitalization for further evaluation and management of potential metabolic derangement (diabetic ketoacidosis) or heart failure with acute kidney injury.",
+        "icu_requirement": "No. ICU admission is not indicated at this time, but close monitoring in a general ward is necessary due to the high clinical risk associated with severe hypoxemia and organ dysfunction.",
+        "clinical_risk_assessment": "The patient has a high risk of clinical deterioration due to severe hypoxemia (SpO2:78) and acute kidney injury. Immediate intervention for potential metabolic or cardiac causes is critical."
+    },
+    {
+        "admission_no": "7579738",
+        "step_by_step_analysis": "Lactate: 2.5 (threshold >2.0), Creatinine: 0.73 (normal <1.2), PLT: 236.0 (normal >=150), GCS: 15.0 (normal), BP: 103/62 (systolic threshold <=100).",
+        "possible_infection_focus": "Diabetic Ketoacidosis due to ketone breath and hyperglycemia.",
+        "possible_preliminary_diagnosis": "Diabetic Ketoacidosis with possible infection focus.",
+        "sepsis_or_septic_shock_risk": "Moderate. Elevated lactate indicates tissue hypoperfusion, despite normal GCS and creatinine levels.",
+        "recommended_empiric_antibiotic": "Empiric antibiotic coverage for suspected diabetic foot or urinary tract infection.",
+        "hospitalization_requirement": "Yes. The patient requires hospitalization due to metabolic instability and potential infection focus.",
+        "icu_requirement": "No. ICU admission is not required at this time, but close monitoring in a general ward is necessary.",
+        "clinical_risk_assessment": "The patient has an elevated risk of clinical deterioration due to diabetic ketoacidosis with signs of tissue hypoperfusion."
+    },
+    {
+        "admission_no": "7582259",
+        "step_by_step_analysis": "Lactate: 1.43 (normal), Creatinine: 0.95 (normal), PLT: 327.0 (normal), GCS: 15.0 (normal), BP: 109/74 (normal). No values cross the danger threshold.",
+        "possible_infection_focus": "Respiratory system, possibly pneumonia or exacerbation of COPD",
+        "possible_preliminary_diagnosis": "Uncomplicated Infection with Respiratory Symptoms",
+        "sepsis_or_septic_shock_risk": "Low. No signs of organ dysfunction or tissue hypoperfusion.",
+        "recommended_empiric_antibiotic": "No empiric antibiotic recommended at this time due to low sepsis risk and unverified infection focus.",
+        "hospitalization_requirement": "Yes. The patient requires hospitalization for further evaluation, monitoring, and management of respiratory symptoms.",
+        "icu_requirement": "No. ICU admission is not indicated based on current data; however, close monitoring in a general ward is recommended due to the presence of chronic conditions and elevated CRP.",
+        "clinical_risk_assessment": "The patient has moderate clinical risk due to severe tachypnea (respiratory rate of 22) and hypoxemia (SpO2 of 83), which may indicate a critical non-infectious condition such as COPD exacerbation or heart failure."
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "admission_no": "7573990",
+        "step_by_step_analysis": "Lactate: 5.82 mmol/L (threshold >2.0), Creatinine: <0.17 mg/dL (threshold >=1.2), PLT: 97.0 x10^3/µL (threshold <150), GCS: 15, BP: 110/66 mm Hg (Systolic threshold <=100)",
+        "possible_infection_focus": "Unspecified, but elevated inflammatory markers suggest a systemic infection focus",
+        "possible_preliminary_diagnosis": "Systemic Inflammatory Response with Organ Dysfunction",
+        "sepsis_or_septic_shock_risk": "High risk due to lactate >2.0 and platelets <150 despite normal GCS score",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics covering gram-positive, gram-negative, and anaerobic bacteria",
+        "hospitalization_requirement": "Yes, patient requires hospitalization for monitoring and treatment of systemic infection with organ dysfunction",
+        "icu_requirement": "No, ICU admission is not required at this time as the patient does not meet criteria for septic shock or severe organ failure",
+        "clinical_risk_assessment": "Patient has significant risk factors indicating potential progression to severe sepsis/septic shock necessitating close monitoring and prompt intervention"
+    },
+    {
+        "admission_no": "7574288",
+        "step_by_step_analysis": "Lactate: 9.53 mmol/L (danger threshold >2.0), Creatinine: 1.41 mg/dL (danger threshold >=1.2), PLT: 85 x 10^3/µL (danger threshold <150), GCS: 15, BP: 128/83 mmHg (systolic >100)",
+        "possible_infection_focus": "Respiratory tract infection",
+        "possible_preliminary_diagnosis": "Uncomplicated Infection with signs of organ dysfunction",
+        "sepsis_or_septic_shock_risk": "Moderate risk due to elevated lactate and creatinine levels indicating tissue hypoperfusion and acute kidney injury.",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics (e.g., piperacillin-tazobactam) pending culture results",
+        "hospitalization_requirement": "Yes, patient requires hospitalization for monitoring of organ function and response to antibiotic therapy.",
+        "icu_requirement": "No, ICU admission is not required at this time as the patient does not meet criteria for severe sepsis or septic shock.",
+        "clinical_risk_assessment": "Patient has moderate risk of clinical deterioration due to signs of systemic infection with organ dysfunction. Close monitoring and timely intervention are necessary."
+    },
+    {
+        "admission_no": "7575901",
+        "step_by_step_analysis": "Lactate: 3.52 mmol/L (threshold >2.0), Creatinine: 0.65 mg/dL (threshold <1.2), PLT: 160.0 x10^9/L, GCS: 15, BP: 150/62 mm Hg (Systolic threshold <=100). Lactate is elevated.",
+        "possible_infection_focus": "Unspecified, but given the patient's age and inflammatory markers, possible sources include urinary tract or respiratory infections.",
+        "possible_preliminary_diagnosis": "Localized Infection with signs of systemic response",
+        "sepsis_or_septic_shock_risk": "Moderate risk due to elevated lactate indicating tissue hypoperfusion despite normal GCS and BP.",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics covering gram-positive, gram-negative, and anaerobic bacteria",
+        "hospitalization_requirement": "Yes, as the patient has signs of systemic infection with organ dysfunction requiring monitoring and treatment.",
+        "icu_requirement": "No, ICU admission is not indicated at this time; however, close observation in a general ward is recommended due to elevated lactate.",
+        "clinical_risk_assessment": "The patient's risk for clinical deterioration is moderate. Close monitoring and timely intervention are necessary."
+    },
+    {
+        "admission_no": "7576684",
+        "step_by_step_analysis": "Lactate: 2.42 mmol/L (threshold >2.0), Creatinine: 1.43 mg/dL (threshold >=1.2), PLT: 214 ×10^3/µL, GCS: 15.0, Systolic BP: 140 mm Hg",
+        "possible_infection_focus": "Localized infection focus suspected in the lower extremities based on triage entry and elevated inflammatory markers.",
+        "possible_preliminary_diagnosis": "Uncomplicated Infection with signs of organ dysfunction (elevated lactate, creatinine).",
+        "sepsis_or_septic_shock_risk": "Moderate risk due to elevated lactate and creatinine levels indicating tissue hypoperfusion and acute kidney injury.",
+        "recommended_empiric_antibiotic": "Empiric antibiotic therapy targeting gram-positive cocci and enteric pathogens is recommended.",
+        "hospitalization_requirement": "Yes, hospitalization required for monitoring of organ function and appropriate antibiotic treatment.",
+        "icu_requirement": "No, ICU admission not indicated at this time as patient does not meet criteria for septic shock or severe organ dysfunction.",
+        "clinical_risk_assessment": "Patient has moderate risk of clinical deterioration due to signs of infection with evidence of tissue hypoperfusion and acute kidney injury."
+    },
+    {
+        "admission_no": "7577755",
+        "step_by_step_analysis": "Lactate: Unknown, Creatinine: 0.68 mg/dL (normal), PLT: 996.0 (high but not relevant for sepsis risk), GCS: 15 (normal mental status), BP: 120/73 mmHg (systolic > 100, normal). No values cross the danger threshold.",
+        "possible_infection_focus": "Lower urinary tract infection based on chief complaint and unverified triage entry",
+        "possible_preliminary_diagnosis": "Uncomplicated Urinary Tract Infection",
+        "sepsis_or_septic_shock_risk": "Low, as there is no evidence of organ dysfunction or tissue hypoperfusion.",
+        "recommended_empiric_antibiotic": "Nitrofurantoin or Trimethoprim-Sulfamethoxazole for urinary tract infection",
+        "hospitalization_requirement": "No, patient does not meet criteria for hospitalization based on stable vital signs and lack of organ dysfunction.",
+        "icu_requirement": "No, no indication of severe sepsis or septic shock requiring ICU care.",
+        "clinical_risk_assessment": "Low risk of clinical deterioration or mortality. Patient can be managed as an outpatient with close follow-up."
+    },
+    {
+        "admission_no": "7579405",
+        "step_by_step_analysis": "Lactate: Unknown, Creatinine: 0.77 (normal), PLT: 493.0 (normal), GCS: 15.0 (normal), BP: 128/83 (normal). No values cross the danger threshold.",
+        "possible_infection_focus": "Gastrointestinal tract, based on chief complaint of abdominal pain and unverified triage entry of vomiting and nausea.",
+        "possible_preliminary_diagnosis": "Uncomplicated Infection",
+        "sepsis_or_septic_shock_risk": "Low. No signs of organ dysfunction or tissue hypoperfusion despite elevated inflammatory markers (WBC, CRP).",
+        "recommended_empiric_antibiotic": "None recommended at this time due to low sepsis risk and lack of clear infectious focus.",
+        "hospitalization_requirement": "No. The patient does not meet criteria for hospital admission based on current data.",
+        "icu_requirement": "No. No indication for ICU level care given the absence of organ dysfunction or hypotension.",
+        "clinical_risk_assessment": "Low risk of clinical deterioration or mortality with close outpatient follow-up recommended."
+    },
+    {
+        "admission_no": "7579548",
+        "step_by_step_analysis": "Lactate: 1.91 (normal), Creatinine: 1.53 (>1.2, indicating renal dysfunction), PLT: 380.0 (normal), GCS: 15.0 (normal mental status), BP: 107/88 mmHg (systolic BP <100 not met)",
+        "possible_infection_focus": "Cardiovascular system, possibly related to stent complications or coronary artery disease",
+        "possible_preliminary_diagnosis": "Uncomplicated Infection with potential cardiovascular involvement",
+        "sepsis_or_septic_shock_risk": "Moderate risk due to renal dysfunction (Creatinine >1.2) despite normal lactate and platelets",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotic coverage, pending culture results",
+        "hospitalization_requirement": "Yes, for monitoring and further diagnostic workup",
+        "icu_requirement": "No, as there are no signs of severe organ dysfunction or hypotension",
+        "clinical_risk_assessment": "Moderate risk of clinical deterioration due to renal involvement; close monitoring is essential"
+    },
+    {
+        "admission_no": "7579563",
+        "step_by_step_analysis": "Lactate: 2.43 (threshold >2.0), Creatinine: 3.61 (threshold >=1.2), PLT: 220.0 (no threshold breach), GCS: 15.0 (normal mental status), BP: 173/97 (no hypotension, systolic BP >100)",
+        "possible_infection_focus": "Renal or urinary tract infection based on elevated creatinine and age-related risk factors",
+        "possible_preliminary_diagnosis": "Uncomplicated Infection with signs of acute kidney injury",
+        "sepsis_or_septic_shock_risk": "Moderate - Elevated lactate and creatinine indicate organ dysfunction, despite normal GCS and BP",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics covering gram-positive and gram-negative organisms",
+        "hospitalization_requirement": "Yes - Patient requires monitoring for acute kidney injury and potential progression to sepsis/septic shock",
+        "icu_requirement": "No - Current vital signs stable, but close observation in a general ward is recommended due to organ dysfunction risk",
+        "clinical_risk_assessment": "Patient at moderate risk of clinical deterioration with elevated inflammatory markers and evidence of acute kidney injury"
+    },
+    {
+        "admission_no": "7579738",
+        "step_by_step_analysis": "Lactate: 2.5 (threshold >2.0), Creatinine: 0.73 (threshold <1.2), PLT: 236.0 (threshold >=150), GCS: 15.0 (normal), BP: 103/62 (systolic threshold <=100).",
+        "possible_infection_focus": "Localized infection focus, possibly urinary tract or soft tissue.",
+        "possible_preliminary_diagnosis": "Uncomplicated Infection with signs of hypoperfusion.",
+        "sepsis_or_septic_shock_risk": "Moderate risk due to elevated lactate and low systolic blood pressure indicating potential tissue hypoperfusion.",
+        "recommended_empiric_antibiotic": "Empiric antibiotic therapy targeting gram-positive cocci, including coverage for Staphylococcus aureus and Streptococcus species.",
+        "hospitalization_requirement": "Yes, due to signs of systemic involvement and need for monitoring and treatment.",
+        "icu_requirement": "No, as there are no severe organ dysfunctions or persistent hypotension requiring intensive care support.",
+        "clinical_risk_assessment": "Moderate risk of clinical deterioration with potential for progression if infection is not adequately treated."
+    },
+    {
+        "admission_no": "7582259",
+        "step_by_step_analysis": "Lactate: 1.43 (normal), Creatinine: 0.95 (normal), PLT: 327.0 (normal), GCS: 15.0 (normal), BP: 109/74 (normal). No values cross the danger threshold.",
+        "possible_infection_focus": "Pulmonary source based on chief complaint of dyspnea and elevated CRP.",
+        "possible_preliminary_diagnosis": "Uncomplicated Infection",
+        "sepsis_or_septic_shock_risk": "Low. All organ functions are normal, no signs of acute organ dysfunction or tissue hypoperfusion.",
+        "recommended_empiric_antibiotic": "Empiric antibiotic therapy is not indicated at this time due to low sepsis risk and lack of clear infection source.",
+        "hospitalization_requirement": "No. The patient does not meet criteria for hospital admission based on current data.",
+        "icu_requirement": "No. No indication for ICU level care as there are no signs of organ dysfunction or severe illness.",
+        "clinical_risk_assessment": "Low risk of clinical deterioration or mortality with close outpatient follow-up recommended."
+    }
+]

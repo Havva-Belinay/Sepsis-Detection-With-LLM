@@ -1,0 +1,219 @@
+=== SEPSİS RİSK DEĞERLENDİRME SONUÇLARI (RAG - KILAVUZ DESTEKLİ) ===
+
+HASTA BAŞVURU NO: 7573990
+----------------------------------------
+ Hayatı Bulguların Analizi:
+Ateş: 37,0 (Kilosuzluğun yan etkisidir)
+Nabız: 113 (Normal)
+Tansiyon: 11/66 (Normal)
+Solunum Hızı: 16 (Normal)
+Oksijen Saturasyonu: 91 (Normal)
+Glaskow Koma Skoru: Toplam 15.0 (Göz: 4.0, Sözel: 5.0, Motor: 6.0) (Koma riski yok)
+
+Laboratuvar Sonuçların Analizi:
+Beyaz Kan Hücresi (WBC): 9,67 (Normal)
+Trombosit (PLT): 97.0 (Normal)
+Nötrofil (NE): 9,22 (Normal)
+Kreatinin: <0,17 (Normal)
+Laktat: 5.82 (Normal)
+Prokalsitonin: 6.17 (Normal)
+CRP: 98.4 (Yüksek, infeksiyon riski yok)
+
+Risk Değerlendirmesi:
+Genel sepsis riski düşük.
+
+Sonuç: Düşük
+============================================================
+
+HASTA BAŞVURU NO: 7574288
+----------------------------------------
+ Hayatı Bulguların Analizi:
+Beyaz Kan Hücresi (WBC): 7,6 normal.
+Trombosit (PLT): 85.0 normal.
+Nötrofil (NE): 38,43 normal.
+Kreatinin: 1.41 normal.
+Laktat: 9.53 normal.
+Prokalsitonin: 0.222 normal.
+CRP: 86.1 yüksek (inflamasyon gösterir).
+
+Laboratuvar Sonuçların Analizi:
+Solunum Hızı: 16 normal.
+Tansiyon: 128/83 normal.
+Nabız: 88 normal.
+Oksijen Saturasyonu: 98 normal.
+Glaskow Koma Skoru: Toplam 15.0 (Göz: 4.0, Sözel: 5.0, Motor: 6.0) normal.
+
+Risk Değerlendirmesi:
+Hastanın genel sepsis riski yüksek olmasına dair bilgilere sahip değildim. Ayrıntıların bulunması gerekir.
+
+Sonuç:
+Orta (yüksek sepsis riskine ilişkin ayrıntılar bulunmamaktadır)
+============================================================
+
+HASTA BAŞVURU NO: 7575901
+----------------------------------------
+ Hayatı Bulgularının Analizi:
+Kreatinin normal, ama laktat ve CRP değerleri yüksek. Bu, metabolik akil bozukluk (encefalopati) riskine neden olabilir.
+
+Laboratuvar Sonuçlarının Analizi:
+WBC, trombosit ve NE değerleri normal. Ama laktat ve CRP değerleri yüksek. Bu, metabolik akil bozukluk (encefalopati) riskine neden olabilir.
+
+Risk Değerlendirmesi:
+Hastanın genel sepsis riski yüksek olabilir.
+
+Sonuç: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7576684
+----------------------------------------
+ Hayatı Bulguların Analizi:
+- Ateş: Normal (36,5)
+- Nabız: Normal (118)
+- Tansiyon: Normal (140/83)
+- Solunum Hızı: Normal (16)
+- Oksijen Saturasyonu: Normal (96)
+- Glaskow Koma Skoru: Ateş ve Göz normal, sözel durumu ve motor durumu yüksek.
+
+Laboratuvar Sonuçların Analizi:
+- Beyaz Kan Hücresi (WBC): Normal (15,86)
+- Trombosit (PLT): Normal (214.0)
+- Nötrofil (NE): Yüksek (13,69)
+- Kreatinin: Normal (1.43)
+- Laktat: Yüksek (2.42)
+- Prokalsitonin: Yüksek (32.4)
+- CRP: Yüksek (108.08)
+
+Risk Değerlendirmesi:
+Genel sepsis riski yüksek olabilir.
+
+Sonuç: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7577755
+----------------------------------------
+ Hayatı Bulguların Analizi:
+Ateş: Normal (36,5)
+Nabız: Normal (114)
+Tansiyon: Normal (120/73)
+Solunum Hızı: Normal (16)
+Oksijen Saturasyonu: Normal (94)
+Glaskow Koma Skoru: Ateş ve sözel durum normal, motor durumu azalır.
+
+Laboratuvar Sonuçların Analizi:
+Beyaz Kan Hücresi (WBC): Normal (9,27)
+Trombosit (PLT): Normal (996.0)
+Nötrofil (NE): Normal (8,07)
+Kreatinin: Normal (0.68)
+Laktat: Bilinmiyor
+Prokalsitonin: Normal (0.575)
+CRP: Yüksek (9.5)
+
+Risk Değerlendirmesi:
+Genel sepsis riski yüksek olabilir.
+
+Sonuç: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7579405
+----------------------------------------
+ Hayatı Bulguların Analizi:
+Kreatinin normal, ama WBC ve CRP değerleri yüksek. Bu durumda, hastanın klinik durumu sepsis olarak göz önünde bulunulmalıdır.
+
+Laboratuvar Sonuçların Analizi:
+Hastanın laboratuvar sonuçlarında WBC ve CRP değerleri yüksek, bu durumda sepsis olarak göz önünde bulunulmalıdır.
+
+Risk Değerlendirmesi:
+Hastanın genel sepsis riski yüksek olmasına rağmen, laboratuvar sonuçlarında kreatinin normal olduğu nedenle, hastanın klinik durumunu sepsis olarak tanımlamadan önce diğer faktörler de düşünülmelidir.
+
+Sonuç: Orta
+============================================================
+
+HASTA BAŞVURU NO: 7579548
+----------------------------------------
+ Hayatı Bulguların Analizi:
+Göğüs ağrısı, ateş, nabız, tansiyon, solunum hızı, oksijen saturasyonu ve glaskow koma skoru gösterir. Bu klinik belirtileri miliyer TB'ye düşünülmelidir. Ayrıca ense sertliğinin eşlik ettiği veya etmeyen bir baş ağrısı varlığında da miliyer TB'da akla gelmelidir.
+
+Laboratuvar Sonuçların Analizi:
+Beyaz kan hücresi, trombosit, nötrofil, kreatinin, laktat, prokalsitonin ve CRP değerleri yükselmiştir. Bu laboratuvar sonuçları sepsis riskini artırır.
+
+Risk Değerlendirmesi:
+Hastanın genel sepsis riski yüksek olmalıdır.
+
+Sonuç: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7579563
+----------------------------------------
+ Hayatı Bulguların Analizi:
+- Ateş: Normal (36.3)
+- Nabiz: Normal (81)
+- Tansiyon: Normal (173/97)
+- Solunum Hızı: Normal (19)
+- Oksijen Saturasyonu: Normal (78)
+- Glaskow Koma Skoru: Normal (15.0)
+
+Laboratuvar Sonuçların Analizi:
+- Beyaz Kan Hücresi (WBC): Normal (8,78)
+- Trombosit (PLT): Normal (220.0)
+- Nötrofil (NE): Normal (7,28)
+- Kreatinin: Normal (3.61)
+- Laktat: Normal (2.43)
+- Prokalsitonin: Bilinmiyor
+- CRP: Yüksek (91.4)
+
+Risk Değerlendirmesi:
+- Genel sepsis riski yüksek olabilir.
+
+Sonuç: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7579738
+----------------------------------------
+ Hayatı Bulguların Analizi:
+- Ateş: 38,1 (Normal değer 36,6 - 37,2 arasında)
+- Nabız: 130 (Normal değer 90 - 140 arasında)
+- Tansiyon: 103/62 (Normal değer 120/80 arasında)
+- Solunum Hızı: 16 (Normal değer 15-25 arasında)
+- Oksijen Saturasyonu: 96 (Normal değer 96-100 arasında)
+- Glaskow Koma Skoru: Toplam 15.0 (Normal değer 13 veya düşük)
+
+Laboratuvar Sonuçların Analizi:
+- Beyaz Kan Hücresi (WBC): 9,21 (Normal değer 4,5 - 11 arasında)
+- Trombosit (PLT): 236.0 (Normal değer 150 - 400 arasında)
+- Nötrofil (NE): 8,94 (Normal değer 0 - 7 arasında)
+- Kreatinin: 0,73 (Normal değer 0,6 - 1,2 arasında)
+- Laktat: 2.5 (Normal değer 0,5 - 2,2 arasında)
+- Prokalsitonin: Bilinmiyor
+- CRP: <0,5 (Normal değer 0 - 5 arasında)
+
+Risk Değerlendirmesi:
+- Genel sepsis riski yüksek olabilir.
+
+Sonuç: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7582259
+----------------------------------------
+ Hayatı Bulgularının Analizi:
+- Ateş: 36,7 (Normal)
+- Nabız: 134 (Normal)
+- Tansiyon: 109/74 (Normal)
+- Solunum Hızı: 22 (Normal)
+- Oksijen Saturasyonu: 83 (Düşük)
+- Glaskow Koma Skoru: Toplam 15.0 (Ateş, Göz ve Motor normal, Sözel düşük)
+
+Laboratuvar Sonuçlarının Analizi:
+- Beyaz Kan Hücresi (WBC): 9,12 (Normal)
+- Trombosit (PLT): 327.0 (Normal)
+- Nötrofil (NE): 7,74 (Normal)
+- Kreatinin: 0.95 (Normal)
+- Laktat: 1.43 (Normal)
+- Prokalsitonin: 0.103 (Normal)
+- CRP: 27.2 (Yüksek)
+
+Risk Değerlendirmesi:
+- Genel sepsis riski yüksek olabilir.
+
+Sonuç: Yüksek
+============================================================
+

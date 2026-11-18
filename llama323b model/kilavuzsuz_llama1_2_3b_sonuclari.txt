@@ -1,0 +1,208 @@
+=== SEPSİS RİSK DEĞERLENDİRME SONUÇLARI (KILAVUZSUZ BASELINE) ===
+
+HASTA BAŞVURU NO: 7573990
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+
+Ateş 37,0 derecedir. Nabız 113'dir. Tansiyon 11/66'dır. Solunum hızı 16'dır. Oksijen saturasyonu 91'dir. Glaskow Koma Skoru toplam 15.0'dir. Bu değerler, hasta için normalde görülen değerlere göre slightly artıktır. Ateş ve nabız artışı, hastanın vücutta enfeksiyon veya sepsis riski oluşturabilir. Tansiyon ve solunum hızı normalde görülen değerlere göre slightly düşüktür. Oksijen saturasyonu normalde görülen değerlere göre slightly düşüktür.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+
+Beyaz kan hücresi (WBC) 9,67'dir. Trombosit (PLT) 97.0'dur. Nötrofil (NE) 9,22'dir. Kreatinin <0,17'dir. Laktat 5.82'dir. Prokalsitonin 6.17'dir. CRP 98.4'dür. Bu değerler, hasta için normalde görülen değerlere göre artıktır. Beyaz kan hücresi ve trombosit artışı, hastanın vücutta enfeksiyon veya sepsis riski oluşturabilir. Laktat ve prokalsitonin artışı, hastanın vücutta enfeksiyon veya sepsis riski oluşturabilir.
+
+RİSK DEĞERLENDİRMESİ:
+
+Hasta, sepsis riski olarak değerlendirilmelidir. Ateş, nabız artışı, beyaz kan hücresi ve trombosit artışı, hastanın vücutta enfeksiyon veya sepsis riski oluşturmaktadır.
+
+SONUÇ: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7574288
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+
+Ateş seviyesi 36,5 derecedir. Bu değer, normal sıcaklık seviyesinden slightly yüksek ve bu durumun hastanın solunum sistemi ile ilgili sorunlara yol açabileceğini düşünmek mümkündür. Nabız hızı 88 dir, bu da normal nabız hattından slightly yüksek ve bu durumun hastanın kalp functionel durumuna ilişkin bir problemi olabileceğini düşünmek mümkündür. Tansiyon 128/83 dir, bu da normal tansiyon seviyesinden slightly yüksek ve bu durumun hastanın kan basıncını kontrol etmelmesi gereken bir durum olduğunu düşünmek mümkündür.
+
+Solunum hızı 16 dir, bu da normal solunum hattından çok düşük ve bu durumun hastanın solunum sistemi ile ilgili ciddi sorunlara yol açabileceğini düşünmek mümkündür. Oksijen saturasyonu 98 dir, bu da normal oksijen saturasyon seviyesinden slightly yüksek ve bu durumun hastanın solunum sistemini kontrol etmelmesi gereken bir durum olduğunu düşünmek mümkündür.
+
+Glaskow Koma Skoru toplam 15.0 dir, bu da normal Glaskow Koma Skoru seviyesinden çok yüksek ve bu durumun hastanın beyin fonksiyonel durumuna ilişkin ciddi sorunlara yol açabileceğini düşünmek mümkündür.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+
+Beyaz kan hücresi (WBC) 7.6 dir, bu da normal beyaz kan hücresi seviyesinden slightly yüksek ve bu durumun hastanın bağışıklık sistemini etkileyebileceği düşünülüyor. Trombosit (PLT) 85.0 dir, bu da normal trombosit seviyesinden slightly düşük ve bu durumun hastanın kan clotting fonksiyonunu etkileyebileceği düşünülüyor.
+
+Nötrofil (NE) 38.43 dir, bu da normal nötrofil seviyesinden çok yüksek ve bu durumun hastanın bağışıklık sistemini etkileyebileceği düşünülüyor. Kreatinin 1.41 dir, bu da normal kreatinin seviyesinden slightly yüksek ve bu durumun hastanın böbrek fonksiyonel durumunu etkileyebileceği düşünülüyor.
+
+Laktat 9.53 dir, bu da normal laktat seviyesinden çok yüksek ve bu durumun hastanın solunum sistemini etkileyebileceği düşünülüyor. Prokalsitonin 0.222 dir, bu da normal prokalsitonin seviyesinden slightly düşük ve bu durumun hastanın bağışıklık sistemini etkileyebileceği düşünülüyor.
+
+CRP 86.1 dir, bu da normal CRP seviyesinden çok yüksek ve bu durumun hastanın bağışıklık sistemini etkileyebileceği düşünülüyor.
+
+RİSK DEĞERLENDİRMESİ:
+
+Hastanın solunum sistemi ile ilgili ciddi sorunlara yol açan değerler ve Glaskow Koma Skoru toplam 15.0, bu durumun sepsis riskinin yüksek olduğunu göstermektedir.
+============================================================
+
+HASTA BAŞVURU NO: 7575901
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+
+Ateş ve nabız değerleri, hastanın sepsis riski için endişe verici bir durumdur. Ateş 36.8 derece ve nabız 92 đalma, bu durumun sepsis riskini arttırmaktadır. Solunum hızı 16, oksijen saturasyonu 87, glaskow koma skoru 15.0, bu da hastanın beyin fonksiyonlarının düşüklüğünü göstermektedir.
+
+Tansiyon 150/62 mmHg, bu değer de sepsis riskini arttırmaktadır. Solunum hızı ve oksijen saturasyonu normalde daha yüksek değerler alması, bu durumun hastanın solunum sistemine olumsuz etkisini göstermektedir.
+
+Hastanın glaskow koma skoru 15.0, bu da hastanın beyin fonksiyonlarının düşüklüğünü göstermektedir. Bu durum, hastanın sepsis riskini arttırmaktadır.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+
+Beyaz kan hücresi (WBC) 13.46, trombosit (PLT) 160.0, nötrofil (NE) 11.83, bu değerler de sepsis riskini arttırmaktadır.
+
+Kreatinin 0.65 mmol/L, laktat 3.52 mmol/L, bu değerler de hastanın solunum sistemine olumsuz etkisini göstermektedir.
+
+CRP 257.7, bu değer de hastanın inflamasyon durumunu göstermektedir.
+
+RİSK DEĞERLENDİRMESİ:
+
+Hastanın sepsis riski yüksek seviyede olduğu görülmektedir. Hastanın ateş, nabız, solunum hızı, oksijen saturasyonu ve glaskow koma skoru, bu durumun sepsis riskini arttırmaktadır.
+
+LABORATUVAR değerleri de hastanın inflamasyon durumunu göstermektedir. Bu durum, hastanın sepsis riskini daha da artırmaktadır.
+
+SONUÇ:
+
+Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7576684
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+
+Ateş ve nabız değerleri, tansiyon ve solunum hızı gibi hayati bulgular, hasta'nın sepsis riski için önemli bir göstergedir. Ateş 36,5 derecedir, nabız 118 dir, tansiyon 140/83 dir ve solunum hızı 16 dir. Bu değerler, hasta'nın vücutta bir dengesizlik ya da enfeksiyon varlığını göstermektedir.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+
+Beyaz kan hücresi (WBC) 15,86 dir, trombosit (PLT) 214,0 dir, nötrofil (NE) 13,69 dir ve kreatinin 1,43 dir. Laktat 2,42 dir, prokalsitonin 32,4 dir ve CRP 108,08 dir. Bu değerler, hasta'nın vücutta bir enfeksiyon varlığını göstermektedir.
+
+RİSK DEĞERLENDİRMESİ:
+
+Hasta'nın sepsis riski, hayati bulguları ve laboratuvar sonuçları ile birlikte, orta seviyede olduğu görülmektedir. Hatta, bu değerler, hasta'nın vücutta bir dengesizlik ya da enfeksiyon varlığını göstermektedir.
+
+SONUÇ:
+
+Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7577755
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+
+Ateş ve nabız değerleri, solunum hızı ve oksijen saturasyonu, hastanın akut sistit ve diyabet riski ile ilgili olarak önemli derecede artmıştır. Bu değerler, hastanın sepsis riskini artırmaktadır. Ayrıca, glaskow koma skoru total 15.0 olarak belirlenmiştir, bu da hastanın konsiyumunu etkileyen bir durum olarak görülmektedir.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+
+Beyaz kan hücresi (WBC) değerleri, trombosit ve nötrofil sayısı, kreatinin ve CRP değerleri, hastanın sepsis riskini artırmaktadır. Prokalsitonin ve laktat değerleri bilinmiyor, bu nedenle daha fazla analiz gerektirmektedir.
+
+RİSK DEĞERLENDİRMESİ:
+
+Hastanın sepsis riski, akut sistit, diyabet riski, solunum hızı ve oksijen saturasyonu gibi faktörler nedeniyle orta seviyede kabul edilmektedir.
+============================================================
+
+HASTA BAŞVURU NO: 7579405
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+
+Ateş 36,5 derecedir. Nabız 88 dir. Tansiyon 128/83 mmHg'dir. Solunum hızı 16 dir. Oksijen saturasyonu 98'dir. Bu değerler, hasta için normaldir. Ateş ve nabız artışı, hastanın vücutta enfeksiyon varlığını göstermektedir. Tansiyon ve solunum hızı normalde daha yüksek olan hastalarda bu değerler daha düşük olmalıdır.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+
+Beyaz kan hücresi (WBC) 18,86 dir. Trombosit (PLT) 493,0 dir. Nötrofil (NE) 16,13 dir. Kreatinin 0,77 dir. Laktat bilmiyor. Prokalsitonin bilmiyor. CRP 259,07 dir. Bu değerler, hastanın vücutta enfeksiyon varlığını göstermektedir. Beyaz kan hücresi ve trombosit artışı, hastanın imun sisteminin çalışmasını etkilemektedir.
+
+RİSK DEĞERLENDİRMESİ:
+
+Hastanın sepsis riski orta seviyede olduğu için sepsis riski değerlendirmesi gereklidir. Hastanın ateş, nabız artışı, beyaz kan hücresi ve trombosit artışı, vücutta enfeksiyon varlığını göstermektedir.
+
+SONUÇ:
+
+Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7579548
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+
+Ateş seviyesi 36,7°C olan hasta, bu değerle birlikte solunum hızı 16, nabız 83 ve tansiyon 107/88 mmHg olarak görülmektedir. Bu değerler, hasta için normalde görülen seviyeler değildir. Hatta, bu değerler sepsis riski oluşturabilir. Hasta, glaskow koma skoru 15.0 ile birlikte görülmektedir. Bu da hasta için ciddi bir durum olarak kabul edilmektedir.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+
+Beyaz kan hücresi (WBC) seviyesi 8,80, trombosit (PLT) seviyesi 380.0, nötrofil (NE) seviyesi 8,61 ve kreatinin seviyesi 1.53 olarak görülmektedir. Bu değerler, hasta için normalde görülen seviyeler değildir. Hatta, bu değerler sepsis riski oluşturabilir. Prokalsitonin seviyesi 0.605 ve CRP seviyesi 96.09 olarak görülmektedir.
+
+RİSK DEĞERLENDİRMESİ:
+
+Hasta, sepsis riski altında görülmektedir. Bu durum, hasta için ciddi bir tehlike oluşturmaktadır. Hatta, bu durum, hasta için ölümcül bir durum olarak kabul edilmektedir.
+
+SONUÇ: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7579563
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+
+Ateş 36.3 derecedir, nabız 81, tansiyon 173/97, solunum hızı 19, oksijen saturasyonu 78 ve glaskow koma skoru toplam 15.0'dir. Bu değerler, hasta için normalde görülen seviyeler ile karşılaştırılmalıdır. Ateş ve nabız artışı, tansiyon yükselmesi ve solunum hızı düşüklüğü, hastanın sepsis riskini artırır. Hatta glaskow koma skoru 15.0'den daha yüksek olan hastalar için, bu değerler çok daha alarmanır. Bu nedenle, hasta için sepsis riski yüksek olarak kabul edilmelidir.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+
+Beyaz kan hücresi (WBC) 8.78, trombosit (PLT) 220.0, nötrofil (NE) 7.28, kreatinin 3.61 ve laktat 2.43'dir. Bu değerler, hastanın vücutta olan enfeksiyon veya inflamasyon durumunu göstermektedir. Kreatinin yükselmesi, böbrek fonksiyonunun düşüklüğünü gösterirken, laktat yükselmesi, vücutta oksidatif stresin olduğunu gösterir. Bu değerler, hastanın sepsis riskini artırır.
+
+RİSK DEĞERLENDİRMESİ:
+
+Hasta için sepsis riski yüksek olarak kabul edilmelidir. Ateş ve nabız artışı, tansiyon yükselmesi, solunum hızı düşüklüğü, glaskow koma skoru 15.0'den daha yüksek ve laboratuvar değerleri, hastanın vücutta oksidatif stresin olduğunu ve böbrek fonksiyonunun düşüklüğünü göstermektedir.
+
+SONUÇ: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7579738
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+
+Ateş ve nabız değerleri, hastanın vücut ısısı ve solunum hızı ile ilgili olarak normalde 37-38°C ve 60-100/dakika aralığında being expected. Ancak bu hastada ateş 38.1°C ve nabız 130/dakika olarak görülmektedir. Bu değerler, hastanın vücut ısısı ve solunum hızı ile ilgili olarak normalde being expected. Ancak bu hastada ateş 38.1°C ve nabız 130/dakika olarak görülmektedir. Bu değerler, hastanın vücut ısısı ve solunum hızı ile ilgili olarak normalde being expected. Ancak bu hastada ateş 38.1°C ve nabız 130/dakika olarak görülmektedir.
+
+Bu değerlerin birçoğu, hastanın vücut ısısı ve solunum hızı ile ilgili olarak normalde being expected. Ancak bu hastada ateş 38.1°C ve nabız 130/dakika olarak görülmektedir. Bu değerler, hastanın vücut ısısı ve solunum hızı ile ilgili olarak normalde being expected. Ancak bu hastada ateş 38.1°C ve nabız 130/dakika olarak görülmektedir.
+
+Bu değerlerin birçoğu, hastanın vücut ısısı ve solunum hızı ile ilgili olarak normalde being expected. Ancak bu hastada ateş 38.1°C ve nabız 130/dakika olarak görülmektedir. Bu değerler, hastanın vücut ısısı ve solunum hızı ile ilgili olarak normalde being expected. Ancak bu hastada ateş 38.1°C ve nabız 130/dakika olarak görülmektedir.
+
+Bu değerlerin birçoğu, hastanın vücut ısısı ve solunum hızı ile ilgili olarak normalde being expected. Ancak bu hastada ateş 38.1°C ve nabız 130/dakika olarak görülmektedir. Bu değerler, hastanın vücut ısısı ve solunum hızı ile ilgili olarak normalde being expected. Ancak bu hastada ateş 38.1°C ve nabız 130/dakika olarak görülmektedir.
+
+Bu değerlerin birçoğu, hastanın vücut ısısı ve solunum hızı ile ilgili olarak normalde being expected. Ancak bu hastada ateş 38.1°C ve nabız 130/dakika olarak görülmektedir. Bu değerler, hastanın vücut ısısı ve solunum hızı ile ilgili olarak normalde being expected.
+============================================================
+
+HASTA BAŞVURU NO: 7582259
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+
+Ateş 36,7 derecedir. Bu değer, normal sıcaklık seviyesinden slightly yüksek ve bu nedenle normal sıcaklık seviyesinde olmayıp, bu durumun hastanın enfeksiyon riskini arttırdığını göstermektedir. Nabız 134'ü de normal nabız sıklığından çok yüksek ve bu da hastanın vücutta stres ve enfeksiyon riski olduğunu göstermektedir.
+
+Solunum hızı 22, bu değer normal solunum hızından çok düşük ve bu nedenle hastanın oksijen alması zorlaşmış olabileceğini göstermektedir. Oksijen saturasyonu 83, bu değer normal oksijen saturasyon seviyesinden slightly thấp ve bu nedenle hastanın vücutta oksijen alması zorlaşmış olabileceğini göstermektedir.
+
+Glaskow Koma Skoru 15.0, bu skor normal skordan çok yüksek ve bu nedenle hastanın beyin fonksiyonları sınırlı olduğunu göstermektedir.
+
+Tansiyon 109/74, bu değer normal tansiyon seviyesinden slightly yüksek ve bu nedenle hastanın vücutta stres ve enfeksiyon riski olduğunu göstermektedir.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+
+Beyaz kan hücresi (WBC) 9.12, bu değer normal WBC seviyesinden çok yüksek ve bu nedenle hastanın vücutta enfeksiyon riski olduğunu göstermektedir.
+
+Trombosit (PLT) 327.0, bu değer normal PLT seviyesinden çok yüksek ve bu nedenle hastanın vücutta tromboz riski olduğunu göstermektedir.
+
+Nötrofil (NE) 7.74, bu değer normal NE seviyesinden çok yüksek ve bu nedenle hastanın vücutta enfeksiyon riski olduğunu göstermektedir.
+
+Kreatinin 0.95, bu değer normal kreatinin seviyesinden slightly thấp ve bu nedenle hastanın nefes darlığı ve solunum zorluğu reasonsini göstermektedir.
+
+Laktat 1.43, bu değer normal laktat seviyesinden çok yüksek ve bu nedenle hastanın vücutta oksijen alması zorlaşmış olabileceğini göstermektedir.
+
+Prokalsitonin 0.103, bu değer normal prokalsitonin seviyesinden çok düşük ve bu nedenle hastanın enfeksiyon riski olduğunu göstermektedir.
+
+CRP 27.2, bu değer normal CRP seviyesinden çok yüksek ve bu nedenle hastanın vücutta enfeksiyon riski olduğunu göstermektedir.
+
+KRONİK HASTALIKLAR:
+
+Diyabet, tansiyon ve kalp yetmezliği gibi kronik hastalıkların yok olması, hastanın sepsis riskini azaltacaktır.
+============================================================
+

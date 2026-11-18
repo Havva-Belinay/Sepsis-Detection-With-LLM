@@ -1,0 +1,98 @@
+[
+    {
+        "admission_no": "7573990",
+        "step_by_step_analysis": "The patient has a high lactate level (5.82 mmol/L) and is hypotensive (MAP 66 mmHg), which suggests septic shock. However, the patient also has a history of hypertension and diabetes, which could be contributing to the tissue hypoxia.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Pulmonary Edema/Heart Failure with possible secondary infection",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Moderate",
+        "recommended_empiric_antibiotic": "Cephalosporin (e.g., Ceftriaxone) + Vancomycin",
+        "hospitalization_requirement": "Yes - requires close monitoring and possible ICU admission due to high sepsis risk.",
+        "icu_requirement": "Yes - requires ICU admission due to moderate septic shock risk and potential for organ dysfunction.",
+        "clinical_risk_assessment": "The patient is at high risk of mortality due to septic shock, with a high lactate level and hypotension. Close monitoring and aggressive treatment are required."
+    },
+    {
+        "admission_no": "7574288",
+        "step_by_step_analysis": "The patient presents with a chief complaint of SOLUNUM SIKINTISI, which translates to respiratory symptoms. The patient has a history of lung cancer and was admitted 5 days ago for treatment. The patient's vital signs show a low SpO2 level, indicating respiratory distress. The lactate level is elevated at 9.53 mmol/L, suggesting tissue hypoxia. The CRP level is also elevated at 154, indicating an inflammatory response.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Pulmonary Edema/Heart Failure",
+        "sepsis_risk": "Moderate",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Cephalosporin (e.g., Ceftriaxone) or Piperacillin/Tazobactam for suspected respiratory infection; No antibiotics recommended for non-infectious cause.",
+        "hospitalization_requirement": "Yes - The patient requires hospitalization due to severe respiratory symptoms and elevated lactate levels.",
+        "icu_requirement": "No - While the patient is critically ill, they do not require ICU admission at this time.",
+        "clinical_risk_assessment": "The patient is at high risk of mortality due to severe respiratory distress and elevated lactate levels."
+    },
+    {
+        "admission_no": "7575901",
+        "error": "Failed to parse PatientAssessment from completion {\"properties\": {\"step_by_step_analysis\": \"The patient presents with a high lactate level (3.52 mmol/L) and tachycardia, but no clear signs of infection. This suggests the possibility of DKA or another metabolic disorder. The low SpO2 may be related to heart failure or pulmonary edema rather than sepsis.\", \"possible_infection_focus\": \"N/A - Noninfectious\", \"possible_preliminary_diagnosis\": \"DKA (Diabetic Ketoacidosis) or Heart Failure\", \"sepsis_risk\": \"Low\", \"septik_shock_risk\": \"Low\", \"recommended_empiric_antibiotic\": \"None - noninfectious\", \"hospitalization_requirement\": \"Yes, for further evaluation and management of DKA/Heart Failure\", \"icu_requirement\": \"No, unless the patient's condition worsens or requires close monitoring.\", \"clinical_risk_assessment\": \"The patient is at risk for significant morbidity and mortality due to their underlying medical conditions.\"}, \"required\": [\"step_by_step_analysis\", \"possible_infection_focus\", \"possible_preliminary_diagnosis\", \"sepsis_risk\", \"septik_shock_risk\", \"recommended_empiric_antibiotic\", \"hospitalization_requirement\", \"icu_requirement\", \"clinical_risk_assessment\"]}. Got: 9 validation errors for PatientAssessment\nstep_by_step_analysis\n  Field required [type=missing, input_value={'properties': {'step_by_...nical_risk_assessment']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\npossible_infection_focus\n  Field required [type=missing, input_value={'properties': {'step_by_...nical_risk_assessment']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\npossible_preliminary_diagnosis\n  Field required [type=missing, input_value={'properties': {'step_by_...nical_risk_assessment']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nsepsis_risk\n  Field required [type=missing, input_value={'properties': {'step_by_...nical_risk_assessment']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nseptik_shock_risk\n  Field required [type=missing, input_value={'properties': {'step_by_...nical_risk_assessment']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nrecommended_empiric_antibiotic\n  Field required [type=missing, input_value={'properties': {'step_by_...nical_risk_assessment']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nhospitalization_requirement\n  Field required [type=missing, input_value={'properties': {'step_by_...nical_risk_assessment']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nicu_requirement\n  Field required [type=missing, input_value={'properties': {'step_by_...nical_risk_assessment']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nclinical_risk_assessment\n  Field required [type=missing, input_value={'properties': {'step_by_...nical_risk_assessment']}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nFor troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/OUTPUT_PARSING_FAILURE "
+    },
+    {
+        "admission_no": "7576684",
+        "step_by_step_analysis": "The patient presents with a high lactate level (2.42 mmol/L) and requires vasopressors for fluid-resistant hypotension, indicating septic shock risk.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Pulmonary Edema/Heart Failure",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Moderate",
+        "recommended_empiric_antibiotic": "Cephalosporin (e.g., Ceftriaxone) + Vancomycin",
+        "hospitalization_requirement": "Yes - requires close monitoring and treatment in a hospital setting.",
+        "icu_requirement": "Yes - requires ICU admission due to septic shock risk and potential for multi-organ failure.",
+        "clinical_risk_assessment": "The patient is at high risk of mortality and deterioration, requiring prompt and aggressive treatment."
+    },
+    {
+        "admission_no": "7577755",
+        "error": "Failed to parse PatientAssessment from completion {\"properties\": {\"step_by_step_analysis\": \"The patient presents with a high respiratory rate (16/min) and low SpO2 (94%), suggesting tissue hypoxia. The lactate level is unknown, but the platelet count is within normal range. The creatinine level is 0.68 mg/dL, which is within normal range. The systolic blood pressure is 120/73 mmHg, indicating no hypotension. The patient has a history of fibromyalgia and esansiyal trombositosis, but these conditions do not directly explain the current presentation.\", \"possible_infection_focus\": \"N/A - Noninfectious\", \"possible_preliminary_diagnosis\": \"Pulmonary Edema/Heart Failure\", \"sepsis_risk\": \"Low\", \"septik_shock_risk\": \"N/A\", \"recommended_empiric_antibiotic\": \"None - noninfectious\", \"hospitalization_requirement\": \"Yes, due to the high respiratory rate and low SpO2, indicating a need for close monitoring and possible intervention.\", \"icu_requirement\": \"Yes, due to the high respiratory rate and low SpO2, indicating a need for close monitoring and possible intervention in an ICU setting.\", \"clinical_risk_assessment\": \"The patient is at moderate risk of mortality/deterioration due to the presence of tissue hypoxia and potential underlying cardiac or pulmonary conditions.\"}}. Got: 9 validation errors for PatientAssessment\nstep_by_step_analysis\n  Field required [type=missing, input_value={'properties': {'step_by_...pulmonary conditions.'}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\npossible_infection_focus\n  Field required [type=missing, input_value={'properties': {'step_by_...pulmonary conditions.'}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\npossible_preliminary_diagnosis\n  Field required [type=missing, input_value={'properties': {'step_by_...pulmonary conditions.'}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nsepsis_risk\n  Field required [type=missing, input_value={'properties': {'step_by_...pulmonary conditions.'}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nseptik_shock_risk\n  Field required [type=missing, input_value={'properties': {'step_by_...pulmonary conditions.'}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nrecommended_empiric_antibiotic\n  Field required [type=missing, input_value={'properties': {'step_by_...pulmonary conditions.'}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nhospitalization_requirement\n  Field required [type=missing, input_value={'properties': {'step_by_...pulmonary conditions.'}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nicu_requirement\n  Field required [type=missing, input_value={'properties': {'step_by_...pulmonary conditions.'}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nclinical_risk_assessment\n  Field required [type=missing, input_value={'properties': {'step_by_...pulmonary conditions.'}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nFor troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/OUTPUT_PARSING_FAILURE "
+    },
+    {
+        "admission_no": "7579405",
+        "step_by_step_analysis": "The patient presents with a high lactate level (18.86 mmol/L) and is hypotensive, but the primary concern should be whether this is due to sepsis or another cause such as DKA.",
+        "possible_infection_focus": "N/A - Noninfectious",
+        "possible_preliminary_diagnosis": "DKA with possible heart failure",
+        "sepsis_risk": "Low",
+        "septik_shock_risk": "N/A - Insufficient data to determine shock risk",
+        "recommended_empiric_antibiotic": "None - noninfectious",
+        "hospitalization_requirement": "Yes, for close monitoring and treatment of DKA and potential heart failure.",
+        "icu_requirement": "Yes, due to the severity of the patient's condition and need for close monitoring.",
+        "clinical_risk_assessment": "The patient is at high risk of mortality due to severe metabolic derangement (high lactate) and potential underlying cardiac issues."
+    },
+    {
+        "admission_no": "7579548",
+        "step_by_step_analysis": "The patient has a high lactate level (1.91 mmol/L) and is hypotensive (107/88 mmHg), but the SpO2 is 88% and respiratory rate is 16/min, which are within normal limits. The GCS score is 15.0, indicating no altered mental status. The patient has a history of hypertension, diabetes mellitus, and congestive heart failure.",
+        "possible_infection_focus": "N/A - Noninfectious",
+        "possible_preliminary_diagnosis": "Pulmonary Edema/Heart Failure",
+        "sepsis_risk": "Low",
+        "septik_shock_risk": "N/A - Not enough information to determine shock risk",
+        "recommended_empiric_antibiotic": "None - noninfectious",
+        "hospitalization_requirement": "Yes, due to severe heart failure and pulmonary edema requiring close monitoring.",
+        "icu_requirement": "Yes, due to high lactate level and potential for cardiac instability.",
+        "clinical_risk_assessment": "The patient is at high risk of mortality due to severe heart failure and pulmonary edema."
+    },
+    {
+        "admission_no": "7579563",
+        "step_by_step_analysis": "The patient presents with a chief complaint of general discomfort, fever, and altered mental status. The retrieved guideline excerpts indicate that sepsis is defined as life-threatening organ dysfunction caused by a dysregulated host response to infection. The patient has a history of hypertension, diabetes mellitus, and cerebrovascular event (stroke), which may be contributing factors to the current presentation.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Pulmonary Edema/Heart Failure",
+        "sepsis_risk": "Moderate",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Cephalosporin (e.g., Ceftriaxone) or Fluoroquinolone (e.g., Ciprofloxacin)",
+        "hospitalization_requirement": "Yes - requires close monitoring and potential escalation of care.",
+        "icu_requirement": "No - while the patient is at risk, they do not require immediate ICU admission based on current data.",
+        "clinical_risk_assessment": "The patient is at moderate risk for mortality due to sepsis, with a high likelihood of needing hospitalization for close monitoring and potential escalation of care."
+    },
+    {
+        "admission_no": "7579738",
+        "step_by_step_analysis": "The patient presents with a high lactate level (2.5 mmol/L) and tachycardia, but no fever or clear signs of infection. The clinical picture could be consistent with DKA (Diabetic Ketoacidosis), which is a metabolic emergency. However, the presence of hypotension (MAP < 65 mmHg) and respiratory distress (SpO2 96%) suggests that there may also be an underlying cardiogenic event, such as Heart Failure or Pulmonary Edema. Further evaluation is needed to determine the primary cause of these symptoms.",
+        "possible_infection_focus": "N/A - Noninfectious",
+        "possible_preliminary_diagnosis": "DKA with possible cardiac involvement (Heart Failure/Pulmonary Edema)",
+        "sepsis_risk": "Low",
+        "septik_shock_risk": "N/A - Insufficient data to determine shock risk",
+        "recommended_empiric_antibiotic": "None - noninfectious",
+        "hospitalization_requirement": "Yes - further evaluation and management needed to address potential DKA and cardiac involvement.",
+        "icu_requirement": "N/A - Insufficient data to determine ICU requirement",
+        "clinical_risk_assessment": "The patient is at high risk of mortality due to the presence of DKA and potential cardiac involvement, but this can be mitigated with prompt evaluation and management."
+    },
+    {
+        "admission_no": "7582259",
+        "error": "Failed to parse PatientAssessment from completion {\"properties\": {\"step_by_step_analysis\": \"The patient has a high SpO2 of 83%, which indicates tissue hypoxia. The lactate level is within normal range (1.43 mmol/L), and the creatinine level is also within normal range (0.95 mg/dL). However, the respiratory rate is elevated at 22 breaths per minute, which may indicate respiratory distress. The patient has a history of COPD, which could contribute to this symptom. Given these findings, it is unclear whether the patient's condition is due to an infectious process or a non-infectious cause such as COPD exacerbation.\", \"possible_infection_focus\": \"N/A - Noninfectious\", \"possible_preliminary_diagnosis\": \"COPD Exacerbation with Respiratory Distress\", \"sepsis_risk\": \"Low\", \"septik_shock_risk\": \"Low\", \"recommended_empiric_antibiotic\": \"None - noninfectious\", \"hospitalization_requirement\": \"Yes, due to respiratory distress and potential for rapid deterioration.\", \"icu_requirement\": \"Yes, due to high risk of respiratory failure and need for close monitoring.\", \"clinical_risk_assessment\": \"The patient is at high risk of clinical deterioration due to respiratory distress and potential for rapid progression to respiratory failure.\"}}. Got: 9 validation errors for PatientAssessment\nstep_by_step_analysis\n  Field required [type=missing, input_value={'properties': {'step_by_... respiratory failure.'}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\npossible_infection_focus\n  Field required [type=missing, input_value={'properties': {'step_by_... respiratory failure.'}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\npossible_preliminary_diagnosis\n  Field required [type=missing, input_value={'properties': {'step_by_... respiratory failure.'}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nsepsis_risk\n  Field required [type=missing, input_value={'properties': {'step_by_... respiratory failure.'}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nseptik_shock_risk\n  Field required [type=missing, input_value={'properties': {'step_by_... respiratory failure.'}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nrecommended_empiric_antibiotic\n  Field required [type=missing, input_value={'properties': {'step_by_... respiratory failure.'}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nhospitalization_requirement\n  Field required [type=missing, input_value={'properties': {'step_by_... respiratory failure.'}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nicu_requirement\n  Field required [type=missing, input_value={'properties': {'step_by_... respiratory failure.'}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nclinical_risk_assessment\n  Field required [type=missing, input_value={'properties': {'step_by_... respiratory failure.'}}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nFor troubleshooting, visit: https://docs.langchain.com/oss/python/langchain/errors/OUTPUT_PARSING_FAILURE "
+    }
+]

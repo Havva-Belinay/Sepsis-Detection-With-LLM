@@ -1,0 +1,122 @@
+[
+    {
+        "admission_no": "7573990",
+        "step_by_step_analysis": "The patient has elevated lactate (5.82 mmol/L) indicating metabolic stress, low platelets (97 x10^3/uL), and SpO2 below normal range (91%). These findings suggest potential organ dysfunction. However, the absence of hypotension (BP 110/66 mmHg) and GCS score of 15 indicate no acute circulatory failure or altered mental status.",
+        "possible_infection_focus": "Undetermined",
+        "possible_preliminary_diagnosis": "Sepsis due to undetermined source with metabolic derangement",
+        "sepsis_risk": "Moderate",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "None - noninfectious presentation",
+        "hospitalization_requirement": "Yes, patient requires hospitalization for further evaluation and management of metabolic derangement.",
+        "icu_requirement": "No, the current findings do not meet criteria for ICU admission based on septic shock risk.",
+        "clinical_risk_assessment": "The patient has moderate clinical risk due to elevated lactate and low platelets, indicating potential organ dysfunction. However, absence of hypotension and altered mental status suggests no immediate need for intensive care."
+    },
+    {
+        "admission_no": "7574288",
+        "step_by_step_analysis": "The patient has elevated lactate (9.53 mmol/L) and creatinine (1.41 mg/dL), indicating metabolic derangement and potential organ dysfunction. Elevated WBC count (28,000/mm³) suggests an inflammatory response possibly due to infection or other causes like malignancy complications. The patient's history of lung cancer and recent biopsy suggest a possible infectious cause related to the respiratory system.",
+        "possible_infection_focus": "Lung",
+        "possible_preliminary_diagnosis": "Sepsis secondary to suspected pulmonary infection in a patient with lung cancer",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics (e.g., piperacillin-tazobactam)",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for further evaluation and management of suspected sepsis.",
+        "icu_requirement": "No - While the patient has high sepsis risk, there is no evidence of fluid-resistant hypotension requiring vasopressors or lactate >2 mmol/L indicative of septic shock.",
+        "clinical_risk_assessment": "The patient's condition is critically ill with significant organ dysfunction and elevated inflammatory markers. The risk of deterioration and mortality is high."
+    },
+    {
+        "admission_no": "7575901",
+        "step_by_step_analysis": "The patient has a low SpO2 of 87%, which indicates hypoxemia. The lactate level is elevated at 3.52 mmol/L, indicating tissue hypoperfusion or metabolic derangement. There are no specific textual clues in the chief complaint or doctor's note that suggest non-infectious causes such as DKA or heart failure/pulmonary edema.",
+        "possible_infection_focus": "Undetermined",
+        "possible_preliminary_diagnosis": "Sepsis due to undetermined source",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics",
+        "hospitalization_requirement": "Yes - patient meets criteria for sepsis with elevated lactate and hypoxemia.",
+        "icu_requirement": "No - no evidence of fluid-resistant hypotension or need for vasopressors, despite high risk of sepsis.",
+        "clinical_risk_assessment": "The patient is at high risk due to signs of organ dysfunction (hypoxemia) and metabolic derangement (elevated lactate)."
+    },
+    {
+        "admission_no": "7576684",
+        "step_by_step_analysis": "The patient has elevated lactate (2.42 mmol/L) and creatinine (1.43 mg/dL), indicating potential organ dysfunction. However, there is no mention of hypotension requiring vasopressors despite the presence of hyperlactatemia. The patient's medical history includes diabetes mellitus, which could suggest a non-infectious cause such as diabetic ketoacidosis (DKA) given the metabolic derangement and tachycardia.",
+        "possible_infection_focus": "Undetermined",
+        "possible_preliminary_diagnosis": "Diabetic Ketoacidosis (suspected)",
+        "sepsis_risk": "Low",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "None - noninfectious presentation",
+        "hospitalization_requirement": "Yes, patient requires hospitalization for suspected DKA and metabolic derangement.",
+        "icu_requirement": "No, the current clinical status does not warrant ICU admission based on sepsis criteria but may need close monitoring in a general ward due to metabolic instability.",
+        "clinical_risk_assessment": "The patient has significant metabolic derangement with elevated lactate and creatinine levels. Despite no clear evidence of infection or hypotension requiring vasopressors, the risk of deterioration is high due to suspected DKA."
+    },
+    {
+        "admission_no": "7577755",
+        "step_by_step_analysis": "The patient's vital signs and lab results do not meet the criteria for sepsis or septic shock according to Sepsis-3 guidelines. The patient has a normal GCS score, systolic blood pressure above 100 mmHg, respiratory rate within normal range, SpO2 at 94%, and no elevated lactate levels (unknown but not dangerous based on other parameters). There is no evidence of organ dysfunction or hypotension requiring vasopressors. The patient's chief complaint suggests a possible urosepsis, but the clinical data does not support this suspicion.",
+        "possible_infection_focus": "Undetermined",
+        "possible_preliminary_diagnosis": "Urinary tract infection (suspected based on doctor's note)",
+        "sepsis_risk": "Low",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "None - noninfectious presentation",
+        "hospitalization_requirement": "Yes, for further evaluation and management of suspected urinary tract infection.",
+        "icu_requirement": "No, the patient does not meet criteria for ICU admission based on current data.",
+        "clinical_risk_assessment": "The patient's overall risk is low with no signs of severe organ dysfunction or hypotension requiring vasopressors. However, hospitalization is recommended due to suspicion of urinary tract infection."
+    },
+    {
+        "admission_no": "7579405",
+        "step_by_step_analysis": "The patient's vital signs are within normal limits, with no evidence of hypotension or tachypnea. The white blood cell count is elevated at 18,860/mm3, which may suggest an inflammatory response. However, the absence of fever (temperature 36.5°C) and other systemic inflammatory response syndrome criteria makes it less likely to be sepsis based on Sepsis-3 criteria. The patient's chief complaint suggests a possible urinary tract infection or urosepsis, but without elevated lactate levels or organ dysfunction indicators, the risk of sepsis is low.",
+        "possible_infection_focus": "Urinary Tract",
+        "possible_preliminary_diagnosis": "Urosepsis?",
+        "sepsis_risk": "Low",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "None - noninfectious presentation",
+        "hospitalization_requirement": "Yes, for further evaluation and treatment of possible urosepsis.",
+        "icu_requirement": "No, the patient does not meet criteria for ICU admission based on current data.",
+        "clinical_risk_assessment": "The patient's risk is moderate due to potential urinary tract infection and elevated inflammatory markers. Further investigation and management are required."
+    },
+    {
+        "admission_no": "7579548",
+        "step_by_step_analysis": "The patient has a low SpO2 of 88%, which is below the threshold of 92% indicating potential respiratory compromise. The creatinine level is elevated at 1.53 mg/dL, suggesting possible acute kidney injury or pre-existing renal impairment. However, there are no signs of altered mental status, tachypnea (respiratory rate >22/min), hypotension (systolic BP ≤100 mmHg), or abnormal platelet count (<150 x 10^3/uL). The patient has a history of heart failure and presents with respiratory issues without fever, which strongly suggests a non-infectious cardiac event such as pulmonary edema.",
+        "possible_infection_focus": "Undetermined",
+        "possible_preliminary_diagnosis": "Pulmonary Edema due to Heart Failure",
+        "sepsis_risk": "Low",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "None - noninfectious presentation",
+        "hospitalization_requirement": "Yes, the patient requires hospitalization for monitoring and management of heart failure and potential pulmonary edema.",
+        "icu_requirement": "No, the patient does not require ICU admission based on current clinical status.",
+        "clinical_risk_assessment": "The patient is at risk due to underlying conditions such as heart failure and diabetes mellitus. The presentation suggests a non-infectious cause (pulmonary edema) rather than sepsis."
+    },
+    {
+        "admission_no": "7579563",
+        "step_by_step_analysis": "The patient has elevated lactate (2.43 mmol/L) and low SpO2 (78%), indicating potential organ dysfunction. Elevated creatinine suggests renal impairment, but no specific infection focus is mentioned in the chief complaint or doctor's note.",
+        "possible_infection_focus": "Undetermined",
+        "possible_preliminary_diagnosis": "Sepsis due to undetermined source with metabolic derangement and respiratory compromise",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "None - noninfectious presentation suspected",
+        "hospitalization_requirement": "Yes, patient requires hospitalization for further evaluation and management of metabolic derangement and respiratory compromise.",
+        "icu_requirement": "No, the risk does not currently meet criteria for ICU admission based on septic shock risk.",
+        "clinical_risk_assessment": "The patient is at high clinical risk due to metabolic derangement, renal impairment, and respiratory compromise. Further investigation is needed to rule out non-infectious causes such as diabetic ketoacidosis or heart failure."
+    },
+    {
+        "admission_no": "7579738",
+        "step_by_step_analysis": "The patient has a lactate level of 2.5 mmol/L, which is above the danger threshold of >2.0 mmol/L indicating potential tissue hypoperfusion or metabolic derangement. The respiratory rate and SpO2 are within normal limits, as well as GCS score. Elevated heart rate (130 bpm) suggests tachycardia possibly due to metabolic acidosis or infection. Temperature is 38.1°C, indicative of fever. Given the patient's history of diabetes mellitus and presentation with acetone breath, DKA should be considered.",
+        "possible_infection_focus": "Undetermined",
+        "possible_preliminary_diagnosis": "Diabetic Ketoacidosis (DKA)",
+        "sepsis_risk": "Low",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "None - noninfectious presentation",
+        "hospitalization_requirement": "Yes, patient requires hospital admission for management of suspected DKA.",
+        "icu_requirement": "No, the current clinical status does not warrant ICU level care but close monitoring is necessary in a general ward setting.",
+        "clinical_risk_assessment": "The patient's risk is primarily due to metabolic derangement (DKA) rather than infection. However, given the elevated lactate and tachycardia, there remains a need for vigilant clinical observation."
+    },
+    {
+        "admission_no": "7582259",
+        "step_by_step_analysis": "The patient has a respiratory rate within normal range, systolic blood pressure above the danger threshold, and GCS score of 15 indicating no altered mental status. However, SpO2 is below 92%, which indicates hypoxemia. The lactate level is not elevated (within normal range), and there are no signs of organ dysfunction based on SOFA criteria. There is no explicit mention of heart failure or diabetic ketoacidosis in the medical history that would suggest a non-infectious cause.",
+        "possible_infection_focus": "Undetermined",
+        "possible_preliminary_diagnosis": "Acute Respiratory Distress Syndrome (ARDS) due to infection",
+        "sepsis_risk": "Low",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "None - noninfectious presentation",
+        "hospitalization_requirement": "Yes, the patient requires hospitalization for further evaluation and management of respiratory distress.",
+        "icu_requirement": "No, the current vital signs and lab values do not indicate a need for ICU level care.",
+        "clinical_risk_assessment": "The patient's overall risk is moderate due to hypoxemia but does not meet criteria for sepsis or septic shock."
+    }
+]

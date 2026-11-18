@@ -1,0 +1,122 @@
+[
+    {
+        "admission_no": "7573990",
+        "step_by_step_analysis": "The patient presents with a high respiratory rate, hypoxemia (SpO2 <92%), and elevated lactate levels. There is also thrombocytopenia noted. The inflammatory markers such as CRP are significantly elevated, but the WBC count is within normal limits for an infection diagnosis. No clear anatomical clues or symptoms of a specific infection focus are provided in the clinical note. Given these findings, there is no definitive evidence to support an infectious cause based on the available data alone.",
+        "possible_infection_focus": "N/A - Infection not established",
+        "possible_preliminary_diagnosis": "The patient's presentation could be indicative of a non-infectious condition such as diabetic ketoacidosis or metabolic acidosis, given their history of diabetes. The hypoxemia and elevated lactate may also suggest an acute respiratory event or cardiopulmonary issue.",
+        "sepsis_risk": "Low",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Not indicated from available data",
+        "hospitalization_requirement": "Yes - The patient's clinical presentation, including hypoxemia and elevated lactate levels, suggests a need for close monitoring and further diagnostic evaluation.",
+        "icu_requirement": "No - While the patient has concerning vital signs, there is no evidence of severe hemodynamic instability or altered mental status that would necessitate ICU care at this time.",
+        "clinical_risk_assessment": "The overall risk of clinical deterioration appears to be moderate. The primary concern is non-infectious causes such as diabetic ketoacidosis or metabolic acidosis, which require prompt evaluation and management."
+    },
+    {
+        "admission_no": "7574288",
+        "step_by_step_analysis": "The patient presents with elevated lactate (9.53 mmol/L) and creatinine (1.41 mg/dL), indicating potential organ dysfunction. Platelets are also low at 85 x10^3/uL, suggesting possible disseminated intravascular coagulation or other causes of thrombocytopenia. However, there is no clear evidence of infection based on the provided data (CRP: 86.1 mg/L, WBC: 7600 uL, procalcitonin: 0.222 ng/mL). The patient's vital signs are stable with normal GCS and SpO2 levels.",
+        "possible_infection_focus": "N/A - Infection not established",
+        "possible_preliminary_diagnosis": "Acute kidney injury or metabolic emergency, possibly associated with thrombocytopenia. Further investigation is needed to determine the cause of organ dysfunction and thrombocytopenia.",
+        "sepsis_risk": "Low",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Not indicated from available data",
+        "hospitalization_requirement": "Yes - The patient requires further evaluation for the cause of elevated lactate, creatinine and thrombocytopenia. This may indicate an acute kidney injury or metabolic emergency that needs prompt management.",
+        "icu_requirement": "No - Vital signs are stable without evidence of septic shock or severe organ dysfunction requiring ICU level care at this time.",
+        "clinical_risk_assessment": "The patient's risk is primarily non-infectious, with potential for acute kidney injury and metabolic derangement. Further diagnostic workup is necessary to determine the underlying cause."
+    },
+    {
+        "admission_no": "7575901",
+        "step_by_step_analysis": "The patient has a SpO2 of 87%, indicating hypoxemia, and an elevated lactate level of 3.52 mmol/L, suggesting tissue hypoperfusion or metabolic derangement. The CRP is significantly elevated at 257.7 mg/L, which may indicate inflammation but does not confirm infection on its own. There are no clear signs of altered mental status (GCS = 15), tachypnea, or hypotension that would support a diagnosis of qSOFA criteria for organ dysfunction related to suspected infection. The patient's blood pressure is within normal limits and there is no evidence of chronic renal failure based on the creatinine level. Therefore, while inflammation may be present, an infectious cause has not been definitively established.",
+        "possible_infection_focus": "N/A - Infection not established",
+        "possible_preliminary_diagnosis": "The patient's clinical presentation and laboratory findings suggest a non-infectious etiology such as cardiopulmonary disease or metabolic disorder. The elevated lactate could be due to hypoxemia, but there is no clear evidence of infection.",
+        "sepsis_risk": "Low",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Not indicated from available data",
+        "hospitalization_requirement": "Yes - The patient's hypoxemia and elevated lactate suggest a need for close monitoring, supplemental oxygen therapy, and further diagnostic evaluation to determine the cause of these abnormalities.",
+        "icu_requirement": "No - While there are concerning signs such as hypoxemia and metabolic derangement, they do not meet criteria for ICU admission at this time. However, hospitalization is recommended for further assessment and management.",
+        "clinical_risk_assessment": "The patient's risk of clinical deterioration appears to be related to non-infectious causes such as cardiopulmonary disease or metabolic disorder rather than sepsis. Close monitoring in the hospital setting is warranted."
+    },
+    {
+        "admission_no": "7576684",
+        "step_by_step_analysis": "The patient has elevated lactate and creatinine levels, indicating potential organ dysfunction. However, there is no clear evidence of infection based on the clinical presentation or anatomical clues. The white blood cell count (WBC) and procalcitonin are moderately elevated but do not definitively indicate an infectious process. There is no objective evidence of altered mentation, hypotension, or severe respiratory distress that would suggest organ dysfunction attributable to infection.",
+        "possible_infection_focus": "N/A - Infection not established",
+        "possible_preliminary_diagnosis": "The patient's elevated lactate and creatinine levels may indicate a non-infectious cause such as diabetic ketoacidosis (DKA) or acute kidney injury due to diabetes. The absence of clear signs of infection makes an infectious etiology less likely.",
+        "sepsis_risk": "Low",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Not indicated from available data",
+        "hospitalization_requirement": "Yes - The patient's elevated lactate and creatinine levels suggest a need for close monitoring and management of potential metabolic or renal issues.",
+        "icu_requirement": "No - While the patient has some concerning laboratory values, there is no evidence of severe hemodynamic instability, respiratory failure, or altered mental status that would necessitate ICU care at this time.",
+        "clinical_risk_assessment": "The overall risk of clinical deterioration appears to be low due to lack of clear infection and absence of severe organ dysfunction. However, the patient's elevated lactate and creatinine levels warrant close monitoring for potential metabolic or renal complications."
+    },
+    {
+        "admission_no": "7577755",
+        "step_by_step_analysis": "The patient presents with a chief complaint of right-sided pain, which may suggest an infectious etiology such as urinary tract infection or pyelonephritis. The clinical note mentions 'SAĞ YAN AĞRISI ÜROSEPSİS?', indicating suspicion for urosepsis. However, there is no clear evidence of organ dysfunction based on the vital signs and laboratory results provided (GCS 15, normal respiratory rate, blood pressure within acceptable range, lactate level unknown but not elevated). The inflammatory markers are slightly elevated (CRP 9.5 mg/L), but this alone does not confirm infection or sepsis.",
+        "possible_infection_focus": "Upper urinary tract",
+        "possible_preliminary_diagnosis": "Suspected urosepsis, pending further evaluation and confirmation of infection focus",
+        "sepsis_risk": "Moderate",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Ceftriaxone or a similar broad-spectrum antibiotic covering gram-negative organisms until the source of infection is confirmed and culture results are available.",
+        "hospitalization_requirement": "Yes - The patient's clinical presentation suggests potential urosepsis, requiring close monitoring and appropriate treatment in an acute care setting.",
+        "icu_requirement": "No - Vital signs stable without evidence of severe organ dysfunction or shock. However, hospital admission is recommended for further evaluation and management.",
+        "clinical_risk_assessment": "The patient's risk of clinical deterioration is moderate due to suspected urosepsis. Close monitoring in the hospital setting is necessary to confirm infection and manage any potential complications."
+    },
+    {
+        "admission_no": "7579405",
+        "step_by_step_analysis": "The patient presents with a chief complaint of right-sided pain, which may suggest an infectious etiology such as urosepsis. Laboratory results show elevated WBC and CRP levels, indicative of inflammation or infection. However, there is no clear evidence of organ dysfunction based on the vital signs and laboratory data provided (GCS 15, normal respiratory rate, blood pressure within normal range). The absence of qSOFA criteria for sepsis suggests that organ dysfunction attributable to an infectious cause is not present.",
+        "possible_infection_focus": "Upper urinary tract",
+        "possible_preliminary_diagnosis": "Suspected urosepsis due to right-sided pain and elevated inflammatory markers. However, no definitive evidence of infection or organ dysfunction exists at this time.",
+        "sepsis_risk": "Low",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Not indicated from available data",
+        "hospitalization_requirement": "Yes - The patient's symptoms and laboratory findings suggest a potential urinary tract infection that may require further evaluation and treatment. Hospital admission is recommended for proper diagnosis, monitoring, and management.",
+        "icu_requirement": "No - There are no signs of severe organ dysfunction or septic shock at this time; however, close monitoring in the hospital setting is warranted.",
+        "clinical_risk_assessment": "The patient's risk of clinical deterioration appears low based on current data. However, due to the suspicion of urosepsis and elevated inflammatory markers, further diagnostic evaluation and treatment are necessary."
+    },
+    {
+        "admission_no": "7579548",
+        "step_by_step_analysis": "The patient has a SpO2 of 88%, which is below the normal range, and a creatinine level of 1.53 mg/dL, indicating potential renal dysfunction. There are no clear signs of infection based on symptoms or clinical note. The CRP and procalcitonin levels suggest some inflammation but do not definitively indicate an infectious cause. No objective evidence of acute organ dysfunction attributable to infection is present.",
+        "possible_infection_focus": "N/A - Infection not established",
+        "possible_preliminary_diagnosis": "Chronic kidney disease or acute renal impairment, possibly exacerbated by hypoxemia and COPD.",
+        "sepsis_risk": "Low",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Not indicated from available data",
+        "hospitalization_requirement": "Yes - The patient's SpO2 is low, indicating potential respiratory compromise and the presence of COPD. Additionally, renal dysfunction may require monitoring.",
+        "icu_requirement": "No - While there are signs of organ dysfunction, they do not meet criteria for septic shock or severe hemodynamic instability.",
+        "clinical_risk_assessment": "The patient's primary risks stem from hypoxemia and chronic respiratory disease (COPD), rather than infection. The renal impairment requires monitoring but does not indicate acute sepsis-related risk."
+    },
+    {
+        "admission_no": "7579563",
+        "step_by_step_analysis": "The patient presents with a temperature of 37.3°C, hemiplegia, and a history of diabetes. The laboratory results show elevated lactate (2.43 mmol/L) and creatinine (3.61 mg/dL), indicating potential organ dysfunction. However, there is no clear evidence of infection based on the clinical presentation or inflammatory markers like CRP and WBC levels. There are no signs of altered mental status, hypotension, or respiratory distress that would suggest sepsis-related organ dysfunction.",
+        "possible_infection_focus": "N/A - Infection not established",
+        "possible_preliminary_diagnosis": "The patient's symptoms and laboratory findings may indicate a non-infectious cause such as diabetic complications (e.g., ketoacidosis or hyperosmolar state) or acute kidney injury secondary to diabetes. The hemiplegia could be due to stroke, but no specific neurological signs are mentioned.",
+        "sepsis_risk": "Low",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Not indicated from available data",
+        "hospitalization_requirement": "Yes - The patient's elevated creatinine and lactate levels, along with hemiplegia, suggest a need for further evaluation in the hospital setting.",
+        "icu_requirement": "No - While there are signs of organ dysfunction, they do not meet criteria for septic shock or severe clinical instability requiring ICU care at this time.",
+        "clinical_risk_assessment": "The patient's risk is primarily related to potential diabetic complications and acute kidney injury. Further diagnostic workup is needed to determine the cause of hemiplegia and renal impairment."
+    },
+    {
+        "admission_no": "7579738",
+        "step_by_step_analysis": "The patient presents with a fever (38.1°C) and tachycardia (pulse of 130 bpm). The lactate level is elevated at 2.5 mmol/L, indicating potential tissue hypoperfusion or metabolic derangement. There are no objective clinical flags for qSOFA criteria being met. No clear evidence of infection from the provided data such as WBC count and CRP levels which do not suggest a significant inflammatory response. The patient's GCS is 15, indicating normal mental status. Blood pressure is slightly low (103/62 mmHg), but this alone does not meet criteria for septic shock or organ dysfunction attributable to infection.",
+        "possible_infection_focus": "N/A - Infection not established",
+        "possible_preliminary_diagnosis": "Tachycardia and fever could be due to a variety of causes including non-infectious conditions such as hyperthyroidism, anemia, or dehydration. The elevated lactate may suggest metabolic derangement but does not confirm infection.",
+        "sepsis_risk": "Low",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Not indicated from available data",
+        "hospitalization_requirement": "Yes - The patient's elevated lactate and tachycardia suggest potential metabolic or hemodynamic instability that requires further evaluation.",
+        "icu_requirement": "No - While the patient has some concerning signs, there is no evidence of severe organ dysfunction or septic shock necessitating ICU care at this time.",
+        "clinical_risk_assessment": "The overall risk of clinical deterioration appears low to moderate. The elevated lactate and fever warrant further investigation but do not meet criteria for high-risk sepsis or non-infectious critical illness."
+    },
+    {
+        "admission_no": "7582259",
+        "step_by_step_analysis": "The patient presents with a chief complaint of shortness of breath and coughing, which have been ongoing for the past week. Vital signs indicate tachypnea (respiratory rate of 22/min) and hypoxemia (SpO2 of 83%). The qSOFA score is elevated due to respiratory rate ≥22, indicating potential organ dysfunction. Laboratory results show an elevated CRP level at 140 mg/L, suggesting inflammation or infection. However, the procalcitonin level is within normal limits (0.103 ng/mL), and there are no signs of severe sepsis such as persistent hypotension or altered mental status. The patient's WBC count is slightly elevated but not significantly high to confirm a bacterial infection definitively.",
+        "possible_infection_focus": "Lower respiratory tract",
+        "possible_preliminary_diagnosis": "Community-acquired pneumonia (CAP) or exacerbation of chronic obstructive pulmonary disease (COPD)",
+        "sepsis_risk": "Moderate",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Not indicated from available data",
+        "hospitalization_requirement": "Yes - The patient's respiratory distress and hypoxemia warrant close monitoring in a hospital setting.",
+        "icu_requirement": "No - While the patient has signs of organ dysfunction, there is no evidence of severe sepsis or septic shock requiring ICU care at this time.",
+        "clinical_risk_assessment": "The patient's clinical presentation and laboratory findings suggest moderate risk for infection-related organ dysfunction. However, given the absence of definitive markers for severe sepsis or septic shock, hospitalization is recommended to manage respiratory symptoms and monitor for potential deterioration."
+    }
+]

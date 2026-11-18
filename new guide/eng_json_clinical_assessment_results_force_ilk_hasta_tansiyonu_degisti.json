@@ -1,0 +1,102 @@
+[
+    {
+        "admission_no": "7573990",
+        "possible_infection_focus": "Localized Infection, possibly respiratory or urinary tract",
+        "possible_preliminary_diagnosis": "Uncomplicated Infection with Systemic Inflammation",
+        "sepsis_or_septic_shock_risk": "Low - No evidence of acute organ dysfunction (GCS 15, normal BP)",
+        "recommended_empiric_antibiotic": "Empirical broad-spectrum antibiotic coverage pending culture results",
+        "hospitalization_requirement": "Yes - Elevated inflammatory markers and systemic inflammation require monitoring and management",
+        "icu_requirement": "No - No evidence of severe organ dysfunction or hemodynamic instability",
+        "clinical_risk_assessment": "Low risk for mortality but requires close observation due to elevated lactate and procalcitonin levels"
+    },
+    {
+        "admission_no": "7574288",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Uncomplicated Infection",
+        "sepsis_or_septic_shock_risk": "Low, as there is no evidence of organ dysfunction (GCS 15, normal BP, SpO2 98%) despite elevated inflammatory markers.",
+        "recommended_empiric_antibiotic": "Empiric antibiotic therapy should be considered based on local resistance patterns and clinical suspicion for respiratory tract infection.",
+        "hospitalization_requirement": "Yes, due to the presence of significant laboratory abnormalities (elevated CRP, WBC) and potential need for further diagnostic evaluation and management.",
+        "icu_requirement": "No, as there is no evidence of severe organ dysfunction or shock criteria met.",
+        "clinical_risk_assessment": "The patient has a low risk of clinical deterioration but requires close monitoring due to elevated inflammatory markers and the possibility of an underlying infection."
+    },
+    {
+        "admission_no": "7575901",
+        "possible_infection_focus": "Unspecified, but elevated inflammatory markers suggest a possible respiratory or urinary tract infection",
+        "possible_preliminary_diagnosis": "Systemic Inflammation without organ dysfunction",
+        "sepsis_or_septic_shock_risk": "Low - No evidence of acute organ dysfunction (GCS 15, normal blood pressure)",
+        "recommended_empiric_antibiotic": "Empiric antibiotic therapy should be considered if a clear source of infection is identified and cultures are obtained",
+        "hospitalization_requirement": "Yes - Elevated inflammatory markers warrant monitoring and further investigation to identify the source of infection",
+        "icu_requirement": "No - No evidence of severe organ dysfunction or shock criteria met",
+        "clinical_risk_assessment": "Low risk for immediate clinical deterioration, but requires close observation due to elevated lactate and CRP levels"
+    },
+    {
+        "admission_no": "7576684",
+        "possible_infection_focus": "Localized Infection, possibly musculoskeletal or soft tissue",
+        "possible_preliminary_diagnosis": "Uncomplicated Infection with elevated inflammatory markers",
+        "sepsis_or_septic_shock_risk": "Low - No evidence of acute organ dysfunction (GCS 15, normal BP, no hypotension)",
+        "recommended_empiric_antibiotic": "Empiric antibiotic therapy targeting likely pathogens for localized infection",
+        "hospitalization_requirement": "Yes - Elevated inflammatory markers and potential need for wound care or imaging studies",
+        "icu_requirement": "No - No evidence of sepsis or organ dysfunction requiring ICU level care",
+        "clinical_risk_assessment": "Low risk of mortality but requires monitoring due to elevated inflammatory markers"
+    },
+    {
+        "admission_no": "7577755",
+        "possible_infection_focus": "Urinary Tract Infection (UTI)",
+        "possible_preliminary_diagnosis": "Uncomplicated Urinary Tract Infection",
+        "sepsis_or_septic_shock_risk": "Low, no evidence of organ dysfunction or hypotension.",
+        "recommended_empiric_antibiotic": "Nitrofurantoin or Fosfomycin",
+        "hospitalization_requirement": "No, patient does not meet criteria for hospital admission based on current data.",
+        "icu_requirement": "No, no evidence of severe sepsis or septic shock requiring ICU level care.",
+        "clinical_risk_assessment": "Low risk of mortality and clinical deterioration; close outpatient follow-up recommended."
+    },
+    {
+        "admission_no": "7579405",
+        "possible_infection_focus": "Gastrointestinal",
+        "possible_preliminary_diagnosis": "Uncomplicated Infection",
+        "sepsis_or_septic_shock_risk": "Low, as there is no evidence of acute organ dysfunction or hypotension.",
+        "recommended_empiric_antibiotic": "None recommended at this time due to low risk and lack of clear infection source.",
+        "hospitalization_requirement": "No, patient does not meet criteria for hospital admission based on current data.",
+        "icu_requirement": "No, no indication for ICU level care as there is no evidence of severe organ dysfunction or sepsis.",
+        "clinical_risk_assessment": "Low risk of mortality and clinical deterioration; close outpatient follow-up recommended."
+    },
+    {
+        "admission_no": "7579548",
+        "possible_infection_focus": "Cardiovascular (Potential Myocardial Infarction or Peri-procedural Infection)",
+        "possible_preliminary_diagnosis": "Uncomplicated Infection",
+        "sepsis_or_septic_shock_risk": "Low, No evidence of acute organ dysfunction and normal GCS score.",
+        "recommended_empiric_antibiotic": "None recommended at this time due to low suspicion of infection requiring antibiotics.",
+        "hospitalization_requirement": "Yes, for further evaluation of chest pain and potential cardiovascular issues.",
+        "icu_requirement": "No, patient does not meet criteria for ICU admission based on current data.",
+        "clinical_risk_assessment": "Low risk of mortality or clinical deterioration with normal vital signs and no evidence of organ dysfunction."
+    },
+    {
+        "admission_no": "7579563",
+        "possible_infection_focus": "Localized Infection (likely urinary tract or skin/soft tissue)",
+        "possible_preliminary_diagnosis": "Uncomplicated Infection",
+        "sepsis_or_septic_shock_risk": "Low - No evidence of acute organ dysfunction, normal GCS and blood pressure.",
+        "recommended_empiric_antibiotic": "None recommended at this time; consider if symptoms persist or worsen.",
+        "hospitalization_requirement": "No - Stable vital signs and no indication of severe infection.",
+        "icu_requirement": "No - No evidence of organ dysfunction, stable mental status, and adequate blood pressure.",
+        "clinical_risk_assessment": "Low risk for clinical deterioration; however, close monitoring is advised due to elevated inflammatory markers."
+    },
+    {
+        "admission_no": "7579738",
+        "possible_infection_focus": "Genitourinary or soft tissue infection",
+        "possible_preliminary_diagnosis": "Uncomplicated Infection",
+        "sepsis_or_septic_shock_risk": "Low, as there is no evidence of organ dysfunction (GCS 15, normal BP, and urine output not specified but likely adequate)",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotic coverage appropriate for genitourinary or soft tissue infections",
+        "hospitalization_requirement": "Yes, due to elevated WBC and lactate levels indicating systemic inflammation requiring further evaluation and management",
+        "icu_requirement": "No, as there is no evidence of severe organ dysfunction or hypotension necessitating ICU care",
+        "clinical_risk_assessment": "Low risk for mortality but requires close monitoring and appropriate antibiotic therapy to prevent progression"
+    },
+    {
+        "admission_no": "7582259",
+        "possible_infection_focus": "Respiratory system",
+        "possible_preliminary_diagnosis": "Uncomplicated Infection",
+        "sepsis_or_septic_shock_risk": "Low, as there is no evidence of acute organ dysfunction (GCS 15, normal BP, and stable vital signs)",
+        "recommended_empiric_antibiotic": "None recommended at this time; consider empirical antibiotics if a clear source of infection is identified",
+        "hospitalization_requirement": "No, patient does not meet criteria for hospitalization based on current data",
+        "icu_requirement": "No, no evidence of severe sepsis or septic shock requiring ICU level care",
+        "clinical_risk_assessment": "Low risk of mortality and clinical deterioration; monitor closely but outpatient management is appropriate"
+    }
+]

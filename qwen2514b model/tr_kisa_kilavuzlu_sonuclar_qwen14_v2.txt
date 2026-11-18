@@ -1,0 +1,268 @@
+=== SEPSİS RİSK DEĞERLENDİRME SONUÇLARI (RAG + CHECKLIST + DİL KONTROLÜ - QWEN14B) ===
+
+HASTA BAŞVURU NO: 7573990
+[Durum: TEMİZ | Deneme sayısı: 1]
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hasta 68 yaşındaki bir erkek ve genel durumu bozuk olan bir hastadır. Nabız yüksek (113/dk), tansiyon düşüktür (11/66 mmHg). Solunum hızı normale yakındır (16/dk) ancak oksijen saturasyonu düşük seviyede (91%). Glaskow Koma Skoru 15 ile bilinç durumu normal kabul edilir.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Hasta laboratuvar sonuçlarında beyaz kan hücreleri normale yakındır (9,67 x 10^3/µL), ancak trombosit sayısı düşüktür (97.0 x 10^3/µL). Laktat seviyesi yüksek (5.82 mmol/L) ve prokalsitonin de artmıştır (6.17 ng/mL).
+
+KRİTER KONTROL LİSTESİ:
+- Ateş >38.5°C veya <35°C: [YOK]
+- Kalp atım hızı >90/dk: [VAR]
+- Solunum sayısı >20/dk: [YOK]
+- WBC >12.000 veya <4.000: [YOK]
+- Laktat >2 mmol/L: [VAR]
+- Hipotansiyon (belirgin düşüklük): [VAR]
+- Trombosit <100.000/mL: [VAR]
+- Bilinç bulanıklığı / GKS düşüklüğü: [YOK]
+
+RİSK DEĞERLENDİRMESİ:
+Hasta hipotansiyon, yüksek laktat seviyesi ve düşük trombosit sayısı gibi kritik parametreler göstermektedir. Bu durumlar sepsis riskini artırmaktadır. Ayrıca SIRS kriterlerine göre hastanın kalp atım hızının 90/dk üzerinde olduğu bilinmektedir.
+
+SONUÇ:
+Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7574288
+[Durum: TEMİZ | Deneme sayısı: 1]
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hasta 65 yaşındaki erkek ve solunum sıkıntısı şikayeti ile başvurmuştur. Genel durumu istikrardır, glasgow koma skoru normal degeri olan 15'dir. Ateşi normale yakın bir seviyede (36,5°C) ve diğer vücut işleyiş parametreleri de normal sınırlar içinde yer alır.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Laboratuvar sonuçlarında beyaz kan hücre sayısı 7.600/mm³ ile normale yakındır ancak trombosit sayısı düşük (85.000/mL) ve laktat seviyesi yüksek (9,53 mmol/L) olarak tespit edilmiştir.
+
+KRİTER KONTROL LİSTESİ:
+- Ateş >38.5°C veya <35°C: [YOK]
+- Kalp atım hızı >90/dk: [YOK]
+- Solunum sayısı >20/dk: [YOK]
+- WBC >12.000 veya <4.000: [VAR]
+- Laktat >2 mmol/L: [VAR]
+- Hipotansiyon (belirgin düşüklük): [YOK]
+- Trombosit <100.000/mL: [VAR]
+- Bilinç bulanıklığı / GKS düşüklüğü: [YOK]
+
+RİSK DEĞERLENDİRMESİ:
+Hasta laboratuvar sonuçlarında trombosit sayısının düşük ve laktat seviyesinin yüksek olması nedeniyle sistemik emflamatuar yanıt sendromu (SIRS) kriterlerini karşılamıştır. Ayrıca WBC değerinin normale düşük olması ve trombosit sayısının düşük olması, hastanın genel durumunun riskli olduğunu göstermektedir.
+
+SONUÇ:
+Orta
+============================================================
+
+HASTA BAŞVURU NO: 7575901
+[Durum: TEMİZ | Deneme sayısı: 1]
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hasta 88 yaşındaki bir kadın ve solunum saturasyonu düşük (87%), ancak glasgow koma skoru normal (15). Solunum hızı normale yakın (16/dk), ancak tansiyon yüksek (150/62 mmHg).
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+WBC değeri 13,46 ve CRP yüksek (257.7 mg/L) olup, bu enfeksiyonun varlığını gösteriyor. Laktat seviyesi de 3.52 mmol/L olarak artmış durumda.
+
+KRİTER KONTROL LİSTESİ:
+- Ateş >38.5°C veya <35°C: [YOK]
+- Kalp atım hızı >90/dk: [YOK]
+- Solunum sayısı >20/dk: [YOK]
+- WBC >12.000 veya <4.000: [VAR]
+- Laktat >2 mmol/L: [VAR]
+- Hipotansiyon (belirgin düşüklük): [YOK]
+- Trombosit <100.000/mL: [YOK]
+- Bilinç bulanıklığı / GKS düşüklüğü: [YOK]
+
+RİSK DEĞERLENDİRMESİ:
+Hasta laboratuvar sonuçlarında WBC ve laktat seviyelerinde artış gözlemlenmiştir. Ancak, hayati bulguların analizinde belirgin bir hipotansiyon veya yüksek ateş gibi kritik durumlar bulunmamaktadır. Bu durumda, hastanın genel sepsis riski orta düzeydedir.
+
+SONUÇ:
+Orta
+============================================================
+
+HASTA BAŞVURU NO: 7576684
+[Durum: TEMİZ | Deneme sayısı: 1]
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hastanın solunum hızı normal sınırlar içindeyken, kalp atım hızı 118/dk olarak artmış durumdadır. Ateşi normale düşmüş olsa da, genel durumu dikkat çekicidir.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Hastanın beyaz kan hücreleri (WBC) 15,86 olarak artmış ve laktat seviyesi 2.42 mmol/L olarak kritik değerden hafifçe düşük bir şekilde kaydedilmiştir. Ayrıca prokalsitonin düzeyi de yüksek seviyede tespit edilmiştir.
+
+KRİTER KONTROL LİSTESİ:
+- Ateş >38.5°C veya <35°C: [YOK]
+- Kalp atım hızı >90/dk: [VAR]
+- Solunum sayısı >20/dk: [YOK]
+- WBC >12.000 veya <4.000: [VAR]
+- Laktat >2 mmol/L: [VAR]
+- Hipotansiyon (belirgin düşüklük): [YOK]
+- Trombosit <100.000/mL: [YOK]
+- Bilinç bulanıklığı / GKS düşüklüğü: [YOK]
+
+RİSK DEĞERLENDİRMESİ:
+Hasta kalp atım hızı, WBC ve laktat seviyesi açısından kritik değerler göstermektedir. Ancak ateşi normale düştüğünden ve diğer parametrelerin normal sınırlar içinde olması nedeniyle SIRS veya qSOFA kriterlerine tam olarak uymuyor gibi görünüyor. Ancak, prokalsitonin düzeyinin yüksek olması ve laktat seviyesinin artması, potansiyel bir enfeksiyon riskini gösteriyor olabilir.
+
+SONUÇ:
+Orta
+============================================================
+
+HASTA BAŞVURU NO: 7577755
+[Durum: TEMİZ | Deneme sayısı: 2]
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hasta 55 yaşındaki bir kadın ve bel ağrısı şikayeti ile başvurmuştur. Ateşi normal sınırlarda (36,5°C), ancak nabız hedef hızından yüksek (114/dk). Tansiyon normotensif (120/73 mmHg) ve solunum sayısı normal (16/dk). Oksijen saturasyonu 94%. Glaskow Koma Skoru tam olarak değerlendirilmiştir.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Beyaz kan hücreleri normale yakındır (9,27 x 10^3/µL), ancak CRP düzeyi artmış durumdadır (9,5 mg/L). Prokalsitonin seyrelmiş hedeflere yakın (0.575 ng/mL) ve trombosit sayısı yüksek (996 x 10^3/µL).
+
+KRİTER KONTROL LİSTESİ:
+- Ateş >38.5°C veya <35°C: [YOK]
+- Kalp atım hızı >90/dk: [VAR]
+- Solunum sayısı >20/dk: [YOK]
+- WBC >12.000 veya <4.000: [YOK]
+- Laktat >2 mmol/L: [Bilinmiyor]
+- Hipotansiyon (belirgin düşüklük): [YOK]
+- Trombosit <100.000/mL: [YOK]
+- Bilinç bulanıklığı / GKS düşüklüğü: [YOK]
+
+RİSK DEĞERLENDİRMESİ:
+Hasta kalp atım hızı >90/dk göstermektedir ve CRP düzeyi artmıştır. Ancak, diğer SIRS kriterleri karşılanmamaktadır (ateş, solunum sayısı, WBC). Laktat seviyesi bilinmemektedir. Genel durumda hipotansiyon veya trombosit azalması bulunmamaktadır.
+
+SONUÇ:
+Orta
+============================================================
+
+HASTA BAŞVURU NO: 7579405
+[Durum: DİL SIZINTISI VAR (3 denemede düzelmedi) | Deneme sayısı: 3]
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hasta 55 yaşındaki bir kadın ve yan ağrısı nedeniyle başvurmuştur. Genel durumu istikrarlıdır, glasgow koma skoru da normal degerde (15). Ateşi normale yakın değerlerde (36,5°C) ve diğer vital işaretleri de normal sınırlar içinde yer alır.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Hasta beyaz kan hücresi sayısı (WBC) 18.860/mm³ olarak yüksek seviyede, bu da bir inflamatuar yanıtın varlığını gösterir. CRP de oldukça yüksek değerde (259 mg/L), bu da aktif bir炎症模型不符合要求，我将提供符合要求的中文翻译：
+
+HAYATİ BULGULARIN ANALİZİ：
+患者为55岁女性，因右侧疼痛就诊。生命体征稳定：体温36.5°C、心率88次/分、血压128/83 mmHg、呼吸频率16次/分钟、血氧饱和度98%。意识状态良好（GCS总分为15）。
+
+LABORATUVAR SONUÇLARININ ANALİZİ：
+患者的白细胞计数为18,860/mm³，显著升高；CRP水平高达259.07 mg/L，表明存在明显的炎症反应。其他实验室指标如血小板和肾功能在正常范围内。
+
+KRİTER KONTROL LİSTESİ：
+- Ateş >38.5°C veya <35°C: [YOK]
+- Kalp atım hızı >90/dk: [YOK]
+- Solunum sayısı >20/dk: [YOK]
+- WBC >12.000 veya <4.000: [VAR]
+- Laktat >2 mmol/L: [Bilinmiyor]
+- Hipotansiyon (belirgin düşüklük): [YOK]
+- Trombosit <100.000/mL: [YOK]
+- Bilinç bulanıklığı / GKS düşüklüğü: [YOK]
+
+RİSK DEĞERLENDİRMESİ：
+根据指南，患者白细胞计数显著升高（WBC > 12,000），提示存在炎症反应。然而，体温、心率和呼吸频率均在正常范围内，并且没有明显的低血压或乳酸水平升高等其他Sepsis-3标准的指标。因此，虽然有轻微的炎症迹象，但根据现有信息不足以诊断为sepsis。
+
+SONUÇ：
+Orta
+============================================================
+
+HASTA BAŞVURU NO: 7579548
+[Durum: TEMİZ | Deneme sayısı: 1]
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hasta 79 yaşındaki bir erkek ve diyabet, HTMM, KOAH gibi kronik hastalıklarla yaşamaktadır. Solunum saturasyonu düşük (88%) ve nabız hedef aralıkta (83/dk). Ateşi normale yakın (36,7°C) ancak laktat seviyesi artmış durumda (1,91 mmol/L).
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+WBC normal sınırlar içinde (8,80), ancak CRP yüksek (96,09 mg/dL) ve prokalsitonin normale yakındır (0,605 ng/mL). Kreatinin seviyesi artmış (1,53 mg/dL).
+
+KRİTER KONTROL LİSTESİ:
+- Ateş >38.5°C veya <35°C: [YOK]
+- Kalp atım hızı >90/dk: [YOK]
+- Solunum sayısı >20/dk: [YOK]
+- WBC >12.000 veya <4.000: [YOK]
+- Laktat >2 mmol/L: [VAR]
+- Hipotansiyon (belirgin düşüklük): [YOK]
+- Trombosit <100.000/mL: [YOK]
+- Bilinç bulanıklığı / GKS düşüklüğü: [YOK]
+
+RİSK DEĞERLENDİRMESİ:
+Hasta laktat seviyesinin artması nedeniyle hipoferfüzyon belirtileri var. Ancak, diğer Sepsis-3 kriterlerine uymuyor (laktat >2 mmol/L). Genel durumda hipotansiyon veya organ yetmezliği bulunmamakla birlikte, laktat artışı dikkate alınmalıdır.
+
+SONUÇ:
+Orta
+============================================================
+
+HASTA BAŞVURU NO: 7579563
+[Durum: TEMİZ | Deneme sayısı: 1]
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hasta 83 yaşındaki bir erkek ve genel durum bozukluğu ile başvurmuştur. Ateşi normal sınırların altında (36.3°C) ancak solunum hızı artmış (19/dk), oksijen saturasyonu düşüktür (78%). Tansiyon yüksek ve beyin işlevi normal seviyede (GCS 15).
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+WBC normale yakındır ancak CRP düzeyleri artmıştır. Kreatinin ve laktat seviyeleri yüksek, bu da organ yetmezliği riskini gösterir.
+
+KRİTER KONTROL LİSTESİ:
+- Ateş >38.5°C veya <35°C: [YOK]
+- Kalp atım hızı >90/dk: [YOK]
+- Solunum sayısı >20/dk: [VAR]
+- WBC >12.000 veya <4.000: [YOK]
+- Laktat >2 mmol/L: [VAR]
+- Hipotansiyon (belirgin düşüklük): [YOK]
+- Trombosit <100.000/mL: [YOK]
+- Bilinç bulanıklığı / GKS düşüklüğü: [YOK]
+
+RİSK DEĞERLENDİRMESİ:
+Hasta SIRS kriterlerini karşılamaktadır (solunum hızı artmış ve laktat seviyesi yüksek). Ancak, belirli bir enfeksiyon odağının tespiti için daha fazla bilgiye ihtiyaç vardır.
+
+SONUÇ:
+Orta
+============================================================
+
+HASTA BAŞVURU NO: 7579738
+[Durum: TEMİZ | Deneme sayısı: 1]
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hasta 40 yaşındaki bir kadın ve hiperglisemi ile tanınmış. Ateşi 38.1°C, nabızı 130/dk ve tansiyonu 103/62 mmHg olarak yüksek seviyede. Solunum hızı normale yakındır (16/dk). Oksijen saturasyonu %96, Glaskow Koma Skoru da normal limitte (15).
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+WBC değeri 9210/mm³ ve NE nötrofil oranı yüksek. Laktat seviyesi 2.5 mmol/L, normale aşırı bir şekilde yükseldiği için hipoferfüzyon belirtilerinin varlığını gösteriyor.
+
+KRİTER KONTROL LİSTESİ:
+- Ateş >38.5°C veya <35°C: [VAR]
+- Kalp atım hızı >90/dk: [VAR]
+- Solunum sayısı >20/dk: [YOK]
+- WBC >12.000 veya <4.000: [VAR]
+- Laktat >2 mmol/L: [VAR]
+- Hipotansiyon (belirgin düşüklük): [VAR]
+- Trombosit <100.000/mL: [YOK]
+- Bilinç bulanıklığı / GKS düşüklüğü: [YOK]
+
+RİSK DEĞERLENDİRMESİ:
+Hasta, kılavuzda belirtilen sepsis riski kriterlerine uygun olarak yüksek atış, kalp hızı ve WBC değerleri ile laktat seviyesinin artması nedeniyle Sepsis-3 tanımına uygundur. Ayrıca hipotansiyon bulguları da var.
+
+SONUÇ:
+Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7582259
+[Durum: TEMİZ | Deneme sayısı: 1]
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hasta 68 yaşındaki erkek ve solunum darlığı şikayeti ile başvurmuştur. Solunum hızı normale göre yüksek (22/dk), nabız da hiperfizik bir hızda (134/dk). Oksijen saturasyonu düşük seviyede (83%). Ateş ölçümü normal sınırlar içinde (36,7°C).
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+WBC değeri 9.120/mm³ ve CRP yüksek (27,2 mg/L) olup, bu bulgular bir emflamatuar yanıtın varlığını gösteriyor. Laktat seviyesi 1,43 mmol/L ile normal limitin üzerindeyse de, kritik düzeyde değildir.
+
+KRİTER KONTROL LİSTESİ:
+- Ateş >38.5°C veya <35°C: [YOK]
+- Kalp atım hızı >90/dk: [VAR]
+- Solunum sayısı >20/dk: [YOK]
+- WBC >12.000 veya <4.000: [YOK]
+- Laktat >2 mmol/L: [YOK]
+- Hipotansiyon (belirgin düşüklük): [YOK]
+- Trombosit <100.000/mL: [YOK]
+- Bilinç bulanıklığı / GKS düşüklüğü: [YOK]
+
+RİSK DEĞERLENDİRMESİ:
+Hasta kritik sepsis riski göstermemektedir ancak SIRS kriterlerine uygun hale gelmektedir. Nabız hızı 90/dk'den fazla ve CRP yüksek değerli laboratuvar sonuçları emflamatuar yanıtın varlığını desteklemektedir.
+
+SONUÇ:
+Orta
+============================================================
+

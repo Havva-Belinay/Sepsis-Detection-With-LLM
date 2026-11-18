@@ -1,0 +1,136 @@
+=== SEPSİS RİSK DEĞERLENDİRME SONUÇLARI (KILAVUZSUZ BASELINE) ===
+
+HASTA BAŞVURU NO: 7573990
+----------------------------------------
+ Hayatı Bulguların Analizi:
+Hasta, ağrı veya sıkıntı yaşamaktadır. Ateş 37,0'dur, nabiz 113, tansiyon 11/66, solunum hızı 16, oksijen saturasyonu 91, glaskow koma skoru toplam 15.0'dur (göz: 4.0, sözel: 5.0, motor: 6.0).
+
+Laboratuvar Sonuçların Analizi:
+WBC 9,67, trombosit 97.0, neutrofil 9,22, kreatinin <0,17, laktat 5.82, prokalsitonin 6.17, CRP 98.4'tür.
+
+Risk Değerlendirmesi:
+Genel sepsis riski yüksek olarak değerlendirilebilir.
+
+Sonuç: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7574288
+----------------------------------------
+ Hayatı Bulguların Analizi:
+Hasta, ağrısı nedeniyle gözü kapladığından dolayı kalp ve dişi hareketlerinde zorluk ya da yavaşluk görülüyor. Ateş değeri 36,5'dir, normal değerlerden düşük olduğunu gösterir. Nabız değeri 88, normal değerleri yakında. Tansiyon hızı 128/83, normal değerlerden yüksek olduğunu gösterir. Solunum hızı 16, normal değerlerden düşük olduğunu gösterir. Oksijen saturasyonu 98, normal değerlere yakında. Glaskow koma skoru toplam 15.0'dır, bu genel anestezi sıklığını gösterir.
+
+Laboratuvar Sonuçların Analizi:
+Beyaz kan hücresi (WBC) değeri 7,6'dir, normal değerlerden yüksek olduğunu gösterir. Trombosit (PLT) değeri 85.0, normal değerlere yakında. Nötrofil (NE) değeri 38,43'dır, normal değerlerden yüksek olduğunu gösterir. Kreatinin değeri 1.41, normal değerlere yakında. Laktat değeri 9.53, normal değerlere yakında. Prokalsitonin değeri 0.222, normal değerlerden düşük olduğunu gösterir. CRP değeri 86.1'dir, genel inflamasyonu gösterir.
+
+Risk Değerlendirmesi:
+Genel sepsis riski yüksek olarak değerlendirilebilir.
+
+Sonuç: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7575901
+----------------------------------------
+ Hayatı Bulguların Analizi:
+Hasta, ağrı veya zarar verici bir durumda bulunmaktadır. Ateşi 36.8 dereceden, tansiyonu 150/62 mmHg, nabızı 92, solunum hızını 16, oksijen saturasyonunu 87'dir. Glaskow koma skoru toplam 15.0'dur (göz: 4.0, sözel: 5.0, motor: 6.0).
+
+Laboratuvar Sonuçların Analizi:
+Beyaz kan hücresi (WBC) 13,46, trombosit (PLT) 160.0, nötrofil (NE) 11,83, kreatinin 0.65, laktat 3.52, prokalsitonin bilinmiyor, CRP 257.7'dir.
+
+Risk Değerlendirmesi:
+Genel sepsis riski yüksek olarak değerlendirilebilir.
+
+Sonuç: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7576684
+----------------------------------------
+ Hayatı Bulguların Analizi:
+Hasta, ağrı veya sözleşme zamanında gözlendirdiğimizde, 36,5 derece Cinsel Temperaturu (ATEŞ), 118 Nabız (NABIZ), 140/83 Tansiyon (TÜRKÇE: BİLGİSAYAR TANSIYONU) sağlıklı bir seviye gösteriyor. Solunum Hızı (SS) 16, Oksijen Saturasyonu (SO2) 96, Glaskow Koma Skoru (GKS) toplam 15.0'dur (Göz: 4.0, Sözel: 5.0, Motor: 6.0).
+
+Laboratuvar Sonuçlarını Analizi:
+Beyaz Kan Hücresi (WBC) 15,86, Trombosit (PLT) 214.0, Nötrofil (NE) 13,69, Kreatinin 1.43, Laktat 2.42, Prokalsitonin 32.4, CRP 108.08 değerleri, genel bir infeksiyon veya sepsis riskini yükseltiyor.
+
+Risk Değerlendirmesi:
+Genel sepsis riski yüksek olarak değerlendirilebilir. Hasta, laboratuvar sonuçlarına bakıldığında, infeksiyon veya sepsis riskini taşımaktadır.
+
+Sonuç: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7577755
+----------------------------------------
+ Hayatı Bulguların Analizi:
+Hasta, akut sistit olarak tanılandığından, hastalığın sıklık ve şiddetini göz önünde bulundurulması gerekmektedir. Ateş değeri 36,5'dir, normal değerleri dahil ederek normal bir değerde, solunum hızı 16'dır, oksijen saturasyonu 94'tür, tansiyon değeri ise 120/73'tür. Bu durumda, hastanın hayatı stabil bir duruma sokulmuş görünmektedir.
+
+Laboratuvar Sonuçların Analizi:
+Beyaz kan hücresi 9,27'dir, trombosit değeri ise 996'dur. Bu sonuçlar, hastanın sepsis riskini artırabilen bir durum olarak göz önünde bulundurulmalıdır. Nötrofil değeri 8,07'dir, kreatinin ise 0,68'tür. Laktat ve prokalsitonin değerleri bilinmiyor. CRP değeri ise 9,5'dir, bu da sepsis riskini artırır.
+
+Risk Değerlendirmesi:
+Genel olarak, hastanın sepsis riski yüksek olduğu görülmektedir. Hasta, akut sistit tanılandığından, hastalığın sıklık ve şiddetini göz önünde bulundurulması gerekmektedir.
+
+Sonuç: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7579405
+----------------------------------------
+ Hayatı Bulguların Analizi:
+Hasta, ağrısına karşı bulunan bir bulantı ve kusma vardır. Ateş, Nabiz, Tansiyon, Solunum Hızı, Oksijen Saturasyonu ve Glaskow Koma Skoru değerleri verilmiştir.
+
+Laboratuvar Sonuçların Analizi:
+Beyaz Kan Hücresi (WBC), Trombosit (PLT), Nötrofil (NE), Kreatinin, Laktat, Prokalsitonin ve CRP değerleri verilmiştir.
+
+Risk Değerlendirmesi:
+Genel sepsis riski yüksek olarak değerlendirilebilir. Bu durumda, hastanın sepsi riskini azaltmak için öncelikle antibiyotik tedavisi ve kalitesiz sıvıların kontrolünden emin olunmalıdır.
+
+Sonuç: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7579548
+----------------------------------------
+ Hayatı Bulguların Analizi: Hasta, ağrısından kaynaklanan bir sepsis riski olabilir. Ateş derecesi 36,7'dir, nabız 83, tansiyon 107/88, solunum hızı 16, oksijen saturasyonu 88, Glaskow koma skoru toplam 15.0'dur (göz: 4.0, sözel: 5.0, motor: 6.0). Bu değerler sepsis riskini artırıyor.
+
+Laboratuvar Sonuçlarını Analizi: Beyaz kan hücresi (WBC) 8,80, trombosit (PLT) 380.0, nötrofil (NE) 8,61, kreatinin 1.53, laktat 1.91, prokalsitonin 0.605, CRP 96.09'dir. Bu değerler sepsis riskini artırıyor.
+
+Risk Değerlendirmesi: Genel sepsis riski yüksek olarak değerlendirilebilir.
+
+Sonuç: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7579563
+----------------------------------------
+ Hayatı Bulguların Analizi:
+Hasta, genel durum bozukluğu taşıyor. Ateş, tansiyon ve oksijen saturasyonu normal seviyelerde, solunum hızı ve glaskow koma skoru ise yüksek seviyelerde. Beyaz kan hücresi, trombosit ve notrofil değerleri artmış, kreatinin ve laktat da yüksek seviyelerde. Prokalsitonin değeri bilinmiyor.
+
+Laboratuvar Sonuçların Analizi:
+Beyaz kan hücresi, trombosit ve notrofil artmış, kreatinin ve laktat da yüksek seviyelerde. CRP değeri 91,4. Prokalsitonin değeri bilinmiyor.
+
+Risk Değerlendirmesi:
+Genel sepsis riski yüksek olarak değerlendirilebilir.
+
+Sonuç: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7579738
+----------------------------------------
+ Hayatı Bulguların Analizi:
+Hasta, ağrısız ve tansiyonu normal. Ateşi 38,1 derece, nabızı 130 mmHg, solunum hızı 16/min, oksijen saturasyonu 96%, glaskow koma skoru toplam 15.0'dur.
+
+Laboratuvar Sonuçların Analizi:
+Beyaz kan hücresi (WBC) 9,21, trombosit (PLT) 236.0, nötrofil (NE) 8,94, kreatinin 0.73, laktat 2.5, prokalsitonin bilinmiyor, CRP <0,5'tir.
+
+Risk Değerlendirmesi:
+Genel sepsis riski yüksek olarak değerlendirilebilir. Hasta, laboratuvar sonuçlarında yüksek nötrofil ve trombosit değerlerine sahip, CRP değeri ise normaldir. Bu durumda, sepsis riski artmaktadır.
+
+Sonuç: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7582259
+----------------------------------------
+ Hayatı Bulguların Analizi: Hasta, ağrı ve düşük oksijen saturasyonu (83%) ile dolu bir respirasyon sisteminde bulunmaktadır. Ateş değeri 36,7'dir ve tansiyon değeri 109/74'tür. Solunum hızı 22'dir ve glaskow koma skoru toplam 15.0'dur (göz: 4.0, sözel: 5.0, motor: 6.0).
+
+Laboratuvar Sonuçların Analizi: Beyaz kan hücresi (WBC) değeri 9,12'dir, trombosit (PLT) değeri 327.0, nötrofil (NE) değeri 7,74'tur, kreatinin değeri 0.95, laktat değeri 1.43, prokalsitonin değeri 0.103 ve CRP değeri 27.2'dir.
+
+Risk Değerlendirmesi: Genel sepsis riski yüksek olarak değerlendirilebilir. Hasta, ağrı, düşük oksijen saturasyonu, yüksek CRP ve yüksek nötrofil değerlerine sahip.
+
+Sonuç: Yüksek
+============================================================
+

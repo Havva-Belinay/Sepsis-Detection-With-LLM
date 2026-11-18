@@ -1,0 +1,167 @@
+=== SEPSİS RİSK DEĞERLENDİRME SONUÇLARI (RAG - KILAVUZ DESTEKLİ) ===
+
+HASTA BAŞVURU NO: 7573990
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hastanın solunum hızı ve nabız değerleri normalliğin üst sınırında yer alırken, tansiyon değeri düşüktür. Oksijen saturasyonu %91 olarak düşük bir değer göstermektedir. Ancak, ateş normal sınırlarda yer aldığı için febreli bir durum söz konusu değildir.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Hastanın beyaz kan hücresi (WBC) değeri normalliğin üst sınırında ve prokalsitonin, laktat değerleri de yüksek seviyede yer alır. Bu bulgular, bir inflamatuar yanıtın varlığını gösterir.
+
+RİSK DEĞERLENDİRMESİ:
+Hasta, SIRS (Sistemik Emflamatuar Yanıt Sendromu) kriterlerini karşılamaktadır ancak febreli değildir. Yüksek laktat ve prokalsitonin değerleri, bir enfeksiyonun varlığını göstermektedir. Hastanın düşük tansiyon durumu ve düşük oksijen saturasyonu, sepsis riskini artırır.
+
+SONUÇ:
+Orta
+============================================================
+
+HASTA BAŞVURU NO: 7574288
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hastanın solunum hızı, kan basıncı ve oksijens saturasyonu normale yakın değerlerdeyken, laktat seviyesi yüksek (9.53 mmol/L) ve beyaz kan hücreleri normal sınırların altındadır. Bu durumlar hastanın potansiyel bir enfeksiyon veya inflamatuar bir duruma sahip olabileceğini gösteriyor.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Hastanın beyaz kan hücreleri (WBC) normal sınırların altında, trombosit seviyesi düşüktür. Kreatinin ve laktat seviyeleri yüksek, prokalsitonin ise normal sınırlarda yer alırken CRP oldukça yüksektir. Bu sonuçlar hastanın potansiyel bir enfeksiyon veya inflamatuar bir durum olduğunu gösteriyor.
+
+RİSK DEĞERLENDİRMESİ:
+Hastanın laktat seviyesinin yüksek olması ve beyaz kan hücrelerinin normal sınırların altında olması, septik şok veya ağır sepsis riskini artırmaktadır. Ayrıca trombosit seviyelerinin düşmesi de bu durumu desteklemekte.
+
+SONUÇ:
+Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7575901
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hasta 88 yaşındaki bir kadın ve genel olarak istikrarsız durumda. Solunum saturasyonu düşük (87%) ve beyaz kan hücreleri artmış (13,46). Ancak, ateş normal sınırlar içinde (36.8°C) ve glaskow koma skoru 15 ile bilinçli bir durumda.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Laboratuvar sonuçlarında beyaz kan hücreleri artmış ve CRP yüksek seviyede (257.7). Laktat seviyesi de 3.52 olarak artmış, bu da metabolik stres veya oksijensizlik olasılığını gösteriyor.
+
+RİSK DEĞERLENDİRMESİ:
+Hasta için potansiyel bir enfeksiyon riski var. Solunum saturasyonu düşük ve beyaz kan hücreleri artmış, bu da bir emflamatuar yanıtın olduğunu gösteriyor. Ancak, spesifik enfeksiyon odağının belirlenmesi gerekmekte.
+
+SONUÇ:
+Orta
+============================================================
+
+HASTA BAŞVURU NO: 7576684
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hastanın solunum hızı normal sınırlarda (16/dk) ancak kalp atım hızı artmış durumda (118/dk). Ateş ölçümü 36,5°C olarak düşük bir değer göstermektedir. Ancak beyaz kan hücreleri (WBC) abnormite bir şekilde yüksek seviyede (15,86/mm³), bu da sistemik emflamatuar yanıtın varlığını gösteriyor.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Laboratuvar sonuçlarında beyaz kan hücreleri ve prokalsitonin abnormite yüksek seviyede. Laktat seviyesi de 2,42 olarak artmış durumda, bu da doku perfüzyon sorunları olabileceğini gösteriyor.
+
+RİSK DEĞERLENDİRMESİ:
+Hasta SIRS (Sistemik Emflamatuar Yanıt Sendromu) kriterlerini karşılamaktadır. Yüksek WBC seviyesi ve prokalsitonin, sistemik emflamatuar yanıtın varlığını desteklemekte. Ancak ateşi düşük olduğu için sepsis veya septik şok tanısı için yeterli olmayabilir.
+
+SONUÇ:
+Orta
+============================================================
+
+HASTA BAŞVURU NO: 7577755
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hastanın solunum hızı ve nabız değerleri normal sınırların üstünde, ancak belirgin bir hipotansiyon veya oksijensizlik göstergesi yok. Ateş ölçümü normale yakındır. Genel olarak kritik duruma girmiş gibi görünmüyor.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Beyaz kan hücreleri ve nötrofil değerleri normal sınırların üstünde, ancak sepsis belirtilerini göstermek için daha yüksek olması gereken beyaz kan hücrelerinin (WBC) sınırını aşmamıştır. CRP değeri ise hafif bir炎症性语言，实际上根据提供的患者信息和指导原则，可以这样总结：
+
+HAYATİ BULGULARIN ANALİZİ:
+Belirgin bir hipotansiyon veya oksijensizlik belirtisi yok, ancak nabız ve solunum hızı değerleri normal sınırların üstünde.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Beyaz kan hücrelerinin (WBC) ve nötrofil düzeyi hafif bir artış gösteriyor. Ancak, bu değerler sepsis belirtilerini göstermek için daha yüksek olması gereken limitleri aşmamıştır.
+
+RİSK DEĞERLENDİRMESİ:
+Hastanın laboratuvar sonuçları ve hayati bulgular genel olarak hafif bir炎症性语言，实际上根据提供的患者信息和指导原则，可以这样总结：
+
+**HAYATİ BULGULARIN ANALİZİ：**
+患者的血压、心率和呼吸频率略高于正常范围，但没有明显的低血压或缺氧迹象。体温在正常范围内。
+
+**LABORATUVAR SONUÇLARININ ANALİZİ：**
+白细胞计数（WBC）和中性粒细胞计数略有升高，但是这些数值并未达到提示严重感染的标准值。
+
+**RİSK DEĞERLENDİRMESİ：**
+根据患者的生命体征和实验室检查结果，患者的症状并不强烈指向严重的全身炎症反应或感染。尽管白细胞计数略高，但没有明显的低血压或其他危重指标。
+
+**SONUÇ：**
+中等
+============================================================
+
+HASTA BAŞVURU NO: 7579405
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hastanın hayati bulguları normal sınırlar içinde yer almakta olup, ateş normale yakın (36.5°C), nabız ve solunum hızı da normal limitlerde gözlemlenmektedir. Glaskow Koma Skoru 15 ile tam bir konsantrasyon ve motorik yetkinlik gösterilmektedir.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Hastanın beyaz kan hücresi (WBC) değeri 18,86 olarak yüksek bulunmakta, bu da bir emflamatuar yanıtın varlığını göstermektedir. CRP de oldukça yüksek seviyede (259.07), bu da aktif bir inflamasyon sürecinin olduğunu göstermektedir.
+
+RİSK DEĞERLENDİRMESİ:
+Hasta, beyaz kan hücresi ve CRP değerlerinin yüksek olması nedeniyle sistemik emflamatuar yanıt sendromu (SIRS) riskinde bulunmaktadır. Ancak, hasta kritik bulgular göstermediği için sepsis veya sepsis sonrası organ yetmezliği (MODS) riski düşük olarak değerlendirilebilir.
+
+SONUÇ:
+Orta
+============================================================
+
+HASTA BAŞVURU NO: 7579548
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hasta 79 yaşındaki bir erkek ve kronik hastalıklarla (diyabet, HT, KOAH) yaşamakta. Başvuru belirtileri göğüs ağrısı olup, solunum saturasyonu düşük seviyede (88%). Ancak, glasgow koma skoru 15 ile tam bir konsantrasyonda ve hipotansiyona rastlanmamaktadır. Ateş ölçümü normal sınırlar içinde (36.7°C) ancak diğer parametreler (nabız, solunum hızı) SIRS tanı için yeterli değildir.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Beyaz kan hücreleri normale yakındır (8,80), ancak CRP yüksek seviyede (96.09). Laktat 1.91 olarak normal sınırların üstünde bulunuyor ve prokalsitonin de biraz yükseliş göstermektedir (0.605). Bu bulgular, hassas bir durumu işaret edebilir.
+
+RİSK DEĞERLENDİRMESİ:
+Hasta laboratuvar sonuçları ve klinik bulguların birleşimi sepsis riskini artırmaktadır ancak SIRS tanı için yeterli sayıda parametre bulunmamaktadır. Kreatinin seviyesi yüksek (1.53) ve laktat düzeyi normalin üstünde olduğu gözlemlenmektedir, bu da doku perfüzyonun sorunu olabileceğini gösteriyor.
+
+SONUÇ:
+Orta
+============================================================
+
+HASTA BAŞVURU NO: 7579563
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hasta 83 yaşında ve hipertansiyon, diyabet gibi kronik hastalıklarla yaşamaktadır. Solunum saturasyonu düşük (78%) ve kreatinin seviyesi yüksek (3.61 mg/dL) olup böbrek yetmezliği riskinde bulunmaktadır. Ancak, SIRS kriterlerine uymuyor çünkü en az iki kriteryi karşılamıyor: ateş 36.3°C, beyaz kan hücresi sayısı 8780/mm³.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Beyaz kan hücreleri normal sınırların altında ve prokalsitonin bilinmiyor. CRP yüksek (91.4 mg/L) olup, bu bir inflamatuar tepkiye işaret edebilir. Kreatinin seviyesi yüksek (3.61 mg/dL), böbrek yetmezliği riskinde olduğunu gösteriyor.
+
+RİSK DEĞERLENDİRMESİ:
+Hasta 83 yaşında ve hipertansiyon, diyabet gibi kronik hastalıklarla yaşamaktadır. Laboratuvar sonuçları da negatif bir dengede olduğu için, sepsis riski orta düzeydedir.
+
+SONUÇ: 
+Orta
+============================================================
+
+HASTA BAŞVURU NO: 7579738
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hasta 38.1°C ateşinde, yüksek nabız hızı (130/dk) ve düşük tansiyon (103/62 mmHg) göstermektedir. Solunum hızı normal sınırlar içindeyken, oksijens saturasyonu %96 olarak düşüktür. Bu bulgular, sistemik emflamatuar yanıt sendromu (SIRS) tanısı için yeterli olabilir.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Hasta 9,21 x 10^3/mm³ beyaz kan hücreleri ve yüksek nötrofil sayısına sahip olup, bu da emflamatuar yanıtın varlığını göstermektedir. Kreatinin seviyesi normal sınırlar içindeyken, laktat seviyesi 2.5 mmol/L olarak artmış durumdadır ve bu metabolik stres veya enfeksiyonun bir belirtisi olabilir.
+
+RİSK DEĞERLENDİRMESİ:
+Hasta yüksek nabız hızı, düşük tansiyon ve düşük oksijens saturasyonu gibi SIRS kriterlerini karşılamaktadır. Ayrıca hiperglisemi ve ülser diabetik durumu nedeniyle sepsis riski yüksektir.
+
+SONUÇ: 
+Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7582259
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hastanın solunum hızı ve nabız değerleri normal sınırların üstünde, oksijon saturasyonu düşük (83%) ve ateş normale yakındır. Glaskow Koma Skoru 15 ile bilinç durumu iyi kabul edilebilir.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Beyaz kan hücreleri normal sınırların altında, trombosit ve nötrofil değerleri normale yakın. Kreatinin ve laktat değerleri normal limitlerde, prokalsitonin düşük (sepsis riski düşüktür) ancak CRP yüksek.
+
+RİSK DEĞERLENDİRMESİ:
+Hasta SIRS kriterlerini karşılamıyor çünkü en az iki kriteryi sağlamıyor. Ancak yüksek solunum hızı ve nabız değerleri dikkat çekicidir. Laboratuvar sonuçlarında CRP'nin yüksek olması potansiyel bir enfeksiyon riski belirtisidir.
+
+SONUÇ: 
+Orta
+============================================================
+

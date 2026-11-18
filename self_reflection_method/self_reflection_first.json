@@ -1,0 +1,122 @@
+[
+    {
+        "admission_no": "7573990",
+        "step_by_step_analysis": "The patient's lactate level is significantly elevated at 5.82 mmol/L, indicating severe tissue hypoperfusion and meeting the sepsis criteria. The low platelet count of 97 x 10^3/µL suggests possible disseminated intravascular coagulation (DIC) or sepsis-induced thrombocytopenia. Additionally, the patient's oxygen saturation is slightly below normal at 91%, indicating respiratory compromise possibly due to systemic inflammation.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Sepsis",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Moderate",
+        "recommended_empiric_antibiotic": "Piperacillin-tazobactam or ceftriaxone plus metronidazole",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for close monitoring and management of sepsis.",
+        "icu_requirement": "Yes - Given the high risk of progression to septic shock, ICU admission is recommended for continuous monitoring and supportive care.",
+        "clinical_risk_assessment": "The patient has a high clinical risk due to elevated lactate levels, low platelet count, and systemic inflammatory response. Immediate intervention is necessary to prevent deterioration."
+    },
+    {
+        "admission_no": "7574288",
+        "step_by_step_analysis": "The patient's lactate level of 9.53 mmol/L, creatinine of 1.41 mg/dL, and platelet count of 85 x 10^3/µL indicate severe metabolic derangements and organ dysfunction, consistent with sepsis or septic shock. Elevated WBC (28,000 cells/µL) and CRP (86.1 mg/L) support an infectious etiology.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Sepsis secondary to lung cancer with metabolic alkalosis",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "High",
+        "recommended_empiric_antibiotic": "Ceftriaxone, Piperacillin-tazobactam",
+        "hospitalization_requirement": "Yes - The patient requires immediate hospital admission for sepsis management and monitoring.",
+        "icu_requirement": "Yes - Given the high risk of septic shock and critical organ dysfunction, ICU care is necessary to manage hemodynamic instability and provide advanced life support.",
+        "clinical_risk_assessment": "The patient has a very high mortality risk due to severe sepsis with multiple organ dysfunctions. Immediate intervention is crucial."
+    },
+    {
+        "admission_no": "7575901",
+        "step_by_step_analysis": "The patient's lactate level of 3.52 mmol/L and SpO2 of 87% indicate tissue hypoperfusion and respiratory compromise, respectively. Elevated CRP (257.7 mg/L) suggests an acute inflammatory response likely due to infection.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Sepsis",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "High",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics (e.g., vancomycin, piperacillin-tazobactam or ceftriaxone)",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for close monitoring and management of sepsis.",
+        "icu_requirement": "Yes - Given the high risk of septic shock and the need for continuous monitoring, ICU care is necessary.",
+        "clinical_risk_assessment": "The patient has a high clinical risk due to advanced age, elevated lactate levels, hypoxemia, and signs of systemic inflammation. Immediate intervention is critical to prevent further organ dysfunction."
+    },
+    {
+        "admission_no": "7576684",
+        "step_by_step_analysis": "The patient's elevated lactate and creatinine levels indicate potential tissue hypoperfusion and organ dysfunction, consistent with sepsis. The high CRP level supports an inflammatory response likely due to infection.",
+        "possible_infection_focus": "Undetermined",
+        "possible_preliminary_diagnosis": "Sepsis",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Moderate",
+        "recommended_empiric_antibiotic": "Ceftriaxone + Metronidazole",
+        "hospitalization_requirement": "Yes, the patient requires hospitalization for close monitoring and treatment of sepsis.",
+        "icu_requirement": "No, while there is a risk of progression to septic shock, current vital signs are stable without evidence of hypotension or organ failure necessitating ICU care.",
+        "clinical_risk_assessment": "The patient has a high clinical risk due to the presence of sepsis and underlying diabetes mellitus. Close monitoring and timely intervention are crucial to prevent deterioration."
+    },
+    {
+        "admission_no": "7577755",
+        "step_by_step_analysis": "The patient's elevated CRP and WBC levels suggest an inflammatory response, possibly due to infection. However, the absence of hypotension (systolic BP >100 mmHg), normal lactate level (unknown but not dangerously high based on other vitals), stable vital signs, and no clear evidence of severe sepsis or septic shock criteria indicate a lower risk for these conditions.",
+        "possible_infection_focus": "Urinary",
+        "possible_preliminary_diagnosis": "Suspected urinary tract infection with elevated CRP",
+        "sepsis_risk": "Low",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Ceftriaxone",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for further evaluation and management of suspected urinary sepsis.",
+        "icu_requirement": "No - Vital signs are stable, no evidence of severe sepsis or shock.",
+        "clinical_risk_assessment": "The overall risk is low to moderate. Continuous monitoring and appropriate antibiotic therapy will be necessary to manage the patient's condition."
+    },
+    {
+        "admission_no": "7579405",
+        "step_by_step_analysis": "The patient's elevated WBC count and CRP levels, along with flank pain, suggest a high risk of urosepsis. Vital signs are stable without hypotension or respiratory distress.",
+        "possible_infection_focus": "Urinary",
+        "possible_preliminary_diagnosis": "Sepsis (suspected urosepsis)",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Ceftriaxone and Metronidazole",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for close monitoring, IV antibiotics, and further diagnostic workup.",
+        "icu_requirement": "No - While the risk of progression to septic shock is low given current stability, ICU level care is not indicated at this time.",
+        "clinical_risk_assessment": "The patient has a high clinical risk due to suspected urosepsis but stable vital signs. Close monitoring and prompt intervention are necessary to prevent deterioration."
+    },
+    {
+        "admission_no": "7579548",
+        "step_by_step_analysis": "The patient's SpO2 is below the threshold of 92%, indicating hypoxemia. Elevated CRP and WBC count suggest an inflammatory response to infection, consistent with sepsis risk. The chest CT findings are indicative of pneumonia or interstitial lung disease, which could be the source of infection.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Sepsis secondary to likely pneumonia",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Ceftriaxone, Azithromycin or Levofloxacin",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for close monitoring and treatment of suspected sepsis.",
+        "icu_requirement": "No - While the patient is at risk for progression to septic shock, current vital signs do not meet criteria for ICU level care.",
+        "clinical_risk_assessment": "The patient has a high clinical risk due to multiple comorbidities and evidence of systemic infection. Close monitoring and timely intervention are critical."
+    },
+    {
+        "admission_no": "7579563",
+        "step_by_step_analysis": "The patient's lactate level of 2.43 mmol/L and SpO2 of 78% indicate tissue hypoperfusion and respiratory compromise, respectively. These findings are consistent with sepsis criteria as per the guidelines. The elevated creatinine suggests acute kidney injury, further supporting severe organ dysfunction.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Sepsis secondary to an undetermined source of infection",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "High",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics (e.g., piperacillin-tazobactam, ceftriaxone + metronidazole)",
+        "hospitalization_requirement": "Yes - The patient requires immediate hospital admission for sepsis management and monitoring.",
+        "icu_requirement": "Yes - Given the high risk of septic shock and organ dysfunction, ICU care is necessary to manage hemodynamic instability and provide advanced respiratory support.",
+        "clinical_risk_assessment": "The patient has a high clinical risk due to confirmed signs of sepsis with potential progression to septic shock. Immediate intervention is critical to prevent further deterioration."
+    },
+    {
+        "admission_no": "7579738",
+        "step_by_step_analysis": "The patient's lactate level is elevated at 2.5 mmol/L, indicating significant tissue hypoperfusion and metabolic acidosis. Elevated WBC suggests an inflammatory response possibly due to infection. The patient meets SIRS criteria with fever (38.1°C) and tachycardia (130 bpm). Blood pressure is on the lower end at 103/62 mmHg, which could indicate early signs of hypotension.",
+        "possible_infection_focus": "Undetermined",
+        "possible_preliminary_diagnosis": "Sepsis and/or Diabetic Ketoacidosis (DKA)",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Moderate",
+        "recommended_empiric_antibiotic": "Piperacillin-tazobactam or Vancomycin + Ceftriaxone",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for close monitoring, fluid resuscitation, and antibiotic therapy.",
+        "icu_requirement": "No - While the patient is critically ill, there are no immediate signs of severe organ dysfunction necessitating ICU care at this time. However, continuous monitoring and reassessment are essential.",
+        "clinical_risk_assessment": "The patient has a high risk for clinical deterioration due to suspected sepsis and metabolic acidosis from DKA. Immediate intervention is necessary to prevent progression to more severe conditions."
+    },
+    {
+        "admission_no": "7582259",
+        "step_by_step_analysis": "The patient's SpO2 level of 83% is below the danger threshold, indicating hypoxemia. Elevated CRP (27.2 mg/L) suggests inflammation or infection. The respiratory rate and heart rate are also elevated, consistent with SIRS criteria. Given the history of cancer and dyspnea for one week, there is a significant risk of sepsis.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Sepsis",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Piperacillin-tazobactam or Ceftriaxone + Metronidazole",
+        "hospitalization_requirement": "Yes - The patient requires close monitoring and treatment for sepsis.",
+        "icu_requirement": "No - While the risk of progression to septic shock is low, continuous monitoring in a general ward is sufficient at this stage.",
+        "clinical_risk_assessment": "The patient has a high clinical risk due to potential sepsis. Immediate intervention and close monitoring are essential."
+    }
+]

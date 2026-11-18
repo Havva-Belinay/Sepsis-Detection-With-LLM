@@ -1,0 +1,122 @@
+[
+    {
+        "admission_no": "7573990",
+        "step_by_step_analysis": "The patient has a high lactate level (5.82 mmol/L) indicating metabolic stress or cellular dysfunction, and platelet count is low (97 x10^3/uL). The SpO2 is slightly compromised at 91%, crossing the threshold for respiratory compromise but not critically low (<90%). There are no signs of altered mental status or hypotension. Elevated procalcitonin (6.17) and CRP (98.4) suggest a significant inflammatory response, likely due to infection.",
+        "possible_infection_focus": "Undetermined",
+        "possible_preliminary_diagnosis": "Diabetic Ketoacidosis (DKA)",
+        "sepsis_classification": "Yes",
+        "septik_shock_risk": "High",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission due to high lactate levels, elevated inflammatory markers, and possible DKA.",
+        "icu_requirement": "Yes - Automatically indicated due to critical clinical threshold: Lactate > 4.0 (5.82 mmol/L) | Septic Shock risk is Moderate/High",
+        "clinical_risk_assessment": "The patient's condition is critical with a significant risk of deterioration due to metabolic derangement and potential infection. Immediate intervention is necessary."
+    },
+    {
+        "admission_no": "7574288",
+        "step_by_step_analysis": "The patient has a high lactate level (9.53 mmol/L), indicating severe metabolic derangement, and elevated CRP (86.1 mg/dL) suggesting an inflammatory response. The patient's history includes lung cancer and recent surgery, which increases the risk of infection. Elevated WBC count (28000/mm³) further supports a potential infectious etiology despite normal procalcitonin levels.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Pneumonia",
+        "sepsis_classification": "Yes",
+        "septik_shock_risk": "High",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics (e.g., Piperacillin-Tazobactam)",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission due to severe metabolic derangement, elevated inflammatory markers, and potential respiratory infection.",
+        "icu_requirement": "Yes - Automatically indicated due to critical clinical threshold: Lactate > 4.0 (9.53 mmol/L) | Septic Shock risk is Moderate/High",
+        "clinical_risk_assessment": "The patient has a significant risk of mortality due to severe metabolic acidosis, elevated inflammatory markers, and potential respiratory infection complicating their history of lung cancer."
+    },
+    {
+        "admission_no": "7575901",
+        "step_by_step_analysis": "The patient has a low SpO2 of 87%, which indicates respiratory compromise. The lactate level is elevated at 3.52 mmol/L, indicating metabolic derangement. There are no signs of altered mental status or hypotension.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Pneumonia",
+        "sepsis_classification": "Yes",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Ceftriaxone",
+        "hospitalization_requirement": "Yes - The patient has elevated lactate and low SpO2, indicating potential sepsis.",
+        "icu_requirement": "Yes - Automatically indicated due to critical clinical threshold: SpO2 < 90% (87.0%)",
+        "clinical_risk_assessment": "The patient has a moderate risk of deterioration due to elevated lactate and respiratory compromise. Close monitoring in the hospital setting is warranted."
+    },
+    {
+        "admission_no": "7576684",
+        "step_by_step_analysis": "The patient has a high lactate level (2.42 mmol/L) and elevated creatinine (1.43 mg/dL), indicating potential organ dysfunction. The patient also presents with tachycardia, which is consistent with the Sepsis-3 criteria for qSOFA score. However, there are no signs of altered mental status or hypotension.",
+        "possible_infection_focus": "Undetermined",
+        "possible_preliminary_diagnosis": "Diabetic Ketoacidosis (DKA) or Urinary Tract Infection (UTI)",
+        "sepsis_classification": "Yes",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics (Auto-assigned due to Sepsis Diagnosis)",
+        "hospitalization_requirement": "Yes - The patient has elevated biomarkers and organ dysfunction, requiring close monitoring.",
+        "icu_requirement": "No - While the patient meets criteria for sepsis, there is no evidence of fluid-resistant hypotension or lactate >4 mmol/L necessitating ICU admission.",
+        "clinical_risk_assessment": "The patient has a moderate risk of deterioration due to metabolic derangement and organ dysfunction. Close monitoring in hospital is essential."
+    },
+    {
+        "admission_no": "7577755",
+        "step_by_step_analysis": "The patient's vital signs indicate tachycardia (pulse of 114 bpm) and a slightly elevated white blood cell count, which could suggest an inflammatory response. However, the patient does not meet any qSOFA criteria as their systolic BP is >100 mmHg, GCS score is normal at 15, and respiratory rate is within normal limits (16 breaths/min). The procalcitonin level of 0.575 suggests a low-grade infection but does not meet the threshold for high suspicion of sepsis.",
+        "possible_infection_focus": "Urinary",
+        "possible_preliminary_diagnosis": "UTI",
+        "sepsis_classification": "No",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "None",
+        "hospitalization_requirement": "Yes - The patient's symptoms and medical history suggest a urinary tract infection, which requires treatment. Additionally, the presence of flank pain warrants further investigation.",
+        "icu_requirement": "No - No criteria for septic shock or severe organ dysfunction are met.",
+        "clinical_risk_assessment": "The risk is low to moderate due to potential UTI and tachycardia. However, without definitive evidence of infection or organ failure beyond the urinary system, hospitalization allows for proper diagnosis and treatment."
+    },
+    {
+        "admission_no": "7579405",
+        "step_by_step_analysis": "The patient's vital signs are within normal limits, with no evidence of hypotension or tachycardia. The respiratory rate is also within the normal range and SpO2 is at 98%, indicating adequate oxygenation. However, the CRP level is significantly elevated (259.07 mg/L), which suggests a strong inflammatory response possibly due to infection. Despite this, there are no clear signs of organ dysfunction based on the provided data.",
+        "possible_infection_focus": "Urinary",
+        "possible_preliminary_diagnosis": "UTI/Pyelonephritis",
+        "sepsis_classification": "No",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Fluoroquinolones",
+        "hospitalization_requirement": "Yes - The patient has a significant inflammatory response and suspected urinary tract infection, requiring further evaluation and treatment.",
+        "icu_requirement": "No - No evidence of severe organ dysfunction or hypotension that would necessitate ICU care.",
+        "clinical_risk_assessment": "The risk is moderate due to the elevated CRP level indicating an active inflammatory process. However, without clear signs of sepsis or shock, hospitalization with close monitoring and appropriate antibiotic therapy should be sufficient."
+    },
+    {
+        "admission_no": "7579548",
+        "step_by_step_analysis": "The patient has a respiratory rate within normal range, no altered mental status, and systolic blood pressure above the threshold for qSOFA criteria. However, SpO2 is below 92%, indicating potential respiratory compromise. The lactate level is slightly elevated but not critically high (>2 mmol/L). Elevated CRP suggests inflammation or infection.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Community-acquired pneumonia, possibly related to recent angioplasty and known comorbidities (COPD, diabetes, heart failure)",
+        "sepsis_classification": "Yes",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Fluoroquinolones or a combination of Ampicillin-Sulbactam and Aztreonam",
+        "hospitalization_requirement": "Yes - The patient has multiple comorbidities, elevated inflammatory markers, and signs of respiratory compromise necessitating close monitoring.",
+        "icu_requirement": "Yes - Automatically indicated due to critical clinical threshold: SpO2 < 90% (88.0%)",
+        "clinical_risk_assessment": "The patient has a high risk of clinical deterioration due to multiple comorbidities and signs of respiratory compromise. Close monitoring and appropriate antibiotic therapy are crucial."
+    },
+    {
+        "admission_no": "7579563",
+        "step_by_step_analysis": "The patient has a high lactate level (2.43 mmol/L) and low SpO2 (78%). These indicate metabolic derangement and respiratory compromise, respectively. The patient's history includes diabetes mellitus, which raises suspicion for diabetic ketoacidosis (DKA). However, the presence of elevated CRP (91.4 mg/dL) suggests an inflammatory response that could be due to infection.",
+        "possible_infection_focus": "Urinary",
+        "possible_preliminary_diagnosis": "Cystitis/UTI",
+        "sepsis_classification": "Yes",
+        "septik_shock_risk": "Moderate",
+        "recommended_empiric_antibiotic": "Fluoroquinolones",
+        "hospitalization_requirement": "Yes - The patient requires hospitalization for further evaluation and management of suspected sepsis.",
+        "icu_requirement": "Yes - Automatically indicated due to critical clinical threshold: SpO2 < 90% (78.0%) | Septic Shock risk is Moderate/High",
+        "clinical_risk_assessment": "The patient's condition is concerning due to metabolic derangement and respiratory compromise. The presence of elevated inflammatory markers suggests an active infection, increasing the likelihood of progression to severe sepsis or septic shock."
+    },
+    {
+        "admission_no": "7579738",
+        "step_by_step_analysis": "The patient has a high lactate level (2.5 mmol/L) indicating metabolic derangement, fever (38.1°C), tachycardia (pulse of 130 bpm), and hypotension (BP 103/62). These signs suggest possible infection or non-infectious causes like diabetic ketoacidosis (DKA). However, the patient's history includes diabetes mellitus, which aligns with DKA suspicion. The lactate level is elevated but not critically high (>4 mmol/L), and there are no specific respiratory symptoms to indicate a primary respiratory cause.",
+        "possible_infection_focus": "Undetermined",
+        "possible_preliminary_diagnosis": "Diabetic Ketoacidosis (DKA)",
+        "sepsis_classification": "No",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "None",
+        "hospitalization_requirement": "Yes - The patient requires close monitoring and management of DKA.",
+        "icu_requirement": "No - No critical organ dysfunction or severe hypoxemia requiring ICU level care.",
+        "clinical_risk_assessment": "The risk is moderate due to the presence of metabolic derangement (DKA) and potential for rapid deterioration if not managed properly."
+    },
+    {
+        "admission_no": "7582259",
+        "step_by_step_analysis": "The patient has a respiratory rate of 22 breaths per minute and an SpO2 of 83%, indicating hypoxemia. The CRP level is elevated at 27.2, suggesting inflammation or infection.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Pneumonia",
+        "sepsis_classification": "Yes",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Fluoroquinolones",
+        "hospitalization_requirement": "Yes - The patient has signs of respiratory distress and elevated inflammatory markers, requiring close monitoring and treatment.",
+        "icu_requirement": "Yes - Automatically indicated due to critical clinical threshold: SpO2 < 90% (83.0%)",
+        "clinical_risk_assessment": "The patient's risk is moderate due to respiratory compromise and potential infection. Close follow-up and appropriate antibiotic therapy are essential."
+    }
+]

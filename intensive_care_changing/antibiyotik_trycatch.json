@@ -1,0 +1,122 @@
+[
+    {
+        "admission_no": "7573990",
+        "step_by_step_analysis": "The patient has a high lactate level (5.82 mmol/L) indicating metabolic stress or cellular dysfunction, and critically low platelets (97 x10^3/uL). The SpO2 is slightly compromised at 91%, crossing the threshold for respiratory compromise but not critical ICU levels. There are no signs of altered mental status or hypotension, though the patient's heart rate is elevated (113 bpm) and WBC count is normal.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Pneumonia",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Moderate",
+        "recommended_empiric_antibiotic": "Ceftriaxone",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for further evaluation and management of suspected sepsis.",
+        "icu_requirement": "Yes - Automatically indicated due to critical clinical threshold: Lactate > 4.0 (5.82 mmol/L) | Septic Shock risk is Moderate/High",
+        "clinical_risk_assessment": "The patient has a significant risk for deterioration due to metabolic derangement and potential infection. Close monitoring and prompt intervention are necessary."
+    },
+    {
+        "admission_no": "7574288",
+        "step_by_step_analysis": "The patient has a high lactate level (9.53 mmol/L), indicating severe tissue hypoxia and metabolic derangement, which is critical for sepsis evaluation. The CRP value of 86.1 suggests significant inflammation, supporting the presence of infection despite normal temperature. Elevated WBC count (28000) further supports this suspicion. Platelets are critically low at 85 x10^3/uL, indicating potential disseminated intravascular coagulation (DIC). The patient's history includes recent lung cancer surgery and a known poor prognosis condition.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Pneumonia",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Moderate",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics (e.g., Piperacillin-Tazobactam)",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for close monitoring, supportive care, and targeted antibiotic therapy.",
+        "icu_requirement": "Yes - Automatically indicated due to critical clinical threshold: Lactate > 4.0 (9.53 mmol/L) | Septic Shock risk is Moderate/High",
+        "clinical_risk_assessment": "The patient has a high risk of mortality due to sepsis-induced organ dysfunction, particularly cardiovascular and respiratory compromise, necessitating urgent intervention."
+    },
+    {
+        "admission_no": "7575901",
+        "step_by_step_analysis": "The patient has a low SpO2 of 87%, which indicates respiratory compromise. The lactate level is elevated at 3.52 mmol/L, indicating metabolic derangement and potential tissue hypoxia. Elevated CRP (257.7) suggests an inflammatory response, likely due to infection given the patient's age and comorbid risk factors.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Community-acquired pneumonia",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Ceftriaxone",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for further evaluation and management of suspected sepsis.",
+        "icu_requirement": "Yes - Automatically indicated due to critical clinical threshold: SpO2 < 90% (87.0%)",
+        "clinical_risk_assessment": "The patient has significant clinical risk factors including age, elevated lactate and CRP levels, respiratory compromise, and potential infection focus. The risk of mortality or severe organ dysfunction is moderate to high."
+    },
+    {
+        "admission_no": "7576684",
+        "step_by_step_analysis": "The patient has a high lactate level (2.42 mmol/L) and elevated creatinine (1.43 mg/dL), indicating potential organ dysfunction. The patient's GCS is normal, but the presence of hyperlactatemia suggests metabolic derangement possibly due to infection or non-infectious causes like DKA given their history of diabetes.",
+        "possible_infection_focus": "Undetermined",
+        "possible_preliminary_diagnosis": "Diabetic Ketoacidosis (DKA) or Infection (e.g., UTI)",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics (Auto-assigned due to Moderate/High Sepsis Risk)",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for further evaluation and management of potential DKA or infection.",
+        "icu_requirement": "No - While the patient has elevated lactate, there is no evidence of fluid-resistant hypotension or severe organ dysfunction necessitating ICU care at this time.",
+        "clinical_risk_assessment": "The patient's risk for deterioration is high due to metabolic derangement and potential infection. Close monitoring and prompt intervention are necessary."
+    },
+    {
+        "admission_no": "7577755",
+        "step_by_step_analysis": "The patient's vital signs indicate tachycardia (pulse of 114 bpm) and a slightly low temperature (36.5°C). The respiratory rate is within normal limits, but the SpO2 is at 94%, which is just below optimal levels. There are no signs of altered mental status or hypotension. Laboratory results show elevated CRP and procalcitonin levels, suggesting an inflammatory response possibly due to infection. However, WBC count is not significantly high, and platelet count is normal.",
+        "possible_infection_focus": "Urinary",
+        "possible_preliminary_diagnosis": "UTI",
+        "sepsis_risk": "Moderate",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Fluoroquinolones",
+        "hospitalization_requirement": "Yes - The patient's elevated inflammatory markers and clinical suspicion of urinary tract infection warrant hospital admission for further evaluation and treatment.",
+        "icu_requirement": "No - While the patient has some signs that could indicate a systemic response to an infection, there are no critical vital sign abnormalities or lactate levels indicating severe sepsis or septic shock requiring ICU care at this time.",
+        "clinical_risk_assessment": "The patient is at moderate risk for progression to sepsis due to elevated inflammatory markers and clinical suspicion of urinary tract infection. Close monitoring and timely intervention are necessary."
+    },
+    {
+        "admission_no": "7579405",
+        "step_by_step_analysis": "The patient's vital signs are within normal limits, with a GCS of 15 indicating no altered mental status. The respiratory rate is low at 16 breaths per minute and SpO2 is 98%, suggesting adequate oxygenation. Blood pressure is also within the normal range (128/83 mmHg). However, the patient has a high white blood cell count of 18,860/mm³ and elevated CRP levels at 259.07 mg/L, which are indicative of inflammation or infection. The absence of fever does not rule out an infectious process given the clinical suspicion for urosepsis.",
+        "possible_infection_focus": "Urinary",
+        "possible_preliminary_diagnosis": "Urosepsis",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Fluoroquinolones",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for further evaluation and management of suspected urosepsis.",
+        "icu_requirement": "No - While the patient does not meet criteria for septic shock, close monitoring in a general ward is recommended due to high suspicion of infection.",
+        "clinical_risk_assessment": "The patient has significant risk factors for progression to severe sepsis or organ dysfunction given the elevated inflammatory markers and clinical signs suggestive of urosepsis. Close monitoring and prompt antibiotic therapy are essential."
+    },
+    {
+        "admission_no": "7579548",
+        "step_by_step_analysis": "The patient's SpO2 is below the normal range (88%) and lactate levels are slightly elevated but within the non-critical range. The CRP level is significantly high, indicating a strong inflammatory response which could be due to infection or other causes like heart failure exacerbation.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Community-acquired pneumonia",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Ceftriaxone",
+        "hospitalization_requirement": "Yes - The patient has a high sepsis risk and requires close monitoring and treatment.",
+        "icu_requirement": "Yes - Automatically indicated due to critical clinical threshold: SpO2 < 90% (88.0%)",
+        "clinical_risk_assessment": "The patient has a high risk of clinical deterioration due to potential infection and underlying comorbidities."
+    },
+    {
+        "admission_no": "7579563",
+        "step_by_step_analysis": "The patient has a lactate level of 2.43 mmol/L, indicating metabolic derangement and potential organ dysfunction. The SpO2 is 78%, which falls below the threshold for respiratory compromise (92%). Elevated CRP at 91.4 suggests an inflammatory response, possibly due to infection or other causes like heart failure or diabetes complications.",
+        "possible_infection_focus": "Urinary",
+        "possible_preliminary_diagnosis": "Cystitis/UTI",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Fluoroquinolones",
+        "hospitalization_requirement": "Yes - The patient's elevated lactate and low SpO2 indicate potential organ dysfunction, necessitating close monitoring and treatment.",
+        "icu_requirement": "Yes - Automatically indicated due to critical clinical threshold: SpO2 < 90% (78.0%)",
+        "clinical_risk_assessment": "The patient is at moderate risk of clinical deterioration due to metabolic and respiratory issues. Close monitoring and appropriate treatment are essential."
+    },
+    {
+        "admission_no": "7579738",
+        "step_by_step_analysis": "The patient has a high heart rate (130 bpm), fever (temperature of 38.1°C), and elevated lactate levels (>2 mmol/L). These findings suggest an acute inflammatory response, possibly due to infection given the presence of ketone breath and metabolic derangement in a diabetic patient.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Diabetic Ketoacidosis (DKA) with possible respiratory infection",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Moderate",
+        "recommended_empiric_antibiotic": "Penicillin-type antibiotic",
+        "hospitalization_requirement": "Yes, due to high sepsis risk and metabolic derangement.",
+        "icu_requirement": "Yes - Automatically indicated due to critical clinical threshold: Septic Shock risk is Moderate/High",
+        "clinical_risk_assessment": "The patient has a significant risk of deterioration given the high heart rate, fever, and hyperlactatemia. Immediate intervention for metabolic derangement and potential infection is necessary."
+    },
+    {
+        "admission_no": "7582259",
+        "step_by_step_analysis": "The patient has a respiratory rate of 22 breaths per minute, SpO2 of 83%, and systolic blood pressure of 109 mmHg. These indicate respiratory compromise and hypoxemia but not fluid-resistant hypotension or lactate >2mmol/L.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Pneumonia",
+        "sepsis_risk": "Moderate",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Fluoroquinolones",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for further evaluation and management of respiratory distress, hypoxemia, and elevated inflammatory markers.",
+        "icu_requirement": "Yes - Automatically indicated due to critical clinical threshold: SpO2 < 90% (83.0%)",
+        "clinical_risk_assessment": "The patient's condition suggests a moderate risk for sepsis due to respiratory symptoms and elevated inflammatory markers. However, the absence of severe hemodynamic compromise reduces the immediate risk of progression to septic shock."
+    }
+]

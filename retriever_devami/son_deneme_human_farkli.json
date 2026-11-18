@@ -1,0 +1,122 @@
+[
+    {
+        "admission_no": "7573990",
+        "step_by_step_analysis": "The patient has elevated lactate and procalcitonin levels, indicating a severe infection. The low platelet count and high CRP suggest an inflammatory response. SpO2 is slightly below normal, and the respiratory rate is within normal limits.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Sepsis due to suspected pneumonia or other respiratory infection",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Moderate",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics (e.g., piperacillin-tazobactam, ceftriaxone + metronidazole)",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for further evaluation and management of suspected sepsis.",
+        "icu_requirement": "No - While the patient has moderate risk for septic shock, current vital signs do not indicate immediate ICU level care is necessary.",
+        "clinical_risk_assessment": "The patient's high lactate levels and elevated inflammatory markers suggest a significant risk of deterioration. Close monitoring and prompt intervention are essential."
+    },
+    {
+        "admission_no": "7574288",
+        "step_by_step_analysis": "The patient has elevated lactate, creatinine, and CRP levels indicating organ dysfunction. The high lactate level suggests metabolic derangement possibly due to infection or other causes like hypoperfusion. Elevated inflammatory markers (CRP) strongly suggest an active infection despite the absence of fever.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Sepsis secondary to lung cancer-related pneumonia",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Broad-spectrum antibiotics (e.g., piperacillin-tazobactam)",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for further evaluation and management of sepsis.",
+        "icu_requirement": "No - While the patient has high sepsis risk, there is no evidence of shock requiring ICU level care at this time.",
+        "clinical_risk_assessment": "The patient's condition is critical with significant organ dysfunction. Immediate intervention is necessary to prevent further deterioration."
+    },
+    {
+        "admission_no": "7575901",
+        "step_by_step_analysis": "The patient has elevated lactate and low SpO2, indicating potential organ dysfunction. CRP is highly elevated, strongly suggesting an active infection despite the absence of fever.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Sepsis due to suspected respiratory infection",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Ceftriaxone and Azithromycin",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for further evaluation, monitoring, and treatment of suspected sepsis.",
+        "icu_requirement": "No - While the patient has high sepsis risk, there is no evidence of shock requiring ICU level care at this time.",
+        "clinical_risk_assessment": "The patient's overall mortality/deterioration risk is elevated due to advanced age and multiple potential comorbidities in addition to signs of organ dysfunction."
+    },
+    {
+        "admission_no": "7576684",
+        "step_by_step_analysis": "The patient has elevated lactate and creatinine levels, indicating organ dysfunction. The CRP and procalcitonin values are significantly high, strongly suggesting an active infection despite the absence of fever.",
+        "possible_infection_focus": "Urinary",
+        "possible_preliminary_diagnosis": "Sepsis due to possible urinary tract infection (UTI)",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Ceftriaxone and Gentamicin",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for further evaluation, management of sepsis, and administration of antibiotics.",
+        "icu_requirement": "No - While the patient has organ dysfunction indicative of sepsis, they do not meet criteria for ICU level care at this time as there is no evidence of shock or severe respiratory compromise.",
+        "clinical_risk_assessment": "The patient's high lactate and creatinine levels coupled with elevated inflammatory markers indicate significant risk for clinical deterioration. Immediate intervention is necessary to prevent progression to septic shock."
+    },
+    {
+        "admission_no": "7577755",
+        "step_by_step_analysis": "The patient has a high procalcitonin level indicating an active infection. The respiratory rate, blood pressure, SpO2, and GCS are within normal ranges. However, the pulse is elevated at 114 bpm, which could indicate systemic inflammation or infection.",
+        "possible_infection_focus": "Urinary",
+        "possible_preliminary_diagnosis": "Suspected Urinary Tract Infection (UTI) with potential for sepsis",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Fluoroquinolones or Aminoglycosides",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for further evaluation and treatment of suspected UTI with potential sepsis.",
+        "icu_requirement": "No - While the risk of sepsis is high, there are no signs of shock at this time.",
+        "clinical_risk_assessment": "The patient has a significant risk of progression to severe sepsis or septic shock due to elevated inflammatory markers and suspected urinary source of infection."
+    },
+    {
+        "admission_no": "7579405",
+        "step_by_step_analysis": "The patient has a high CRP level indicating inflammation, but no fever or other overt signs of sepsis. The systolic blood pressure is within normal range and there are no abnormalities in respiratory rate, SpO2, GCS, platelets, or creatinine levels.",
+        "possible_infection_focus": "Urinary",
+        "possible_preliminary_diagnosis": "Suspected Urinary Tract Infection (UTI) with potential for sepsis",
+        "sepsis_risk": "Moderate",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Fluoroquinolones or a combination of Ampicillin/Sulbactam",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for further evaluation and treatment of suspected urinary sepsis.",
+        "icu_requirement": "No - While the risk is moderate, there are no signs of severe organ dysfunction or shock at this time.",
+        "clinical_risk_assessment": "The patient has a significant inflammatory response with potential for progression to sepsis. Close monitoring and prompt intervention are necessary."
+    },
+    {
+        "admission_no": "7579548",
+        "step_by_step_analysis": "The patient has elevated CRP and procalcitonin levels, indicating an active infection. The SpO2 is below normal (88%), suggesting respiratory compromise. There are no signs of altered mental status or hypotension based on the qSOFA criteria.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Pneumonia",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Ceftriaxone and Azithromycin",
+        "hospitalization_requirement": "Yes - The patient has signs of infection with organ dysfunction (elevated CRP, procalcitonin, low SpO2) requiring hospital care.",
+        "icu_requirement": "No - While the patient shows signs of sepsis, there is no evidence of shock or severe hypotension necessitating ICU admission.",
+        "clinical_risk_assessment": "The patient has a high risk for clinical deterioration due to infection and organ dysfunction. Close monitoring and prompt antibiotic therapy are essential."
+    },
+    {
+        "admission_no": "7579563",
+        "step_by_step_analysis": "The patient has elevated lactate and creatinine levels, indicating potential organ dysfunction. Low SpO2 suggests respiratory compromise. Elevated CRP indicates significant inflammation likely due to infection.",
+        "possible_infection_focus": "Urinary",
+        "possible_preliminary_diagnosis": "Sepsis secondary to urinary tract infection (UTI)",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Fluoroquinolones or Aminoglycosides",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for further evaluation and management of suspected sepsis.",
+        "icu_requirement": "No - While the patient has high risk for sepsis, there is no evidence of shock requiring ICU level care at this time.",
+        "clinical_risk_assessment": "The patient's overall mortality/deterioration risk is moderate to high due to advanced age and multiple comorbidities in conjunction with signs of organ dysfunction."
+    },
+    {
+        "admission_no": "7579738",
+        "step_by_step_analysis": "The patient has elevated lactate levels, which may indicate metabolic derangement such as diabetic ketoacidosis (DKA). The CRP is within normal range and there are no signs of altered mental status or hypotension requiring vasopressors. Elevated WBC does not necessarily imply infection given the low inflammatory markers.",
+        "possible_infection_focus": "N/A - Noninfectious",
+        "possible_preliminary_diagnosis": "Diabetic Ketoacidosis (DKA) with metabolic acidosis indicated by acetone breath and elevated lactate.",
+        "sepsis_risk": "Low",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "None - noninfectious",
+        "hospitalization_requirement": "Yes, due to the suspicion of DKA which requires close monitoring and management.",
+        "icu_requirement": "No, as there are no signs of septic shock or severe organ dysfunction.",
+        "clinical_risk_assessment": "The patient's risk is primarily related to metabolic derangement rather than infection. Close monitoring for progression of DKA is necessary."
+    },
+    {
+        "admission_no": "7582259",
+        "step_by_step_analysis": "The patient has a low SpO2 of 83% and elevated CRP, indicating potential respiratory compromise and inflammation. These findings suggest possible infection or sepsis.",
+        "possible_infection_focus": "Respiratory",
+        "possible_preliminary_diagnosis": "Community-acquired pneumonia",
+        "sepsis_risk": "High",
+        "septik_shock_risk": "Low",
+        "recommended_empiric_antibiotic": "Ceftriaxone and Azithromycin",
+        "hospitalization_requirement": "Yes - The patient requires hospital admission for further evaluation, treatment of suspected pneumonia, and monitoring.",
+        "icu_requirement": "No - While the patient has high sepsis risk, there is no evidence of shock or severe organ dysfunction necessitating ICU care at this time.",
+        "clinical_risk_assessment": "The patient's overall mortality/deterioration risk is moderate due to respiratory compromise and elevated inflammatory markers."
+    }
+]

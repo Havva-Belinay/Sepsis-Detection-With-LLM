@@ -1,0 +1,163 @@
+=== SEPSİS RİSK DEĞERLENDİRME SONUÇLARI (KILAVUZSUZ BASELINE) ===
+
+HASTA BAŞVURU NO: 7573990
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Nabız yüksek ve oksijen saturasyonu düşük (91%) olduğu gözlemlenmiştir. Bu durum, potansiyel bir inflamatuar reaksiyon veya yetmezliği ima eder. Glaskow Koma Skoru 15 ile normal kabul edilir ancak genel durum bozukluğu belirtildiği için dikkatli izleme gerekir.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Beyaz kan hücreleri ve nötrofil değerleri normale göre yüksek, trombosit sayısı düşük ve laktat seviyesi oldukça yüksektir. Bu bulgular, aktif bir inflamatuar reaksiyonun veya yetmezliği gösteriyor. Prokalsitonin ve CRP değerlerinin de yüksek olması, bu durumu desteklemektedir.
+
+RİSK DEĞERLENDİRMESİ:
+Hasta 68 yaşındaki bir diabetik paciente ile kritik laboratuvar bulguları (yüksek beyaz kan hücreleri, trombosit azalması, yüksek laktat ve prokalsitonin) gözlemlenmiştir. Bu durum sepsis riskini artırmaktadır.
+
+SONUÇ:
+Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7574288
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hasta 65 yaşındaki erkek ve genel durum iyi görünmektedir. Glaskow Koma Skoru maksimum değer olan 15 ile bilinçli ve normal bir durumu göstermektedir. Solunum, nabız ve tansiyon değerleri de normale yakın değerlere sahiptir.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Beyaz kan hücre sayısı (WBC) 7,6 olarak normal sınırların altındadır. Trombosit sayısı düşük (85.0), laktat seviyesi ise yüksek (9,53 mmol/L). Bu değerlerin özellikle laktat seviyesinin yüksek olması hastanın metabolik bir stres durumunda olduğunu gösteriyor. Prokalsitonin ve CRP değerleri de artmış durumdadır.
+
+RİSK DEĞERLENDİRMESİ:
+Hasta solunum sıkıntısı, yüksek laktat seviyesi ve artmış inflamatuar marjör proteinler (CRP) gibi belirtiler göstermektedir. Bu bulguların birlikte değerlendirildiği zaman hastanın sepsis riskini düşündürmektedir.
+
+SONUÇ:
+Orta
+============================================================
+
+HASTA BAŞVURU NO: 7575901
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hasta 88 yaşındaki bir kadın ve genel durumu istisnai olarak ciddidir. Solunum saturasyonu düşük (87%) ve beyin işlevi incelikle değerlendirilmektedir (Glaskow Koma Skoru: 15). Bu skor, hastanın bilinç düzeyinin normal sınırlar içinde olduğunu göstermektedir ancak solunum yeteneği ciddi şekilde etkilendiğini belirtmektedir.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Beyaz kan hücreleri (WBC) ve CRP seviyelerinin yüksek olması, inflamatuar bir durumu göstermektedir. Laktat seviyesi de 3.52 olarak oldukça yüksek, bu da metabolik stres veya oksijensizlik olasılığını artırmaktadır.
+
+RİSK DEĞERLENDİRMESİ:
+Hasta yaşlı ve kritik durumda olan bir hastadır. Laboratuvar sonuçları, özellikle beyaz kan hücreleri ve CRP seviyeleri yüksekken, laktat seviyesinin de yüksek olması, metabolik stres veya enfeksiyon olasılığını artırmaktadır. Solunum saturasyonu düşük ve genel durum ciddidir.
+
+SONUÇ:
+Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7576684
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Nabız (118/min) ve laktat seviyesi (2.42 mmol/L) artmış durumdadır, bu bulgular hastanın inflamatuar bir durumda olduğunu göstermektedir. Ancak, glükosa değerleri verilmediği için diyabetik komplikasyonları açısından değerlendirilemez.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Beyaz kan hücre sayısı (WBC) 15,86 x 10^9/L ve prokalsitonin seviyesi (32.4 ng/mL) artmış durumdadır. Bu değerler hastanın inflamatuar bir durumda olduğunu göstermektedir. Kreatinin seviyesi (1.43 mg/dL) de artmış olup böbrek işlevinde bir sorun olabileceği düşünülebilir.
+
+RİSK DEĞERLENDİRMESİ:
+Hastanın laboratuvar sonuçları ve hayati bulgular göz önüne alındığında, sepsis riski yüksek olarak değerlendirilmektedir. Özellikle beyaz kan hücre sayısının artması ve prokalsitonin seviyesinin yüksek olması bu değerlendirme için önemli faktörlerdir.
+
+SONUÇ:
+Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7577755
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Nabız (114) ve solunum hızı (16) değerleri normale göre yüksek, ancak glasgow koma skoru 15 ile tam bir consciouness durumu gösteriyor. Ateş 36.5 derece normal sınırlar içinde.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Beyaz kan hücreleri (WBC) ve prokalsitonin değerleri normale göre hafif artmış durumda, ancak bu değerler sepsis belirtilerini tam olarak göstermiyor. CRP değeri ise normal sınırların üstünde.
+
+RİSK DEĞERLENDİRMESİ:
+Hasta hem klinik bulguları hem de laboratuvar sonuçları açısından hafif bir炎症性语言应被过滤，以下是基于提供的患者信息进行的医学评估摘要：
+
+---
+
+**Hayatı Bulguların Analizi:**
+Nabız (114) ve solunum hızı (16) değerleri normale göre yüksek, ancak glasgow koma skoru 15 ile tam bir consciouness durumu gösteriyor. Ateş 36.5 derece normal sınırlar içinde.
+
+**Laboratuvar Sonuçlarının Analizi:**
+Beyaz kan hücreleri (WBC) ve prokalsitonin değerleri normale göre hafif artmış durumda, ancak bu değerler sepsis belirtilerini tam olarak göstermiyor. CRP değeri ise normal sınırların üstünde.
+
+**Risk Değerlendirmesi:**
+Hasta hem klinik bulguları hem de laboratuvar sonuçları açısından hafif bir endişe yaratıyor ancak sepsis riski düşük düzeydedir.
+
+**Sonuç:**
+Düşük
+============================================================
+
+HASTA BAŞVURU NO: 7579405
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hasta genel durumda iyi görünmektedir. Glaskow Koma Skoru 15 ile tam duyarlılık gösterdiği belirlenmiştir. Ateşi normal sınırlarda, solunum hızı ve oksijen saturasyonu da normale uygun bir şekilde yer almaktadır. Nabız hedef aralığının üstünde ancak stres veya ağrı nedeniyle artmış olabilir.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Beyaz kan hücreleri (WBC) abnormale yüksek seviyede, bu genellikle bir炎症性反应或感染的迹象。中性粒细胞（NE）也处于较高水平，这通常与细菌感染相关。然而，乳酸和Prokalsitonin值未提供，这些指标对于评估全身炎症反应和潜在的脓毒症至关重要。
+
+RİSK DEĞERLENDİRMESİ:
+Hasta için beyaz kan hücrelerinin yüksek seviyesi ve belirgin bir klinik bulgu olmamasına rağmen, laboratuvar sonuçları nötrofilin artışı ve beyaz kan hücresinin yüksek değerini göstermektedir. Bu durumda, potansiyel bir enfeksiyon riski olduğuna dikkat çekmek önemlidir ancak bu yeterli kanıt olarak kabul edilemez.
+
+SONUÇ:
+Orta
+============================================================
+
+HASTA BAŞVURU NO: 7579548
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hasta 79 yaşındaki bir erkek ve solunum saturasyonu (88%) düşük seviyede. Diğer hayati bulgular normale yakın veya normal aralıkta yer alıyor. Ancak, düşük oksijen saturasyonu ve yüksek beyaz kan hücreleri ile birlikte değerlendirildiğinde, potansiyel enfeksiyon riski göz önünde bulundurulmalıdır.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Beyaz kan hücresi (WBC) 8,80 ve nötrofil (NE) 8,61 değerleri normale göre yüksek. Kreatinin seviyesi 1,53 olarak yüksek bulunuyor, bu böbrek işlevinde bir sorun olduğunu gösteriyor olabilir. CRP değeri de 96,09 ve prokalsitonin 0,605 ile normalden yüksek. Bu değerler enfeksiyon veya inflamatuar durumları belirtiyor.
+
+RİSK DEĞERLENDİRMESİ:
+Hasta hem demografik özelliklere (yüksek yaş), hem de laboratuvar sonuçlarına dayanarak sepsis riski açısından dikkatli değerlendirilmelidir. Yüksek beyaz kan hücreleri, yüksek CRP ve prokalsitonin değerleri enfeksiyonun varlığını gösteriyor olabilir. Ancak, oksijon saturasyonu düşükken bu durum sepsis riskini artırıyor.
+
+SONUÇ:
+Orta
+============================================================
+
+HASTA BAŞVURU NO: 7579563
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hasta 83 yaşındaki bir erkek ve genel durum bozukluğu ile başvurmuştur. Solunum saturasyonu düşük (78%) ve kreatinin seviyesi yüksek (3,61 mg/dL) olup, bu bulgular akut böbrek yetmezliğine işaret edebilir. Glaskow Koma Skoru 15 ile bilinç durumu normal kabul edilebilir.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Beyaz kan hücre sayısı (WBC) normale yakındır ancak CRP yüksek seviyede (91,4 mg/L). Laktat değeri 2,43 mmol/L olarak artmış durumdadır ve bu akut organ yetmezliğine işaret edebilir. Kreatinin seviyesi de yüksek olup böbrek yetmezliği riskini gösteriyor.
+
+RİSK DEĞERLENDİRMESİ:
+Hasta 80 yaşından büyük, solunum saturasyonu düşük ve kreatinin seviyesi artmış durumdadır. Laboratuvar sonuçlarında laktat ve CRP değerlerinde artış var. Bu bulgular sepsis riskini artırıyor.
+
+SONUÇ:
+Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7579738
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Nabız ve solunum hızı değerleri normale göre yüksek, bu hastanın stres veya enfeksiyon durumunda olabileceği anlamına geliyor. Ateşi 38.1 derece olarak hafif bir febre var. Glaskow Koma Skoru tam değerlendirmesi verilmiş ve en iyi skorla 15 olduğu için akut beyin yetmezliği veya uyuşukluk gibi ciddi bulgular yok.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Beyaz kan hücreleri (WBC) normale göre yüksek, bu enfeksiyonun olabileceğini gösteriyor. Laktat değeri 2.5 olarak hafif bir metabolik asitozis var. CRP düşük olduğu için akut inflamatuar tepki düşük veya yok gibi değerlendirilebilir.
+
+RİSK DEĞERLENDİRMESİ:
+Hastanın febre, yüksek nabız ve laktat değerleri sepsis riskini artırmakta. Ancak beyaz kan hücrelerinin yüksek olması dışında diğer laboratuvar sonuçları sepsis için kritik değil gibi görünüyor.
+
+SONUÇ: 
+Orta
+============================================================
+
+HASTA BAŞVURU NO: 7582259
+----------------------------------------
+HAYATİ BULGULARIN ANALİZİ:
+Hasta 68 yaşındaki erkek ve solunum darlığı şikayeti ile başvurmuştur. Solunum hızı normale göre yüksek, oksijen saturasyonu düşük seviyede (83%). Nabız da hedef aralığın üstünde (134). Bu bulgular akut bir enfeksiyon veya yetmezliği belirtiyor olabilir.
+
+LABORATUVAR SONUÇLARININ ANALİZİ:
+Beyaz kan hücreleri normale göre yüksek, prokalsitonin de normal sınırların üstünde (0.103). Bu değerler enfeksiyonun varlığını göstermektedir. Ancak laktat seviyesi hedef aralığın içinde ve kreatinin de normal limitte yer alıyor.
+
+RİSK DEĞERLENDİRMESİ:
+Hasta solunum yetmezliği, yüksek nabız ve düşük oksijen saturasyonu bulguları ile prokalsitonin değerleri nedeniyle sepsis riskini taşıyor. Ancak laktat seviyesinin normale yakın olması bu riski azaltmaktadır.
+
+SONUÇ:
+Orta
+============================================================
+

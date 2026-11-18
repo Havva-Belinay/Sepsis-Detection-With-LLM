@@ -1,0 +1,170 @@
+=== SEPSİS RİSK DEĞERLENDİRME SONUÇLARI (RAG - KILAVUZ DESTEKLİ) ===
+
+HASTA BAŞVURU NO: 7573990
+----------------------------------------
+Hastanın hayati bulgularını değerlendirdiğimizde, ateş 37,0°C, nabız 113/dk, tansiyon 11/66 mmHg, solunum hızı 16/dk, oksijen saturasyonu 91%, glaskow koma skoru 15.0 (göz: 4.0, sözel: 5.0, motor: 6.0) ve glasgow konussu 15.0 olarak görülmektedir.
+
+Hastanın laboratuvar sonuçlarını değerlendirdiğimizde, beyaz kan hücresi (WBC) 9,67 hücre/mm3, trombosit (PLT) 97.0, nötrofil (NE) 9,22, kreatinin <0,17 mg/dL, laktat 5,82 mmol/L, prokalsitonin 6,17 ng/mL ve CRP 98.4 mg/L olarak görülmektedir.
+
+Hastanın kronik hastalıkları ve özelliklerini değerlendirdiğimizde, diyabet, tansiyon ve kalp yetmezliği gibi hastalıkların varlığı görülmektedir.
+
+Hastanın general sepsis riskini değerlendirdiğimizde, risk seviyesi orta olarak görülmektedir.
+============================================================
+
+HASTA BAŞVURU NO: 7574288
+----------------------------------------
+Hastanın hayati bulgularını değerlendirdiğimizde, aşağıdaki sonuçlar elde edilebilir:
+
+- Ateş: 36,5 (Yüksek)
+- Nabız: 88 (Orta)
+- Tansiyon: 128/83 (Yüksek)
+- Solunum Hızı: 16 (Düşük)
+- Oksijen Saturasyonu: 98 (Orta)
+- Glaskow Koma Skoru: Toplam 15.0 (Yüksek)
+
+Bu bulgular, hastanın solunum sikintisi ve glaskow koma skoru nedeniyle yüksek sepsis riski taşıyordu.
+
+Laboratuvar sonuçlarını değerlendirdiğimizde, aşağıdaki sonuçlar elde edilebilir:
+
+- Beyaz Kan Hücresi (WBC): 7,6 (Orta)
+- Trombosit (PLT): 85.0 (Düşük)
+- Nötrofil (NE): 38,43 (Yüksek)
+- Kreatinin: 1.41 (Orta)
+- Laktat: 9.53 (Yüksek)
+- Prokalsitonin: 0.222 (Orta)
+- CRP: 86.1 (Yüksek)
+
+Bu sonuçlar, hastanın solunum sikintisi ve sepsis riski nedeniyle yüksek laktat ve CRP değerleri ile trombosit düşüklüğü ve nötrofil yükselmesi gibi diğer bulguları içerir.
+
+Hastanın general sepsis riski, "Yüksek" olarak değerlendirlenebilir.
+============================================================
+
+HASTA BAŞVURU NO: 7575901
+----------------------------------------
+Hastanın hayati bulgularını değerlendirdiğimizde, ateş 36.8 derece, nabız 92, tansiyon 150/62, solunum hızı 16 ve oksijen saturasyonu 87 olarak görülmektedir.
+
+Laboratuvar sonuçlarını değerlendirdiğimizde, beyaz kan hücresi (WBC) 13.46, trombosit (PLT) 160.0, nötrofil (NE) 11.83, kreatinin 0.65 ve laktat 3.52 olarak görülmektedir.
+
+Hastanın kronik hastalıkları hakkında bilgi verilmediği için, risk derecesi orta seviyede olduğu düşünülmektedir.
+
+Sonuç olarak, hastanın hayati bulguları ve laboratuvar sonuçları, yüksek sepsis riski ile ilişkilendirilmektedir.
+============================================================
+
+HASTA BAŞVURU NO: 7576684
+----------------------------------------
+Hastanın hayati bulgularını değerlendirdiğimizde, ateş 36.5 derece, nabız 118, tansiyon 140/83, solunum hızı 16, oksijen saturasyonu 96 ve glaskow koma skoru toplam 15.0 (göz: 4.0, sözel: 5.0, motor: 6.0) olarak görülmektedir.
+
+Hastanın laboratuvar sonuçlarını değerlendirdiğimizde, beyaz kan hücresi (WBC) 15.86, trombosit (PLT) 214.0, nötrofil (NE) 13.69, kreatinin 1.43, laktat 2.42, prokalsitonin 32.4 ve CRP 108.08 olarak görülmektedir.
+
+Hastanın kronik hastalıkları ve özelliklerini değerlendirdiğimizde, diyabet varlığı, tansiyonun bilinmediği ve kalp yetmezliği, böbrek yetmezliği, kanser gibi hastalıkların yok olduğu görülmektedir.
+
+Bu nedenle, hastanın sepsis riski yüksek olarak değerlendirilmekte ve urgent tedavisine ihtiyaç duyulmaktadır.
+============================================================
+
+HASTA BAŞVURU NO: 7577755
+----------------------------------------
+Hastanın hayati bulgularını değerlendirdiğimizde, ateş 36.5 derece, nabız 114, tansiyon 120/73, solunum hızı 16 ve oksijen saturasyonu 94 olarak görülmektedir.
+
+Laboratuvar sonuçlarını değerlendirdiğimizde, beyaz kan hücresi (WBC) 9.27, trombosit (PLT) 996.0, nötrofil (NE) 8.07, kreatinin 0.68 ve CRP 9.5 olarak görülmektedir.
+
+Hastanın sepsis riski yüksek olarak değerlendirilmektedir.
+
+Sonuç: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7579405
+----------------------------------------
+Hastanın hayati bulgularını değerlendirdiğimde, aşağıdaki sonuçlar elde edildi:
+
+- Ateş: 36.5°C
+- Nabız: 88/dk
+- Tansiyon: 128/83 mmHg
+- Solunum Hızı: 16/dk
+- Oksijen Saturasyonu: 98%
+- Glaskow Koma Skoru: Toplam 15.0
+
+Bu bulgular, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, immediate antibiyotik tedavisi ve diğer support tedavilerinden önce, hastanın kontrolsüz emfl amatuvar yanıtı (SIRS) ve potansiyel bakteriyemi ile ilgili riskleri göz önünde bulundurulmalıdır.
+
+Laboratuvar sonuçlarını değerlendirdiğimde, aşağıdaki sonuçlar elde edildi:
+
+- Beyaz Kan Hücresi (WBC): 18.86
+- Trombosit (PLT): 493.0
+- Nötrofil (NE): 16.13
+- Kreatinin: 0.77
+- Laktat: Bilinmiyor
+- Prokalsitonin: Bilinmiyor
+- CRP: 259.07
+
+Bu sonuçlar, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, immediate antibiyotik tedavisi ve diğer support tedavilerinden önce, hastanın kontrolsüz emfl amatuvar yanıtı (SIRS) ve potansiyel bakteriyemi ile ilgili riskleri göz önünde bulundurulmalıdır.
+
+Hastanın kronik hastalıkları ve özelliklerini değerlendirdiğimde, diyabet ve tansiyon gibi faktörler present değildir. Bu nedenle, hastanın sepsis riski levelini "Orta" olarak değerlendirmek daha uygun olacaktır.
+
+Sonuç olarak, hastanın kontrolsüz emfl amatuvar yanıtı (SIRS) ve potansiyel bakteriyemi ile ilgili riskleri göz önünde bulundurularak, immediate antibiyotik tedavisi ve diğer support tedavilerinden önce, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, urgent müdahale gerektirir.
+============================================================
+
+HASTA BAŞVURU NO: 7579548
+----------------------------------------
+Hastanın hayati bulgularını değerlendirdiğimizde, aşağıdaki sonuçlar elde edilebilir:
+
+- Ateş: 36.7
+- Nabız: 83
+- Tansiyon: 107/88
+- Solunum Hızı: 16
+- Oksijen Saturasyonu: 88
+- Glaskow Koma Skoru: Toplam 15.0 (Göz: 4.0, Sözel: 5.0, Motor: 6.0)
+
+Bu bulgular, hastanın sepsis ve septik şok tanısı alındığı sonucuna ulaşılabilir.
+
+Laboratuvar sonuçlarını değerlendirdiğimizde, aşağıdaki sonuçlar elde edilebilir:
+
+- Beyaz Kan Hücresi (WBC): 8,80
+- Trombosit (PLT): 380.0
+- Nötrofil (NE): 8,61
+- Kreatinin: 1.53
+- Laktat: 1.91
+- Prokalsitonin: 0.605
+- CRP: 96.09
+
+Bu sonuçlar, hastanın sepsis ve septik şok tanısı alındığı sonucuna ulaşılabilir.
+
+Hastanın general riski, yüksek seviyede olduğu sonucuna ulaşılmıştır.
+
+Sonuç: Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7579563
+----------------------------------------
+Hastanın hayati bulgularını değerlendirdiğimizde, ateş 36.3 derece, nabız 81, tansiyon 173/97, solunum hızı 19 ve glaskow koma skoru toplam 15.0 olarak görülmektedir.
+
+Hastanın laboratuvar sonuçlarını değerlendirdiğimizde, beyaz kan hücresi (WBC) 8.78, trombosit (PLT) 220.0, nötrofil (NE) 7.28, kreatinin 3.61 ve laktat 2.43 olarak görülmektedir.
+
+Hastanın kronik hastalıkları olarak diyabet, tansiyon ve kalp yetmezliği olduğu görülmektedir.
+
+Bu bulguların kombinasyonunda, hastanın general sepsis riski orta seviyede olduğu görülmektedir.
+============================================================
+
+HASTA BAŞVURU NO: 7579738
+----------------------------------------
+Hastanın hayati bulgularını değerlendirdiğimde, aşağıdaki sonuçlar elde edildi:
+
+- Ateş: 38.1
+- Nabız: 130
+- Tansiyon: 103/62
+- Solunum Hızı: 16
+- Oksijen Saturasyonu: 96
+- Glaskow Koma Skoru: Toplam 15.0 (Göz: 4.0, Sözel: 5.0, Motor: 6.0)
+
+Bu bulgular, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, immediate antibiyotik tedavisi ve diğer destek tedavilerinden önce, en geç 30 dakika içinde cerrahi müdahaleyi gerçekleştirmek gerektiği conclusionuna varıldığı için, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, immediate antibiyotik tedavisi ve diğer destek tedavilerinden önce, en geç 30 dakika içinde cerrahi müdahaleyi gerçekleştirmek gerektiği conclusionuna varıldığı için, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, immediate antibiyotik tedavisi ve diğer destek tedavilerinden önce, en geç 30 dakika içinde cerrahi müdahaleyi gerçekleştirmek gerektiği conclusionuna varıldığı için, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, immediate antibiyotik tedavisi ve diğer destek tedavilerinden önce, en geç 30 dakika içinde cerrahi müdahaleyi gerçekleştirmek gerektiği conclusionuna varıldığı için, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, immediate antibiyotik tedavisi ve diğer destek tedavilerinden önce, en geç 30 dakika içinde cerrahi müdahaleyi gerçekleştirmek gerektiği conclusionuna varıldığı için, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, immediate antibiyotik tedavisi ve diğer destek tedavilerinden önce, en geç 30 dakika içinde cerrahi müdahaleyi gerçekleştirmek gerektiği conclusionuna varıldığı için, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, immediate antibiyotik tedavisi ve diğer destek tedavilerinden önce, en geç 30 dakika içinde cerrahi müdahaleyi gerçekleştirmek gerektiği conclusionuna varıldığı için, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, immediate antibiyotik tedavisi ve diğer destek tedavilerinden önce, en geç 30 dakika içinde cerrahi müdahaleyi gerçekleştirmek gerektiği conclusionuna varıldığı için, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, immediate antibiyotik tedavisi ve diğer destek tedavilerinden önce, en geç 30 dakika içinde cerrahi müdahaleyi gerçekleştirmek gerektiği conclusionuna varıldığı için, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, immediate antibiyotik tedavisi ve diğer destek tedavilerinden önce, en geç 30 dakika içinde cerrahi müdahaleyi gerçekleştirmek gerektiği conclusionuna varıldığı için, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, immediate antibiyotik tedavisi ve diğer destek tedavilerinden önce, en geç 30 dakika içinde cerrahi müdahaleyi gerçekleştirmek gerektiği conclusionuna varıldığı için, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, immediate antibiyotik tedavisi ve diğer destek tedavilerinden önce, en geç 30 dakika içinde cerrahi müdahaleyi gerçekleştirmek gerektiği conclusionuna varıldığı için, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, immediate antibiyotik tedavisi ve diğer destek tedavilerinden önce, en geç 30 dakika içinde cerrahi müdahaleyi gerçekleştirmek gerektiği conclusionuna varıldığı için, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, immediate antibiyotik tedavisi ve diğer destek tedavilerinden önce, en geç 30 dakika içinde cerrahi müdahaleyi gerçekleştirmek gerektiği conclusionuna varıldığı için, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, immediate antibiyotik tedavisi ve diğer destek tedavilerinden önce, en geç 30 dakika içinde cerrahi müdahaleyi gerçekleştirmek gerektiği conclusionuna varıldığı için, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, immediate antibiyotik tedavisi ve diğer destek tedavilerinden önce, en geç 30 dakika içinde cerrahi müdahaleyi gerçekleştirmek gerektiği conclusionuna varıldığı için, hastanın sepsis riski levelini "Yüksek" olarak değerlendirdiğimden, immediate antibiyotik tedavisi ve diğer destek tedavilerinden önce, en geç 30 dakika içinde cerrahi müdahaleyi gerçekleştirmek gerektiği conclusionuna varıldığı için, hastanın sepsis riski levelini "Yüksek" olarak
+============================================================
+
+HASTA BAŞVURU NO: 7582259
+----------------------------------------
+Hastanın hayati bulgularını değerlendirdiğimizde, ateş 36.7 derece, nabız 134, tansiyon 109/74, solunum hızı 22, oksijen saturasyonu 83 ve glaskow koma skoru toplam 15.0 (göz: 4.0, sözel: 5.0, motor: 6.0) olarak görülmektedir.
+
+Hastanın laboratuvar sonuçlarını değerlendirdiğimizde, beyaz kan hücresi (WBC) 9.12, trombosit (PLT) 327.0, nötrofil (NE) 7.74, kreatinin 0.95, laktat 1.43 ve prokalsitonin 0.103 olarak görülmektedir.
+
+Hastanın kronik hastalıkları ve özelliklerini değerlendirdiğimizde, diyabet, tansiyon ve kalp yetmezliği gibi durumlar bilinmiyor, ancak kanser (CA) varlığı olduğu görülmektedir.
+
+Bu nedenle, hastanın sepsis riski yüksek olarak değerlendirilmelidir.
+============================================================
+

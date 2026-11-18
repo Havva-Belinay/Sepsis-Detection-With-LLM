@@ -1,0 +1,353 @@
+=== SEPSİS RİSK DEĞERLENDİRME SONUÇLARI (RAG - KILAVUZ DESTEKLİ) ===
+
+HASTA BAŞVURU NO: 7573990
+----------------------------------------
+Merhaba, ben Dr. [Adınız] ve siz de iyi günler dilerim. Şimdiden teşekkür ederim.
+
+Hastanın klinik verileri ve laboratuvar sonuçları ile risk değerlendirmesi için aşağıdaki bilgileri değerlendiriyorum:
+
+**Hayati Bulgular:**
+
+- Ateş: 37,0 (Normal)
+- Nabız: 113 (Normal)
+- Tansiyon: 11/66 (Normal)
+- Solunum Hızı: 16 (Normal)
+- Oksijen Saturasyonu: 91 (Normal)
+- Glaskow Koma Skoru: Toplam 15.0 (Göz: 4.0, Sözel: 5.0, Motor: 6.0) (Orta)
+
+**Laboratuvar Sonuçları:**
+
+- Beyaz Kan Hücresi (WBC): 9,67 (Elevated)
+- Trombosit (PLT): 97.0 (Normal)
+- Nötrofil (NE): 9,22 (Elevated)
+- Kreatinin: <0,17 (Normal)
+- Laktat: 5.82 (Elevated)
+- Prokalsitonin: 6.17 (Elevated)
+- CRP: 98.4 (Elevated)
+
+**Risk Değerlendirmesi:**
+
+Hastanın genel sepsis riski Yüksek olarak değerlendirmek gerekir, çünkü hastanın WBC, NE, Laktat ve CRP değerleri elevated olarak gösterilmektedir. Bu values, sepsis riskinin yüksek olabileceğini göstermektedir.
+
+**Sonuç:**
+Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7574288
+----------------------------------------
+Merhaba, ben Dr. [Adınız] ve siz de iyi günler dilerim. Şimdiden teşekkür ederim.
+
+Hastanın hayati bulgularını değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Ateş: 36,5 (Orta)
+- Nabız: 88 (Orta)
+- Tansiyon: 128/83 (Yüksek)
+- Solunum Hızı: 16 (Düşük)
+- Oksijen Saturasyonu: 98 (Orta)
+- Glaskow Koma Skoru: Toplam 15.0 (Göz: 4.0, Sözel: 5.0, Motor: 6.0) (Yüksek)
+
+Bu bulgular, hastanın sepsis riski levelini Yüksek olarak değerlendirmemizi sağlar.
+
+Laboratuvar sonuçlarını değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Beyaz Kan Hücresi (WBC): 7,6 (Orta)
+- Trombosit (PLT): 85.0 (Orta)
+- Nötrofil (NE): 38,43 (Yüksek)
+- Kreatinin: 1.41 (Orta)
+- Laktat: 9.53 (Yüksek)
+- Prokalsitonin: 0.222 (Orta)
+- CRP: 86.1 (Yüksek)
+
+Bu sonuçlar, hastanın sepsis riski levelini Yüksek olarak değerlendirmemizi sağlar.
+
+Hastanın kronik hastalıkları ve özelliklerini değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Diyabet: Bilinmiyor
+- Tansiyon: Bilinmiyor
+- Kalp Yetmezliği: Bilinmiyor
+- KOAH: Bilinmiyor
+- Böbrek Yetmezliği: Bilinmiyor
+- Kanser: Bilinmiyor
+
+Bu sonuçlar, hastanın sepsis riski levelini Yüksek olarak değerlendirmemizi sağlar.
+
+Sonuç olarak, hastanın hayati bulguları, laboratuvar sonuçları ve kronik hastalıkları, sepsis riski levelini Yüksek olarak göstermektedir.
+============================================================
+
+HASTA BAŞVURU NO: 7575901
+----------------------------------------
+Merhaba, ben Dr. [Adınız] ve siz de iyi günler dilerim. Şimdiden teşekkür ederim.
+
+Hastanın hayati bulgularını değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Ateş: 36.8°C
+- Nabız: 92/dakika
+- Tansiyon: 150/62 mmHg
+- Solunum Hızı: 16/dakika
+- Oksijen Saturasyonu: 87%
+- Glaskow Koma Skoru: Toplam 15.0 (Göz: 4.0, Sözel: 5.0, Motor: 6.0)
+
+Bu bulgular, hastanın sepsis ve septic shock gibi ciddi durumlarla mücadele ettiğini göstermektedir.
+
+Ayrıca laboratuvar sonuçlarını değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Beyaz Kan Hücresi (WBC): 13.46
+- Trombosit (PLT): 160.0
+- Nötrofil (NE): 11.83
+- Kreatinin: 0.65
+- Laktat: 3.52
+- Prokalsitonin: Bilinmiyor
+- CRP: 257.7
+
+Bu sonuçlar, hastanın vücutta bir dizi patolojik proses ile mücadele ettiğini göstermektedir.
+
+Hastanın kronik hastalıkları ve özelliklerini değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Diyabet: Bilinmiyor
+- Tansiyon: Bilinmiyor
+- Kalp Yetmezliği: Bilinmiyor
+- KOAH: Bilinmiyor
+- Böbrek Yetmezliği: Bilinmiyor
+- Kanser: Bilinmiyor
+
+Bu sonuçlar, hastanın diyabet ve tansiyon gibi bazı kronik hastalıklara sahip olduğunu göstermektedir.
+
+Sonuç olarak, hastanın hayati bulguları ve laboratuvar sonuçları, sepsis ve septic shock gibi ciddi durumlarla mücadele ettiğini göstermektedir.
+============================================================
+
+HASTA BAŞVURU NO: 7576684
+----------------------------------------
+Merhaba, ben Dr. [Adınız] ve siz de iyi günler dilerim. Şimdiden teşekkür ederim.
+
+Hastanın hayati bulgularını değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Ateş: 36,5°C
+- Nabız: 118/dakika
+- Tansiyon: 140/83 mmHg
+- Solunum Hızı: 16/dakika
+- Oksijen Saturasyonu: 96%
+- Glaskow Koma Skoru: Toplam 15.0 (Göz: 4.0, Sözel: 5.0, Motor: 6.0)
+
+Bu bulgular, hastanın sepsis ve shock durumuna işaret ediyor. Ateş ve nabız artışı, tansiyonun yükselmesi ve solunum hızı increase, hastanın vücutta oksijen taşıma sorunları yaşadığını gösteriyor.
+
+Laboratuvar sonuçlarını değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Beyaz Kan Hücresi (WBC): 15.86 x 10^9/L
+- Trombosit (PLT): 214.0 x 10^9/L
+- Nötrofil (NE): 13.69 x 10^9/L
+- Kreatinin: 1.43 mg/dL
+- Laktat: 2.42 mmol/L
+- Prokalsitonin: 32.4 ng/mL
+- CRP: 108.08 mg/L
+
+Bu sonuçlar, hastanın vücutta enfeksiyon varlığını ve kemik iliği hasarı olduğunu gösteriyor.
+
+Hastanın kronik hastalıklarını değerlendirdiğimizde, diyabet ve tansiyon problemi varken kalp yetmezliği yok.
+
+Risk değerlendirme:
+- Sepsis riski: Yüksek
+
+Sonuç:
+Yüksek
+============================================================
+
+HASTA BAŞVURU NO: 7577755
+----------------------------------------
+Merhaba, ben Dr. [Adınız] ve siz de iyi günler dilerim. Şimdiden teşekkür ederim.
+
+Hastanın hayati bulgularını değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Ateş: 36,5°C
+- Nabız: 114/dakika
+- Tansiyon: 120/73 mmHg
+- Solunum Hızı: 16/dakika
+- Oksijen Saturasyonu: 94%
+- Glaskow Koma Skoru: Toplam 15.0 (Göz: 4.0, Sözel: 5.0, Motor: 6.0)
+
+Bu bulgular, hastanın akut sepsis durumunu doğruluyor ve solunum yetmezliği, tansiyon yükselmesi ve oksijen saturasyonu düşüklüğü gibi risk faktörleri olduğunu gösteriyor.
+
+Laboratuvar sonuçlarını değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Beyaz Kan Hücresi (WBC): 9,27 x 10^9/L
+- Trombosit (PLT): 996.0 x 10^9/L
+- Nötrofil (NE): 8,07 x 10^9/L
+- Kreatinin: 0.68 mg/dL
+- Laktat: Bilinmiyor
+- Prokalsitonin: 0.575 ng/mL
+- CRP: 9.5 mg/L
+
+Bu sonuçlar, hastanın white blood cell countu yükselişini ve trombosit countu yüksekliğini gösteriyor, ancak laktat değerinin bilinmemesi ve prokalsitonin değerlerinin normal sınırlar içinde olduğunu belirtmek gerekiyor.
+
+Hastanın general riski, sepsis riski leveli olarak "Yüksek" olarak sınıflandırılıyor.
+============================================================
+
+HASTA BAŞVURU NO: 7579405
+----------------------------------------
+Merhaba, ben Dr. [Adınız] ve siz de iyi günler dilerim. Şimdiden teşekkür ederim.
+
+Hastanın hayati bulgularını değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Ateş: 36,5°C
+- Nabız: 88/dakika
+- Tansiyon: 128/83 mmHg
+- Solunum Hızı: 16/dakika
+- Oksijen Saturasyonu: 98%
+- Glaskow Koma Skoru: Toplam 15.0 (Göz: 4.0, Sözel: 5.0, Motor: 6.0)
+
+Bu bulgular, hastanın sepsis ve septic shock gibi ciddi durumlarla mücadele ettiğini göstermektedir.
+
+Şimdi laboratuvar sonuçlarını değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Beyaz Kan Hücresi (WBC): 18,86/μL
+- Trombosit (PLT): 493.0/μL
+- Nötrofil (NE): 16,13%
+- Kreatinin: 0.77 mg/dL
+- Laktat: Bilinmiyor
+- Prokalsitonin: Bilinmiyor
+- CRP: 259.07 mg/L
+
+Bu sonuçlar, hastanın vücutta bir dizi patolojik proses ile mücadele ettiğini göstermektedir.
+
+Son olarak, risk değerlendirmesi yaparken, aşağıdaki sonuçlar elde ediyoruz:
+
+Hastanın general sepsis riski: Yüksek
+
+Bu sonuçlar, hastanın sepsis ve septic shock gibi ciddi durumlarla mücadele ettiğini göstermektedir.
+============================================================
+
+HASTA BAŞVURU NO: 7579548
+----------------------------------------
+Merhaba, ben Dr. [Adınız] ve siz de iyi günler dilerim. Şimdiden teşekkür ederim.
+
+Hastanın hayati bulgularını değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Ateş: 36,7°C
+- Nabız: 83/dakika
+- Tansiyon: 107/88 mmHg
+- Solunum Hızı: 16/dakika
+- Oksijen Saturasyonu: 88%
+- Glaskow Koma Skoru: Toplam 15.0 (Göz: 4.0, Sözel: 5.0, Motor: 6.0)
+
+Bu bulgular, hastanın sepsis ve shock durumunu göstermektedir. Ateş ve solunum hızı artmışken, tansiyon da yüksek seviyede foundeられている.
+
+Laboratuvar sonuçlarını değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Beyaz Kan Hücresi (WBC): 8,80 x 10^9/L
+- Trombosit (PLT): 380.0 x 10^9/L
+- Nötrofil (NE): 8,61 x 10^9/L
+- Kreatinin: 1.53 mg/dL
+- Laktat: 1.91 mmol/L
+- Prokalsitonin: 0.605 ng/mL
+- CRP: 96.09 mg/L
+
+Bu sonuçlar, hastanın sepsis ve shock durumunu further desteklemektedir.
+
+Hastanın kronik hastalıkları ve özelliklerini değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Diyabet: Evet
+- Tansiyon: Evet
+- Kalp Yetmezliği: Bilinmiyor
+
+Bu information, hastanın sepsis ve shock durumunu further desteklemektedir.
+
+Hastanın genel sepsis riskini değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Sepsis riski: Yüksek
+
+Bu sonuç, hastanın sepsis ve shock durumunu göstermektedir.
+
+Sonuç olarak, hastanın hayati bulguları, laboratuvar sonuçları ve kronik hastalıkları, sepsis ve shock durumunu further desteklemektedir.
+============================================================
+
+HASTA BAŞVURU NO: 7579563
+----------------------------------------
+Merhaba, ben Dr. [Adınız] ve siz de iyi günler dilerim. Şimdiden teşekkür ederim.
+
+Hastanın hayati bulgularını değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Ateş: 36.3 (Normal sıcaklık 36.5-37.5°C)
+- Nabız: 81 (Normal nabız 60-100/dakika)
+- Tansiyon: 173/97 (Normal tansiyon 90-140/60-90 mmHg)
+- Solunum Hızı: 19 (Normal solunum hızı 12-20/dakika)
+- Oksijen Saturasyonu: 78 (Normal oksijen saturasyonu 95-100%)
+- Glaskow Koma Skoru: Toplam 15.0 (Göz: 4.0, Sözel: 5.0, Motor: 6.0) (Normal glaskow koma skoru 3-5)
+
+Hastanın hayati bulguları, general durduruluğun önemli bir semptomudur ve hastanın durumunu daha da kötüleştirebilir.
+
+Laboratuvar sonuçlarını değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Beyaz Kan Hücresi (WBC): 8.78 (Normal WBC 4.5-11.0 x 10^9/L)
+- Trombosit (PLT): 220.0 (Normal PLT 150-450 x 10^9/L)
+- Nötrofil (NE): 7.28 (Normal NE 1.5-6.0 x 10^9/L)
+- Kreatinin: 3.61 (Normal kreatinin 0.6-1.2 mg/dL)
+- Laktat: 2.43 (Normal laktat 0.5-2.0 mmol/L)
+
+Hastanın laboratuvar sonuçları, diyabet ve tansiyon hastalığı gibi kronik hastalıkların semptomlarını göstermektedir.
+
+Risk değerlendirmesi olarak, hastanın general durduruluğun semptomlarını ve kronik hastalıkları gibi risk faktörlerini değerlendirdiğimizde, general sepsis riski yüksek olarak sınıflandırılmaktadır.
+============================================================
+
+HASTA BAŞVURU NO: 7579738
+----------------------------------------
+Merhaba, ben Dr. [Adınız] ve siz de iyi günler dilerim. Şimdiden teşekkür ederim.
+
+Hastanın hayati bulgularını değerlendirdiğimizde, ateş 38.1 derece olarak görülmektedir. Nabız hızı 130/dakika, tansiyon 103/62 mmHg ve solunum hızı 16/dakika olarak belirlenmiştir. Oksijen saturasyonu 96% olarak görülmektedir.
+
+Ayrıca hastanın glaskow koma skoru toplam 15.0 olarak belirlenmiştir. Bu değer, hastanın durumunun ciddi olduğunu göstermektedir.
+
+Hastanın laboratuvar sonuçlarını değerlendirdiğimizde, beyaz kan hücresi (WBC) 9.21 x 10^9/L olarak görülmektedir. Trombosit (PLT) 236.0 x 10^9/L ve nötrofil (NE) 8.94 x 10^9/L olarak belirlenmiştir.
+
+Kreatinin 0.73 mg/dL ve laktat 2.5 mmol/L olarak görülmektedir. Prokalsitonin değerleri bilinmiyor, CRP ise <0.5 mg/L olarak belirlenmiştir.
+
+Hastanın kronik hastalıkları hakkında bilgi verilmediği için, bu değerler basis olarak alınmaktadır.
+
+Risimde, hastanın genel sepsis riski "Yüksek" olarak sınıflandırılmaktadır.
+
+Sonuç olarak, hastanın durumunun ciddi olduğunu göstermektedir. Hastaya en kısa sürede tedavi ve destek verilmesi gerektiği belirtilmelidir.
+============================================================
+
+HASTA BAŞVURU NO: 7582259
+----------------------------------------
+Merhaba, ben Dr. [Adınız] ve siz de iyi günler dilerim. Şimdiden teşekkür ederim.
+
+Hastanın hayati bulgularını değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Ateş: 36,7°C (normal sıcaklık 37,5-38,5°C)
+- Nabız: 134/dakika (normal nabız 60-100/dakika)
+- Tansiyon: 109/74 mmHg (normal tansiyon 90-140/60-90 mmHg)
+- Solunum Hızı: 22/dakika (normal solunum hızı 12-20/dakika)
+- Oksijen Saturasyonu: 83% (normal oksijen saturasyonu 95-100%)
+- Glaskow Koma Skoru: Toplam 15.0 (Göz: 4.0, Sözel: 5.0, Motor: 6.0)
+
+Bu bulgular, hastanın sepsis ve septic shock gibi ciddi durumlarla mücadele ettiğini göstermektedir.
+
+Ayrıca laboratuvar sonuçlarını değerlendirdiğimizde, aşağıdaki sonuçlar elde ediyoruz:
+
+- Beyaz Kan Hücresi (WBC): 9,12 x 10^9/L (normal WBC 4-11 x 10^9/L)
+- Trombosit (PLT): 327.0 x 10^9/L (normal PLT 150-450 x 10^9/L)
+- Nötrofil (NE): 7,74 x 10^9/L (normal NE 1-4 x 10^9/L)
+- Kreatinin: 0.95 mg/dL (normal kreatinin 0.6-1.2 mg/dL)
+- Laktat: 1.43 mmol/L (normal laktat 0.5-2.0 mmol/L)
+- Prokalsitonin: 0.103 ng/mL (normal prokalsitonin <0.3 ng/mL)
+- CRP: 27.2 mg/L (normal CRP <10 mg/L)
+
+Bu sonuçlar, hastanın vücutta inflamasyon ve enfeksiyon gibi durumlarla mücadele ettiğini göstermektedir.
+
+Hastanın genel sepsis riski, aşağıdaki factors nedeniyle yüksek seviyede olduğu için, "Yüksek" olarak değerlendirmek gerekir:
+
+- Ateş
+- Nabız
+- Tansiyon
+- Solunum Hızı
+- Oksijen Saturasyonu
+- Beyaz Kan Hücresi (WBC)
+- Trombosit (PLT)
+- Nötrofil (NE)
+- Kreatinin
+- Laktat
+- Prokalsitonin
+- CRP
+
+Bu sonuçlar, hastanın sepsis ve septic shock gibi ciddi durumlarla mücadele ettiğini göstermektedir.
+============================================================
+
